@@ -1,1 +1,5 @@
 # Put patch URLs here, 1 per line
+https://www.nexon.com/maplestory/news/update/26290/v-259-victoria-cup-20th-anniversary-patch-notes
+https://www.nexon.com/maplestory/news/update/23927/updated-3-19-v-258-maple-story-x-demon-slayer-kimetsu-no-yaiba-patch-notes
+https://www.nexon.com/maplestory/news/update/13518/v-160-black-heaven-first-chapter-patch-notes
+https://www.nexon.com/maplestory/news/update/13486/v-146-return-to-masteria-patch-notes
