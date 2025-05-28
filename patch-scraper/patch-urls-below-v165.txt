@@ -1,6 +1,6 @@
 # Put patch URLs here, 1 per line
 https://www.nexon.com/maplestory/news/update/13486/v-146-return-to-masteria-patch-notes
-https://www.nexon.com/maplestory/news/update/13488/v-148-grand-athenaeum-update-highlights
+https://www.nexon.com/maplestory/news/update/13489/v-148-grand-athenaeum-patch-notes
 https://www.nexon.com/maplestory/news/update/13492/v-149-legacy-of-nine-patch-notes
 https://www.nexon.com/maplestory/news/update/13495/v-150-rising-heroes-elite-patch-notes
 https://www.nexon.com/maplestory/news/update/13498/v-151-rising-heroes-echoes-of-darkness-patch-notes
