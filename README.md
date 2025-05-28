@@ -1,6 +1,859 @@
 <details>
+  <summary>
+    v259 (Apr 28, 2025)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/26290/v-259-victoria-cup-20th-anniversary-patch-notes
+
+  - New Updates: New Job: Mo Xuan
+  - New Updates: Xiao Xiao's Level-Up Support
+  - New Updates: Tanjiro Job Conversion
+  - New Updates: Fast Character Switch
+  - New Updates: Added Familiars
+  - Victoria Cup Events: Victoria Soccer
+  - Victoria Cup Events: The Legends Return!
+  - Victoria Cup Events: Victoria Cup Homecoming Mission
+  - Victoria Cup Events: Ultimate Collab
+  - Victoria Cup Events: Boat Racing
+  - Victoria Cup Events: Stamp Exchange
+  - Victoria Cup Events: Meso Shop
+  - Victoria Cup Events: Badge Exchange
+  - Victoria Cup Events: Trophy Exchange
+  - Victoria Cup Events: Balloon Pop Challenge
+  - Victoria Cup Events: Legion Pop Challenge
+  - Victoria Cup Events: Shadow Hurdle Race
+  - Victoria Cup Events: Long Distance Running
+  - Victoria Cup Events: Snack Break
+  - Victoria Cup Events: Magical Paper Plane
+  - Victoria Cup Events: Heat of the Festival
+  - Victoria Cup Events: Goodbye, Victoria Cup
+  - Other Events: Watch [Althea Saga] Episode 2 Video
+  - Other Events: Hit the Road
+  - Other Events: Sunny Sunday
+  - Bug Fixes: Bug Fixes
+</details>
+
+<details>
+  <summary>
+    v258 (Mar 18, 2025)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/23927/updated-3-19-v-258-maple-story-x-demon-slayer-kimetsu-no-yaiba-patch-notes
+
+  - New Updates: Auto-Harvest Profession System
+  - New Updates: Steam Community Market (Beta)
+  - MapleStory x Demon Slayer: Kimetsu no Yaiba Collaboration: Tanjiro’s Training Event
+  - MapleStory x Demon Slayer: Kimetsu no Yaiba Collaboration: Tanjiro’s Journal
+  - MapleStory x Demon Slayer: Kimetsu no Yaiba Collaboration: Tanjiro’s Maple Expedition
+  - MapleStory x Demon Slayer: Kimetsu no Yaiba Collaboration: Zenitsu and Inosuke’s Maple Expedition
+  - MapleStory x Demon Slayer: Kimetsu no Yaiba Collaboration: Demon Slayer Corps Training Journal
+  - MapleStory x Demon Slayer: Kimetsu no Yaiba Collaboration: Demon Slayer Training Test
+  - MapleStory x Demon Slayer: Kimetsu no Yaiba Collaboration: Coin Flip Challenge
+  - Other Events: NEW Rock Spirit’s Golden Giveaway
+  - Other Events: Luxe Sauna
+  - Other Events: Interactive Worlds Player Survey
+  - Other Events: Sunny Sunday
+  - Bug Fixes: Bug Fixes
+</details>
+
+<details>
+  <summary>
+    v257 (Feb 11, 2025)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/23160/v-257-tallahart-grave-of-the-gods-patch-notes
+
+  - New Updates: Tallahart
+  - New Updates: Skill Improvements and Bug Fixes
+  - New Updates: Common
+  - New Updates: Job
+  - New Updates: Other Improvements and Bug Fixes
+  - New Updates: Monster
+  - New Updates: Map
+  - New Updates: UI
+  - New Updates: Quest
+  - New Updates: Item
+  - New Updates: NPC
+  - New Updates: Cash Shop
+  - New Updates: Monster Collection Updates
+  - Burning Events: Champion Burning Double Up
+  - Burning Events: Champion Burning Double Up Coin Shop
+  - Burning Events: Champion Burning Challenge
+  - Burning Events: Champion Burning Challenge Coin Shop
+  - Burning Events: Burning World Leap
+  - Extradimensional Visitors Events: Extradimensional Visitors
+  - Extradimensional Visitors Events: Tirnog Hashtag
+  - Extradimensional Visitors Events: Blueprints for Tirnog
+  - Extradimensional Visitors Events: Gob's Gift
+  - Extradimensional Visitors Events: Tyrobot Playground
+  - Extradimensional Visitors Events: Dimensional Spring Exchange
+  - Extradimensional Visitors Events: Tirnog Meso Shop
+  - Other Events: Space Star Pink Bean
+  - Other Events: Sunny Sunday
+</details>
+
+<details>
+  <summary>
+    v256 (Dec 16, 2024)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/21376/updated-2-12-2025-v-256-the-dark-ride-limbo-patch-notes
+
+  - New Updates: New Boss: Limbo
+  - New Updates: New Eternal and Brilliant Boss Accessories
+  - New Updates: Epic Dungeon: Angler Company
+  - New Updates: HEXA Stat Node II
+  - Dark Maplemas Events: Dark Maplemas
+  - Dark Maplemas Events: Do You Fear What I Fear?
+  - Dark Maplemas Events: Ghastly the Snowman
+  - Dark Maplemas Events: Wicked Wonderland
+  - Dark Maplemas Events: Jingle Knells
+  - Dark Maplemas Events: Wreck the Halls
+  - Dark Maplemas Events: O Holy Fright Mini-Game
+  - Dark Maplemas Events: Slay Ride Mini-Game
+  - Dark Maplemas Events: [Home] Maplemas
+  - Burning Events: Burning Express
+  - Burning Events: Champion Burning Double Up
+  - Burning Events: Champion Burning Double Up Coin Shop
+  - Burning Events: Item Burning
+  - Burning Events: Zero to One Hundred
+  - Burning Events: Hyper Burning
+  - Burning Events: Blossoming by Moonshade Hyper Burning
+  - Burning Events: Blossoming by Moonshade: Flower Scroll - Aran
+  - Burning Events: Blossoming by Moonshade: Moon Scroll - Shade
+  - Burning Events: Tera Blink
+  - Burning Events: Burning World
+  - Burning Events: Burning World Leap
+  - Extradimensional Visitors Events: Extradimensional Visitors
+  - Extradimensional Visitors Events: Blueprints for Tirnog
+  - Extradimensional Visitors Events: Gob’s Gift
+  - Extradimensional Visitors Events: Tyrobot Playground
+  - Extradimensional Visitors Events: Dimensional Crack Expedition
+  - Extradimensional Visitors Events: Solaha’s Energy Research
+  - Extradimensional Visitors Events: Dimensional Spring Exchange
+  - Extradimensional Visitors Events: Tirnog Meso Shop
+  - Page of Memories Events: Page of Memories
+  - Page of Memories Events: Von Leon’s Elite Swordsmanship
+  - Page of Memories Events: Book of Unforgettable Festivals
+  - Page of Memories Events: Book of Forgotten Festivals
+  - Page of Memories Events: Azwan Shamaness Blessing
+  - Page of Memories Events: Preserving Secret Records
+  - Page of Memories Events: Secret Record Training Center
+  - Page of Memories Events: Festival Record Training Center
+  - Other Events: New Year Event: Blue Snake’s Wish
+  - Other Events: Frenzy of the Source
+  - Other Events: New Name Auction
+  - Other Events: The Dark Ride: Ride or Die
+  - Other Events: Sunny Sunday
+  - Other Events: Spell Trace Fever Time
+  - Other Events: Miracle Time
+  - Bug Fixes: Bug Fixes
+</details>
+
+<details>
+  <summary>
+    v255 (Nov 19, 2024)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/21375/updated-12-05-2024-v-255-the-dark-ride-ride-or-die-patch-notes
+
+  - New Updates: Aran Redux
+  - New Updates: Shade Redux
+  - New Updates: Skill Improvements and Bug Fixes
+  - New Updates: Level-up Flow Changes
+  - New Updates: Intense Power Crystal Revamp
+  - New Updates: Familiars: Hotel Arcus
+  - New Updates: Boss/Monster Changes and Bug Fixes
+  - New Updates: Monster Park Changes
+  - New Updates: NPC Changes and Bug Fixes
+  - New Updates: UI Changes and Bug Fixes
+  - New Updates: Maple Planner
+  - New Updates: V Matrix Improvements
+  - New Updates: Buff Display Settings System
+  - New Updates: Damage Skin UI Changes
+  - New Updates: Item Changes and Bug Fixes
+  - New Updates: Quest Changes and Bug Fixes
+  - New Updates: Map Changes and Bug Fixes
+  - New Updates: Guild Castle Revamp
+  - New Updates: Exceptional Enhancement Changes
+  - New Updates: Epic Dungeon Changes and Bug Fixes
+  - New Updates: Fog Forest Training Grounds Changes
+  - New Updates: Collector’s Request
+  - The Dark Ride: Ride or Die Event: The Dark Ride: Ride or Die
+  - Page of Memories Events: Page of Memories
+  - Page of Memories Events: Book of Unforgettable Festivals
+  - Page of Memories Events: Book of Forgotten Festivals
+  - Page of Memories Events: Azwan Shamaness Blessing
+  - Page of Memories Events: Von Leon’s Swordsmanship
+  - Page of Memories Events: Preserving Secret Records
+  - Page of Memories Events: Secret Record Training Center
+  - Page of Memories Events: Festival Record Training Center
+  - Page of Memories Events: Meso Shop
+  - Burning Events: Item Burning
+  - Burning Events: Zero to One Hundred
+  - Burning Events: Hyper Burning
+  - Burning Events: Blossoming by Moonshade Hyper Burning
+  - Burning Events: Blossoming by Moonshade: Flower Scroll - Aran
+  - Burning Events: Blossoming by Moonshade: Moon Scroll - Shade
+  - Burning Events: Tera Blink
+  - Burning Events: Burning World
+  - Burning Events: Burning World Leap
+  - Other Events: Sunny Sunday
+  - Other Events: Spell Trace Fever Time
+</details>
+
+<details>
+  <summary>
+    v254 (Oct 8, 2024)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/20934/updated-11-15-v-254-midnight-carnival-ludibrium-patch-notes
+
+  - Night Troupe Events: Night Troupe
+  - Night Troupe Events: Festival Designer Rank
+  - Night Troupe Events: Party Planner
+  - Night Troupe Events: Get Your Time Travel Tickets Here!
+  - Night Troupe Events: Ludibrium Fireworks Display
+  - Night Troupe Events: Clickity-Clack Toy Factory
+  - Night Troupe Events: Knocking Down Blockulatus
+  - Night Troupe Events: Plucky Doll Claw Machine
+  - Night Troupe Events: Rink Rage Bumper Rumble
+  - Night Troupe Events: Starry with a Chance of Toys
+  - Night Troupe Events: Lucky Candy Dispenser
+  - Other Events: Rock Spirit Golden Giveaway
+  - Other Events: Maple Fashion Week
+  - Other Events: [Home] Halloween
+  - Other Events: Legion Relay
+  - Other Events: Sunny Sunday
+  - Other Events: Spell Trace Fever Time
+  - Other Events: Cash Inventory Transfer Event
+  - Bug Fixes: Bug Fixes
+</details>
+
+<details>
+  <summary>
+    v253 (Aug 27, 2024)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/18317/updated-9-29-v-253-maple-story-x-bugcat-capoo-patch-notes
+
+  - New Updates: Lotus Redux
+  - New Updates: Skill Improvements and Bug Fixes
+  - New Updates: Guild System Improvements
+  - New Updates: Boss Improvements and Bug Fixes
+  - New Updates: Map Improvements and Bug Fixes
+  - New Updates: Quest Improvements and Bug Fixes
+  - New Updates: Item Improvements and Bug Fixes
+  - New Updates: Profession Skill Improvements
+  - New Updates: NPC Improvements and Bug Fixes
+  - New Updates: Familiar Improvements
+  - New Updates: UI Improvements and Bug Fixes
+  - New Updates: Legion Improvements
+  - New Updates: Story Content Improvements
+  - New Updates: Grand Athenaeum: Maple Chronicle
+  - New Updates: Monster Collection
+  - New Updates: Express Pass
+  - New Updates: Windows Support Update
+  - MapleStory x BUGCAT CAPOO: CAPOO’S Grand Dungeon Adventure
+  - Events: Nexon 30-Year Anniversary Event
+  - Events: Chu Chu Special Slushy
+  - Events: Toward the Black Heaven
+  - Events: I Haven’t Done Anything
+  - Events: Rock Spirit's Golden Giveaway
+  - Events: Burning World Leap
+  - Events: Sunny Sunday
+  - Events: Spell Trace Fever Time
+</details>
+
+<details>
+  <summary>
+    v252 (Jul 16, 2024)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/17655/updated-8-26-2024-v-252-go-west-patch-notes
+
+  - New Updates: New Common Node
+  - New Updates: New Mastery Node
+  - New Updates: Sengoku Class Improvements and Bug Fixes
+  - New Updates: Angelic Buster Improvements
+  - New Updates: Familiars Update
+  - New Updates: Pharaoh’s Treasure
+  - New Updates: Legion Artifact Updates
+  - New Updates: System Changes
+  - Burning Events: Hyper Burning
+  - Burning Events: Tera Blink
+  - Burning Events: Burning World
+  - Burning Events: Burning World Step Up!
+  - Burning Events: Burning World Leap
+  - Angelic Buster x Lucid: [Angelic Buster x Lucid] Dream Concert
+  - Angelic Buster x Lucid: [Angelic Buster x Lucid] Dream Concert: Complete Conquest!
+  - Angelic Buster x Lucid: [Angelic Buster x Lucid] Dream Player
+  - Dreaming Lachelein Events: Dreamer Zero to One Hundred
+  - Dreaming Lachelein Events: Dreaming Lachelein
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Midnight Party
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Dream Messenger
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Lachelein Banquet: Tea Party
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Lachelein Banquet: Dessert
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Midnight Dreamcatcher Season 2
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Midnight Dreamcatcher Season 3
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Gallina’s Tomato Festival
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Gallina’s Golden Tomato Festival
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Day Dream Party
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Monster Arcade Season 2: Supernatural Yut
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Monster Arcade Season 2: Seesaw
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Monster Arcade Season 3: Skyscraper Clocktower
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Monster Arcade Season 3: Monster Pyramid
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Gold Richie’s Safe
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Gold Richie’s Mask Shop
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Reverie Fragment Shop
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Dance Fragment Shop
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Night Fragment Shop
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Meso Shop
+  - GO WEST! Events: [GO WEST!] Concert Board with LOVE!
+  - GO WEST! Events: [GO WEST!] Maple World Tour is a HIT!
+  - GO WEST! Events: [GO WEST!] Ready to ROCK Again!
+  - GO WEST! Events: [GO WEST!] Special Star Queue Encore
+  - Other Events: Tinkerer's Chest
+  - Other Events: Spell Trace Fever Time
+  - Other Events: Sunny Sunday
+  - Other Events: Miracle Time
+  - Bug Fixes: Bug Fixes
+</details>
+
+<details>
+  <summary>
+    v251 (Jun 11, 2024)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/17541/updated-8-26-2024-v-251-go-west-patch-notes
+
+  - New Updates: Angelic Buster Redux
+  - New Updates: Epic Dungeon: High Mountain
+  - New Updates: Legion Artifact
+  - New Updates: Preset Improvements
+  - New Updates: V Matrix Improvements
+  - New Updates: Skill Improvements and Bug Fixes
+  - New Updates: Quest Improvements and Bug Fixes
+  - New Updates: Item Improvements and Bug Fixes
+  - New Updates: Boss Improvements and Bug Fixes
+  - New Updates: Map Improvements and Bug Fixes
+  - New Updates: UI Improvements and Bug Fixes
+  - New Updates: Other Improvements and Bug Fixes
+  - New Updates: System Changes
+  - Burning Events: Hyper Burning
+  - Burning Events: Tera Blink
+  - Burning Events: Burning World
+  - Burning Events: Burning World Step Up!
+  - Burning Events: Burning World Leap
+  - Dreaming Lachelein Events: Dreamer Zero to One Hundred
+  - Dreaming Lachelein Events: Dreaming Lachelein
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Midnight Party
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Dream Messenger
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Lachelein Banquet
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Lachelein Banquet: Tea Party
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Midnight Dreamcatcher Season 1
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Midnight Dreamcatcher Season 2
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Gallina's Tomato Festival
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Monster Arcade
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Monster Arcade Season 1: Thinking of You
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Monster Arcade Season 1: One Card
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Monster Arcade Season 2: Supernatural Yut
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Monster Arcade Season 2: Seesaw
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Gold Richie's Treasure Hunt
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Gold Richie's Safe
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Reverie Fragment Shop
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Dance Fragment Shop
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Night Fragment Shop
+  - Dreaming Lachelein Events: [Dreaming Lachelein] Meso Shop
+  - GO WEST! Events: [GO WEST!] Concert Board
+  - GO WEST! Events: [GO WEST!] Maple World Tour
+  - GO WEST! Events: [GO WEST!] It's Showtime
+  - GO WEST! Events: [GO WEST!] Star Queue
+  - GO WEST! Events: [GO WEST!] MapleStory 7,000 Days
+  - GO WEST! Events: [GO WEST!] Spell Trace Fever Time
+  - Other Events: The [Comeback! Battleground Idol!] Event
+  - Other Events: Sunny Sunday
+  - Other Events: Miracle Time
+  - Bug Fixes & Known Issues: Bug Fixes
+  - Bug Fixes & Known Issues: Known Issues
+</details>
+
+<details>
+  <summary>
+    v250 (Apr 30, 2024)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/17123/updated-5-1-v-250-mayple-island-patch-notes
+
+  - Lynn: New Job Lynn
+  - Lynn: Lynn Skills
+  - Lynn: Beast Tamer to Lynn Transfer
+  - Lynn: Great Tree Memories
+  - New Updates: Zero Character Creation Changes
+  - New Updates: Princess No and Hieizan Improvements
+  - Mayple Island Events: Mayple Island
+  - Mayple Island Events: Mayple Wish Orb
+  - Mayple Island Events: Mayple Fiesta
+  - Mayple Island Events: Mayple Fiesta UP!
+  - Mayple Island Events: Dungeon Blast
+  - Mayple Island Events: Frozen Blast
+  - Mayple Island Events: Mayple Memoria
+  - Mayple Island Events: Mayple Express
+  - Mayple Island Events: Infinity Race
+  - Mayple Island Events: Club V Dance Party
+  - Mayple Island Events: Momentree Kitchen
+  - Mayple Island Events: Mayple Survey
+  - Mayple Island Events: New Companion
+  - Mayple Island Events: Mayple’s Heartwarming Dream
+  - Mayple Island Events: Letter on Maple Leaf
+  - Mayple Island Events: Mayple Candy Shop
+  - Mayple Island Events: Mayple Star Shop
+  - Mayple Island Events: Mayple Leaf Shop
+  - Mayple Island Events: Meso Shop
+  - New Events: A Mysterious Invitation
+  - Other Events: Tera Burning Booster
+  - Other Events: Cash Inventory Transfer Event
+  - Other Events: Fairy Bros’ Golden Giveaway
+  - Other Events: Sunny Sunday
+  - Other Events: Spell Trace Fever Time
+  - Bug Fixes & Known Issues: Bug Fixes
+</details>
+
+<details>
+  <summary>
+    v249 (Mar 19, 2024)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/17101/updated-4-18-v-249-minar-picnic-patch-notes
+
+  - New Updates: Grand Athenaeum: Book of Grandis
+  - New Updates: Grand Athenaeum Episode 7: Sefirot’s Gardener
+  - New Updates: Quests and Story Improvements
+  - New Updates: Boss Improvements
+  - New Updates: Map and NPC Improvements
+  - New Updates: Item Improvements
+  - New Updates: UI and Other Improvements
+  - New Updates: Job Balance Changes
+  - Minar Picnic Events: Minar Picnic
+  - Minar Picnic Events: Halflinger Treasure Hunt
+  - Minar Picnic Events: Halflinger Pinwheel Play: Maple Leaf Sliding
+  - Minar Picnic Events: Once More! Halflinger Flower Viewing
+  - Minar Picnic Events: Forest Blast
+  - Minar Picnic Events: Drop the Acorn
+  - Minar Picnic Events: Make Bracelet
+  - Minar Picnic Events: Red Maple Leaf General Store
+  - Minar Picnic Events: Yellow Maple Leaf Store
+  - Other Events: [Grand Athenaeum] Episode 7 Release Celebration Rewards!
+  - Other Events: Tinkerer’s Chest
+  - Other Events: Fairy Bros’ Golden Giveaway
+  - Other Events: Sunny Sunday
+  - Other Events: Spell Trace Fever Time
+  - Bug Fixes & Known Issues: Bug Fixes
+</details>
+
+<details>
+  <summary>
+    v248 (Feb 22, 2024)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/16858/updated-3-18-v-248-maple-story-x-konosuba-patch-notes
+
+  - MapleStory X KONOSUBA Events: Aqua's Cheer
+  - MapleStory X KONOSUBA Events: Megumin's Explosion Magic
+  - MapleStory X KONOSUBA Events: Darkness's Joyful Sacrifice
+  - MapleStory X KONOSUBA Events: Kazuma's Small Fortune
+  - New Updates: World Selection Reorganization
+  - New Updates: Instanced Sacred Power Hunting Zones
+  - New Events: Spiegelette’s Strawberry Farm
+  - New Events: Gold Richie’s Safe
+  - New Events: [Home] New Year’s
+  - Burning Events: Burning World Leap
+  - Other Events: End Of Jett Open Advancement
+  - Other Events: Fairy Bros’ Golden Giveaway
+  - Other Events: Sunny Sunday
+  - Other Events: Spell Trace Fever Time
+  - Bug Fixes & Known Issues: Bug Fixes
+</details>
+
+<details>
+  <summary>
+    v247 (Dec 12, 2023)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/13317/updated-december-20-v-247-new-age-into-the-abyss-patch-notes
+
+  - New Updates: New Boss Difficulty
+  - New Updates: Battleship Arteria
+  - New Updates: Carcion, the Cradle of Life
+  - New Updates: Grand Athenaeum: Maple Chronicle
+  - New Updates: Content Improvements and Changes
+  - Abyssal Expedition Events: Abyssal Expedition
+  - Abyssal Expedition Events: Mercenaries
+  - Abyssal Expedition Events: Command Rank
+  - Abyssal Expedition Events: Abyss
+  - Abyssal Expedition Events: Rewards
+  - Abyssal Expedition Events: Shops
+  - New Age Burning Events: Hyper Burning
+  - New Age Burning Events: Burning World
+  - New Age Burning Events: New! Burning Step Up
+  - New Age Burning Events: Burning World Leap
+  - New Age Events: New Age Zero to One Hundred
+  - New Age Events: Summer and Winter Island, Identisk
+  - New Age Events: [Identisk] Identisk Exploration
+  - New Age Events: [Identisk] Gift of Identisk
+  - New Age Events: [Identisk] Tisk Food Storehouse
+  - New Age Events: [Identisk] Tisk Tropical Adventure
+  - New Age Events: [Identisk] Toong's Prayer
+  - New Age Events: [Identisk] Coconut Smash Challenge
+  - New Age Events: [Identisk] Identisk Food Storage
+  - New Age Events: [Identisk] Identisk Hunting Adventure
+  - New Age Events: [Identisk] Dance of Sun and Wind
+  - New Age Events: [Identisk] Identisk Festival
+  - New Age Events: [Identisk] Sunlight Coin Shop
+  - New Age Events: [Identisk] Wind Coin Shop
+  - New Age Events: [Identisk] Meso Shop
+  - New Age Events: Instanced Sacred Power Hunting Zones
+  - Holiday Events: [Home] Maplemas
+  - Holiday Events: Maplemas: Rudi and the Giant Tree
+  - Holiday Events: New Year: Legendary Blue Dragon
+  - Other Events: Zero Creation Event
+  - Other Events: Reboot Hyperion Grand Opening Event
+  - Other Events: Jett Job Advancement
+  - Other Events: Sunny Sunday
+  - Other Events: Spell Trace Fever Time
+  - Bug Fixes & Known Issues: Bug Fixes
+  - Bug Fixes & Known Issues: Known Issues
+</details>
+
+<details>
+  <summary>
+    v246 (Nov 14, 2023)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/5341/updated-november-21-v-246-new-age-6th-job-patch-notes
+
+  - 6th Job: 6th Job
+  - 6th Job: Hexa Matrix
+  - 6th Job: 6th Job Skills
+  - Reboot Updates: Reboot World Name Changes
+  - Reboot Updates: Reboot World Changes
+  - Reboot Updates: New World: Reboot Hyperion
+  - Reboot Updates: Reboot Hyperion Grand Opening Event
+  - New Updates: Growth Revamp
+  - New Updates: Grandis Region Revamp
+  - New Updates: Sinners' Paradise: Shangri-La
+  - New Updates: Grand Athenaeum: Maple Chronicle
+  - New Updates: Tower of Oz Revamp
+  - New Updates: Special Skill Ring Revamp
+  - New Updates: Skill Improvements
+  - New Updates: Ability Improvements
+  - New Updates: V Matrix Improvements
+  - New Updates: Better Maple
+  - New Updates: Quest and Item Improvements
+  - New Updates: Monster Improvements
+  - New Updates: Map and UI Improvements
+  - New Updates: Resolution System Improvements
+  - New Updates: Content Improvements and Changes
+  - New Age Burning Events: Hyper Burning
+  - New Age Burning Events: Burning World
+  - New Age Burning Events: New! Burning Step Up
+  - New Age Burning Events: Burning World Leap
+  - New Age Events: New Age Zero to One Hundred
+  - New Age Events: Summer and Winter Island, Identisk
+  - New Age Events: [Identisk] Identisk Exploration
+  - New Age Events: [Identisk] Gift of Identisk
+  - New Age Events: [Identisk] Iden Food Storehouse
+  - New Age Events: [Identisk] Iden Aqua Adventure
+  - New Age Events: [Identisk] Rambunctious Iden Friends
+  - New Age Events: [Identisk] Tisk Food Storehouse
+  - New Age Events: [Identisk] Tisk Tropical Adventure
+  - New Age Events: [Identisk] Toong's Prayer
+  - New Age Events: [Identisk] Sunlight Coin Shop
+  - New Age Events: [Identisk] Wind Coin Shop
+  - New Age Events: [Identisk] Meso Shop
+  - New Age Events: Instanced Sacred Power Hunting Zones
+  - Other Events: Jett Job Advancement
+  - Other Events: Journey Toward the Sixth Star Rewards
+  - Other Events: Sunny Sunday
+  - Other Events: Spell Trace Fever Time
+  - Bug Fixes & Known Issues: Bug Fixes
+</details>
+
+<details>
+  <summary>
+    v245 (Oct 12, 2023)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/5296/updated-11-8-v-245-midnight-carnival-nautilus-patch-notes
+
+  - New Updates: Permanent Second Pendant Slot
+  - New Updates: Boss Prerequisite Changes
+  - New Updates: Load Time Improvements
+  - Night Troupe Events: Night Troupe
+  - Night Troupe Events: Designer Rank
+  - Night Troupe Events: Festival Decorating
+  - Night Troupe Events: Special Perks
+  - Night Troupe Events: Treasure Hunt Experience
+  - Night Troupe Events: Nautilus Fireworks Festival
+  - Night Troupe Events: Spiegelette's Potion Bar
+  - Night Troupe Events: Tangyoon's Crazy Feast
+  - Night Troupe Events: King Pirate Vikin's Flex
+  - Night Troupe Events: Shipwreck Your Stress!
+  - Night Troupe Events: Lawless Nautilus Shooting Range
+  - Night Troupe Events: Find the Real Spiegelmann
+  - Night Troupe Events: Shulynch's Pirate Roulette
+  - New Events: [Home] Halloween
+  - New Events: Spooky Halloween
+  - New Events: Magic Slate
+  - New Events: World's Best Punch King Rewards
+  - New Events: Journey Toward the Sixth Star
+  - Other Events: Cash Inventory Transfer Event
+  - Other Events: Jett Job Advancement
+  - Other Events: Fairy Bros' Golden Giveaway
+  - Other Events: Sunny Sunday
+  - Other Events: Spell Trace Fever Time
+  - Bug Fixes & Known Issues: Bug Fixes
+  - Bug Fixes & Known Issues: Known Issues
+</details>
+
+<details>
+  <summary>
+    v244 (Aug 29, 2023)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/5239/updated-9-22-v-244-punch-king-palooza-patch-notes
+
+  - New Updates: Quality of Life Changes
+  - New Updates: Reboot World Changes
+  - New Updates: Skill Improvements
+  - New Updates: Grand Athenaeum: Maple Chronicle
+  - New Events: Tinkerer's Chest
+  - New Events: Spiegelmann and the Secret Ring Shop
+  - New Events: World's Best Punch King
+  - New Events: Tactical Relay
+  - New Events: Journey Toward the Sixth Star
+  - Burning Events: Burning World Leap
+  - Other Events: Fairy Bros’ Golden Giveaway
+  - Other Events: Jett Job Advancement
+  - Other Events: Sunny Sunday
+  - Other Events: Spell Trace Fever Time
+  - Bug Fixes: Bug Fixes
+  - Bug Fixes: Known Issues
+</details>
+
+<details>
+  <summary>
+    v243 (Jul 18, 2023)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/5172/updated-8-14-v-243-savior-shangri-la-kaling-patch-notes
+
+  - New Updates: Shangri-La
+  - New Updates: New Boss Kaling
+  - New Updates: Guild Castle
+  - New Updates: Guild Castle: Throne Room
+  - New Updates: Guild Castle: Lobby
+  - New Updates: Guild Castle: Guild Safes
+  - New Updates: Guild Castle: Conference Room
+  - New Updates: Guild Castle: Training Area
+  - New Updates: Guild Castle: Enhancement Altar
+  - New Updates: Guild Castle: Supply Station
+  - New Updates: Guild Castle: Library
+  - New Updates: Exceptional Enhancement and Eternal Equipment
+  - New Updates: New Achievements
+  - New Events: Journey Toward the Sixth Star
+  - New Events: Guild Castle Limited Time Opening Event
+  - New Events: Jett Job Advancement
+  - Wongstaurant Events: Wonky the Fairy’s Wongstaurant
+  - Wongstaurant Events: Wongstaurant Main Menu
+  - Wongstaurant Events: Wongstaurant Coin Shop
+  - Wongstaurant Events: Wongstaurant Boss Coin Shop
+  - Wongstaurant Events: Wongstaurant Meso Shop
+  - Wongstaurant Events: Wongstaurant Secret Week
+  - Wongstaurant Events: Wongstaurant Special Delivery Week
+  - Wongstaurant Events: Wongstaurant Healing Spa Week
+  - Wongstaurant Events: Wongstaurant Challenge Week
+  - Wongstaurant Events: Wongstaurant Last Order
+  - Burning Events: Hyper Burning
+  - Burning Events: Burning World
+  - Burning Events: Burning World Step Up
+  - Burning Events: Burning World Leap
+  - Other Events: Khali’s Journey
+  - Other Events: Khali’s Wish
+  - Other Events: Beast Tamer Creation
+  - Other Events: Zero Creation
+  - Other Events: Miracle Time
+  - Other Events: Sunny Sunday
+  - Other Events: Spell Trace Fever Time
+  - Bug Fixes: Bug Fixes and Known Issues
+</details>
+
+<details>
+  <summary>
+    v242 (Jun 13, 2023)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/5130/updated-7-7-v-242-savior-khali-wind-of-vengeance-patch-notes
+
+  - New Updates: New Job Khali
+  - New Updates: Khali Skills
+  - New Updates: Skill Improvements Per Job
+  - New Updates: Level Up Flow Revamp
+  - New Updates: Midnight Chaser
+  - New Updates: Equipment Enhancement Improvements
+  - New Updates: Character Stat UI Changes
+  - New Updates: Monster Life Improvements
+  - New Updates: Various Other QoL Updates
+  - New Updates: Option Changes
+  - Wongstaurant Events: Wonky the Fairy’s Wongstaurant
+  - Wongstaurant Events: Wongstaurant Main Menu
+  - Wongstaurant Events: Wongstaurant Coin Shop
+  - Wongstaurant Events: Wongstaurant Boss Coin Shop
+  - Wongstaurant Events: Wongstaurant Meso Shop
+  - Wongstaurant Events: Wongstaurant Greeting Week
+  - Wongstaurant Events: Wongstaurant Together Week
+  - Wongstaurant Events: Wongstaurant Mini-Game Week
+  - Wongstaurant Events: Wongstaurant Cheer Up Week
+  - Wongstaurant Events: Wongstaurant Bubble Bubble Week
+  - Burning Events: Hyper Burning
+  - Burning Events: Burning World
+  - Burning Events: Burning World Step Up
+  - Burning Events: Burning World Leap
+  - Other Events: Jett Job Advancement
+  - Other Events: Khali’s Journey
+  - Other Events: Khali’s Wish
+  - Other Events: Miracle Time
+  - Other Events: Sunny Sunday
+  - Other Events: Spell Trace Fever Time
+  - Bug Fixes: Bug Fixes
+</details>
+
+<details>
+  <summary>
+    v241 (May 2, 2023)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/5089/v-241-maple-momentree-patch-notes
+
+  - Maple Momentree Events: Maple Momentree
+  - Maple Momentree Events: Growth Journal
+  - Maple Momentree Events: Defeat Moles
+  - Maple Momentree Events: Magic Wardrobe
+  - Maple Momentree Events: Happy Playtime
+  - Maple Momentree Events: Cooking Collection
+  - Maple Momentree Events: Dolphin Fountain
+  - Maple Momentree Events: Click Click Momentree
+  - Maple Momentree Events: Puzzle Game
+  - Maple Momentree Events: Piggy Bank Lucky
+  - Maple Momentree Events: Memory Token Shop
+  - Maple Momentree Events: Challenge Token Shop
+  - Maple Momentree Events: Meso Shop
+  - Other New Events: Cash Inventory Transfer Event
+  - Other New Events: Spell Trace Fever Time
+  - Other New Events: Sunny Sunday
+  - Misc. Changes: Inactive Guild Removal
+  - Bug Fixes: Bug Fixes
+</details>
+
+<details>
+  <summary>
+    v240 (Mar 21, 2023)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/5031/updated-april-10-v-240-double-trouble-recharge-patch-notes
+
+  - New Updates: Grand Athenaeum: Maple Chronicle
+  - New Updates: Job Balance Changes
+  - New Updates: Boss UI Revamp
+  - New Updates: Quality of Life Improvements
+  - New Updates: Quest Improvements
+  - New Updates: Item Improvements
+  - New Updates: NPC Improvements
+  - New Updates: Monster Improvements
+  - New Updates: Map Improvements
+  - New Updates: UI Improvements
+  - New Updates: Bug Fixes
+  - Super Yeti x Pink Bean World Events: Super Yeti x Pink Bean World
+  - Super Yeti x Pink Bean World Events: Super Yeti x Pink Bean Step Up
+  - Super Yeti x Pink Bean World Events: Super Yeti x Pink Bean Stan's Letter
+  - Super Yeti x Pink Bean World Events: Super Yeti x Pink Bean Slime Meso Shop
+  - Other New Events: I Haven't Done Anything
+  - Other New Events: Find Pink Bean, One! Two! Three!
+  - Other New Events: Grow the Rock Spirit
+  - Other New Events: Spell Trace Fever Time
+  - Other New Events: Sunny Sunday
+</details>
+
+<details>
+  <summary>
+    v239 (Feb 7, 2023)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4982/updated-feb-21-v-239-neo-tokyo-patch-notes
+
+  - New Updates: Cube Revamp
+  - New Updates: Other Changes
+  - New Updates: Bug Fixes
+  - New Events: Neo Tokyo
+  - New Events: Super Haste
+  - New Events: Maple Hashtag
+  - New Events: Camila’s Pop-Up Store
+  - New Events: New Year's Celebratory Appreciation Gift
+  - Ignition Burning Events: Burning World Leap
+  - Ignition Burning Events: Burning World Special Perks
+  - Other Events: Fairy Bros’ Golden Giveaway
+  - Other Events: Spell Trace Fever Time
+  - Other Events: Sunny Sunday
+</details>
+
+<details>
+  <summary>
+    v238 (Dec 13, 2022)
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4945/update-jan-11-v-238-ignition-extreme-patch-notes
+
+  - Maple Expedition - Misty Island Legacy: Misty Island Legacy Chapters and Battles
+  - Maple Expedition - Misty Island Legacy: Misty Island Legacy Character and Survival Elements
+  - Maple Expedition - Misty Island Legacy: Misty Island Legacy Scenario and Achievements
+  - Maple Expedition - Misty Island Legacy: Misty Island Legacy Crafting
+  - New Updates: Odium, the Awakened Laboratory
+  - New Updates: Boss Extreme Mode
+  - New Updates: Other Changes
+  - New Updates: Bug Fixes
+  - Ignition Burning Events: Hyper Burning
+  - Ignition Burning Events: Burning World
+  - Ignition Burning Events: Burning World EXP Event
+  - Ignition Burning Events: Burning World Step Up
+  - Ignition Burning Events: Burning World Leap
+  - Fireworks Festival Parade Events: [Ignition] Fireworks Festival Parade
+  - Fireworks Festival Parade Events: [DJ Selena's Showtime!] Amazing Ignition
+  - Fireworks Festival Parade Events: [DJ Selena's Showtime!] Amazing Ignition Finale
+  - Fireworks Festival Parade Events: [Extreme Sports] The Legends Return!
+  - Fireworks Festival Parade Events: [Ignition] Attention Please!
+  - Fireworks Festival Parade Events: [Arcade Festival] Bounce Beach Ball
+  - Fireworks Festival Parade Events: [Arcade Festival] Puzzle Master
+  - Fireworks Festival Parade Events: Ignition Highlight
+  - Fireworks Festival Parade Events: Ignition Coin Shop
+  - Fireworks Festival Parade Events: Ignition Meso Shop
+  - Fireworks Festival Parade Events: Flare Coin Shop
+  - Hyper Ignition Events: [Hyper Ignition] Wonky the Fairy's Hyper Time
+  - Hyper Ignition Events: [Hyper Ignition] Blake's Hyper Ignition Game!
+  - Hyper Ignition Events: [Hyper Ignition] Mike's Mini-game Lounge
+  - Other Events: My Home - Maplemas
+  - Other Events: Orchid's New Year's Favors
+  - Other Events: Beast Tamer Creation
+  - Other Events: Zero Creation
+  - Other Events: [Cygnus Knights Remaster Event] Honor And Pride
+  - Other Events: Spell Trace Fever Time
+  - Other Events: Sunny Sunday
+</details>
+
+
+
+<details>
      <summary>
-            237 (Nov 15, 2022)
+            v237 (Nov 15, 2022)
      </summary>
 
      - Cygnus Knights Redux: Noblesse
@@ -47,7 +900,7 @@
 
 <details>
      <summary>
-            236 (Oct 04, 2022)
+            v236 (Oct 04, 2022)
      </summary>
 
      - New Updates: Content Changes
@@ -75,7 +928,7 @@
 
 <details>
      <summary>
-            235 (Aug 30, 2022)
+            v235 (Aug 30, 2022)
      </summary>
 
      - New Updates: Mu Lung Dojo Revamp
@@ -107,7 +960,7 @@
 
 <details>
      <summary>
-            234 (Jul 19, 2022)
+            v234 (Jul 19, 2022)
      </summary>
 
      - New Updates: Home: Miranda’s Shop
@@ -143,7 +996,7 @@
 
 <details>
      <summary>
-            233 (Jun 14, 2022)
+            v233 (Jun 14, 2022)
      </summary>
 
      - Explorer Redux: All Warriors
@@ -203,7 +1056,7 @@
 
 <details>
      <summary>
-            232 (Apr 26, 2022)
+            v232 (Apr 26, 2022)
      </summary>
 
      - New Updates: Content Changes
@@ -232,7 +1085,7 @@
 
 <details>
      <summary>
-            231 (Mar 15, 2022)
+            v231 (Mar 15, 2022)
      </summary>
 
      - New Updates: 64-bit Client
@@ -257,7 +1110,7 @@
 
 <details>
      <summary>
-            230 (Feb 08, 2022)
+            v230 (Feb 08, 2022)
      </summary>
 
      - New Updates: Tower of Oz Revamp
@@ -290,7 +1143,7 @@
 
 <details>
      <summary>
-            229 (Dec 14, 2021)
+            v229 (Dec 14, 2021)
      </summary>
 
      - New Updates: New Boss: Guardian Angel Slime 
@@ -331,7 +1184,7 @@
 
 <details>
      <summary>
-            228 (Nov 16, 2021)
+            v228 (Nov 16, 2021)
      </summary>
 
      - New Playable Character: Lara!: Lara
@@ -373,7 +1226,7 @@
 
 <details>
      <summary>
-            227 (Oct 05, 2021)
+            v227 (Oct 05, 2021)
      </summary>
 
      - MapleStory X BUGCAT CAPOO Event: MapleStory X BUGCAT CAPOO
@@ -412,7 +1265,7 @@
 
 <details>
      <summary>
-            225 (Aug 24, 2021)
+            v225 (Aug 24, 2021)
      </summary>
 
      - New Updates: Content Changes
@@ -438,7 +1291,7 @@
 
 <details>
      <summary>
-            224 (Jul 20, 2021)
+            v224 (Jul 20, 2021)
      </summary>
 
      - New Updates: New Boss: Seren
@@ -476,7 +1329,7 @@
 
 <details>
      <summary>
-            223 (Jun 08, 2021)
+            v223 (Jun 08, 2021)
      </summary>
 
      - New Playable Character: Kain!: Kain
@@ -518,7 +1371,7 @@
 
 <details>
      <summary>
-            222 (Apr 20, 2021)
+            v222 (Apr 20, 2021)
      </summary>
 
      - New Updates: Content Changes
@@ -549,7 +1402,7 @@
 
 <details>
      <summary>
-            221 (Mar 09, 2021)
+            v221 (Mar 09, 2021)
      </summary>
 
      - New Updates: Zipangu Revam: Showa Town
@@ -575,7 +1428,7 @@
 
 <details>
      <summary>
-            220 (Feb 02, 2021)
+            v220 (Feb 02, 2021)
      </summary>
 
      - New Updates: Job Balances
@@ -609,7 +1462,7 @@
 
 <details>
      <summary>
-            219 (Dec 15, 2020)
+            v219 (Dec 15, 2020)
      </summary>
 
      - New Updates: Reboot World Revamp
@@ -649,7 +1502,7 @@
 
 <details>
      <summary>
-            218 (Nov 17, 2020)
+            v218 (Nov 17, 2020)
      </summary>
 
      - New Updates: New 5th Job Skills
@@ -685,7 +1538,7 @@
 
 <details>
      <summary>
-            217 (Oct 06, 2020)
+            v217 (Oct 06, 2020)
      </summary>
 
      - New Updates: Content Changes
@@ -710,7 +1563,7 @@
 
 <details>
      <summary>
-            216 (Aug 25, 2020)
+            v216 (Aug 25, 2020)
      </summary>
 
      - New Updates: Content Changes
@@ -737,7 +1590,7 @@
 
 <details>
      <summary>
-            215 (Jul 21, 2020)
+            v215 (Jul 21, 2020)
      </summary>
 
      - New Updates: Familiar System Reopening
@@ -767,7 +1620,7 @@
 
 <details>
      <summary>
-            214 (Jun 09, 2020)
+            v214 (Jun 09, 2020)
      </summary>
 
      - New Playable Character: Adele!: Adele
@@ -809,7 +1662,7 @@
 
 <details>
      <summary>
-            213 (Apr 21, 2020)
+            v213 (Apr 21, 2020)
      </summary>
 
      - New Updates: Familiar System Revamp
@@ -852,7 +1705,7 @@
 
 <details>
      <summary>
-            212 (Mar 09, 2020)
+            v212 (Mar 09, 2020)
      </summary>
 
      - New Updates: Maple Tour
@@ -883,7 +1736,7 @@
 
 <details>
      <summary>
-            211 (Jan 27, 2020)
+            v211 (Jan 27, 2020)
      </summary>
 
      - New Updates: System Changes
@@ -907,7 +1760,7 @@
 
 <details>
      <summary>
-            210 (Dec 17, 2019)
+            v210 (Dec 17, 2019)
      </summary>
 
      - New Updates: Masteria &amp; New Leaf City Revamp
@@ -952,7 +1805,7 @@
 
 <details>
      <summary>
-            209 (Nov 18, 2019)
+            v209 (Nov 18, 2019)
      </summary>
 
      - New Playable Character: Hoyoung: Hoyoung
@@ -986,7 +1839,7 @@
 
 <details>
      <summary>
-            208 (Sep 30, 2019)
+            v208 (Sep 30, 2019)
      </summary>
 
      - New Updates: Cash Shop Revamp
@@ -1019,7 +1872,7 @@
 
 <details>
      <summary>
-            207 (Aug 26, 2019)
+            v207 (Aug 26, 2019)
      </summary>
 
      - New Content: World Merges
@@ -1044,7 +1897,7 @@
 
 <details>
      <summary>
-            206 (Jul 22, 2019)
+            v206 (Jul 22, 2019)
      </summary>
 
      - New Updates: Theme Dungeon: Partem Ruins
@@ -1077,7 +1930,7 @@
 
 <details>
      <summary>
-            205 (Jun 11, 2019)
+            v205 (Jun 11, 2019)
      </summary>
 
      - New Playable Character: Pathfinder: Meet Pathfinder!
@@ -1135,7 +1988,7 @@
 
 <details>
      <summary>
-            204 (Apr 23, 2019)
+            v204 (Apr 23, 2019)
      </summary>
 
      - LINE FRIENDS X MapleStory Events: A Surplus of Snapshots
@@ -1166,7 +2019,7 @@
 
 <details>
      <summary>
-            203 (Mar 05, 2019)
+            v203 (Mar 05, 2019)
      </summary>
 
      - Retro World Events: Promote the Game!
@@ -1192,7 +2045,7 @@
 
 <details>
      <summary>
-            202 (Jan 22, 2019)
+            v202 (Jan 22, 2019)
      </summary>
 
      - New Content: Tenebris Available Permanently
@@ -1237,7 +2090,7 @@
 
 <details>
      <summary>
-            201 (Dec 11, 2018)
+            v201 (Dec 11, 2018)
      </summary>
 
      - New Content: Labyrinth of Suffering
@@ -1277,7 +2130,7 @@
 
 <details>
      <summary>
-            2.00 (Nov 15, 2018)
+            v2.00 (Nov 15, 2018)
      </summary>
      
      - New Content: Maple Alliance Outpost
@@ -1310,7 +2163,7 @@
 
 <details>
      <summary>
-            1.99 (Oct 03, 2018)
+            v1.99 (Oct 03, 2018)
      </summary>
      
      - New Content: Fairy Bros Daily Gift
@@ -1338,7 +2191,7 @@
 
 <details>
      <summary>
-            1.98 (Aug 28, 2018)
+            v1.98 (Aug 28, 2018)
      </summary>
      
      - Cardcaptor Sakura: Clear Card Events: Maple Monsters
@@ -1361,7 +2214,7 @@
 
 <details>
      <summary>
-            1.97 (Jul 24, 2018)
+            v1.97 (Jul 24, 2018)
      </summary>
      
      - New Content: Monad
@@ -1393,7 +2246,7 @@
 
 <details>
      <summary>
-            1.96 (Jun 19, 2018)
+            v1.96 (Jun 19, 2018)
      </summary>
      
      - New Playable Character: Ark Intro
@@ -1431,7 +2284,7 @@
 
 <details>
      <summary>
-            1.95 (May 08, 2018)
+            v1.95 (May 08, 2018)
      </summary>
      
      - New Content: Fox Valley
@@ -1457,7 +2310,7 @@
 
 <details>
      <summary>
-            1.94 (Feb 27, 2018)
+            v1.94 (Feb 27, 2018)
      </summary>
      
      - 13th Anniversary Events: 13th Anniversary Stardust
@@ -1489,7 +2342,7 @@
 
 <details>
      <summary>
-            1.93 (Feb 27, 2018)
+            v1.93 (Feb 27, 2018)
      </summary>
      
      - Evangelion Events: Dr. Kim’s Daily Quests
@@ -1527,7 +2380,7 @@
 
 <details>
      <summary>
-            1.92 (Jan 16, 2018)
+            v1.92 (Jan 16, 2018)
      </summary>
      
      - Showdown Events: Mechanical Hearts
@@ -1562,7 +2415,7 @@
 
 <details>
      <summary>
-            1.91 (Dec 13, 2017)
+            v1.91 (Dec 13, 2017)
      </summary>
      
      - New Content: Grand Athenaeum: Winter Bard
@@ -1588,7 +2441,7 @@
 
 <details>
      <summary>
-            1.90 (Nov 28, 2017)
+            v1.90 (Nov 28, 2017)
      </summary>
      
      - New Playable Character:  Cadena Intro
@@ -1620,7 +2473,7 @@
 
 <details>
      <summary>
-            1.89 (Oct 17, 2017)
+            v1.89 (Oct 17, 2017)
      </summary>
      
      - Halloween Event: Hallowkitty’s Halloween Bash
@@ -1651,7 +2504,7 @@
 
 <details>
      <summary>
-            1.88 (Aug 29, 2017)
+            v1.88 (Aug 29, 2017)
      </summary>
      
      - New Content: A Better Maple
@@ -1684,7 +2537,7 @@
 
 <details>
      <summary>
-            1.87 (Jul 18, 2017)
+            v1.87 (Jul 18, 2017)
      </summary>
      
      - New Content: Dream Defender
@@ -1723,7 +2576,7 @@
 
 <details>
      <summary>
-            1.86 (Jun 20, 2017)
+            v1.86 (Jun 20, 2017)
      </summary>
      
      - New Content: New 5th Job Skills: V Matrix Update
@@ -1777,7 +2630,7 @@
 
 <details>
      <summary>
-            1.85 (May 10, 2017)
+            v1.85 (May 10, 2017)
      </summary>
      
      - Re:ZERO Events: Re:ZERO Attendance Check Event
@@ -1805,7 +2658,7 @@
 
 <details>
      <summary>
-            1.84 (Feb 28, 2017)
+            v1.84 (Feb 28, 2017)
      </summary>
      
      - 12th Terrorversary: Night of the Living Bean
@@ -1838,7 +2691,7 @@
 
 <details>
      <summary>
-            1.83 (Feb 28, 2017)
+            v1.83 (Feb 28, 2017)
      </summary>
      
      - New Content: Theme Dungeon: Kerning Tower
@@ -1863,7 +2716,7 @@
 
 <details>
      <summary>
-            1.80 (Jan 17, 2017)
+            v1.80 (Jan 17, 2017)
      </summary>
      
      - Appreciation Events: Player Appreciation ReVVard
@@ -1902,7 +2755,7 @@
 
 <details>
      <summary>
-            1.79 (Dec 14, 2016)
+            v1.79 (Dec 14, 2016)
      </summary>
      
      - New Content: 5th Job Advancement: 5th Job Overview
@@ -1933,7 +2786,7 @@
 
 <details>
      <summary>
-            1.78 (Nov 29, 2016)
+            v1.78 (Nov 29, 2016)
      </summary>
      
      - New Content: UI Revamp
@@ -1967,7 +2820,7 @@
 
 <details>
      <summary>
-            1.77 (Oct 18, 2016)
+            v1.77 (Oct 18, 2016)
      </summary>
      
      - New Content: The Afterlands
@@ -2005,7 +2858,7 @@
 
 <details>
      <summary>
-            1.76 (Sep 07, 2016)
+            v1.76 (Sep 07, 2016)
      </summary>
      
      - New Content: Mushroom Shrine
@@ -2028,7 +2881,7 @@
 
 <details>
      <summary>
-            1.75 (Jul 19, 2016)
+            v1.75 (Jul 19, 2016)
      </summary>
      
      - New Playable Character: Blaster
@@ -2045,7 +2898,7 @@
 
 <details>
      <summary>
-            1.74 (Jun 22, 2016)
+            v1.74 (Jun 22, 2016)
      </summary>
  
      - New Content: Heroes of Maple
@@ -2132,7 +2985,7 @@
 
 <details>
      <summary>
-            1.73 (May 17, 2016)
+            v1.73 (May 17, 2016)
      </summary>
  
      - Stellar Detectives quest line has been added
@@ -2142,7 +2995,7 @@
 
 <details>
      <summary>
-            1.72 (Apr 19, 2016)
+            v1.72 (Apr 19, 2016)
      </summary>
  
      - Many classes have received skill changes to balance them
@@ -2162,7 +3015,7 @@
 
 <details>
      <summary>
-            1.71 (Mar 09, 2016)
+            v1.71 (Mar 09, 2016)
      </summary>
  
      - Mastera Through Time parts 1 and 2 have been added
@@ -2176,7 +3029,7 @@
 
 <details>
      <summary>
-            1.70 (Jan 13, 2016)
+            v1.70 (Jan 13, 2016)
      </summary>
  
      - Ursus the Mighty has been added to the game
@@ -2188,7 +3041,7 @@
 
 <details>
      <summary>
-            1.69 (Dec 15, 2015)
+            v1.69 (Dec 15, 2015)
      </summary>
  
      - Kinesis has been added to the game
@@ -2198,7 +3051,7 @@
 
 <details>
      <summary>
-            1.68 (Dec 01, 2015)
+            v1.68 (Dec 01, 2015)
      </summary>
  
      - Most jobs have a skill change of some sort
@@ -2215,7 +3068,7 @@
 
 <details>
      <summary>
-            1.67 (Oct 28, 2015)
+            v1.67 (Oct 28, 2015)
      </summary>
  
      - Alishan has been added to the game
@@ -2225,7 +3078,7 @@
 
 <details>
      <summary>
-            1.66 (Oct 06, 2015)
+            v1.66 (Oct 06, 2015)
      </summary>
  
      - Kanna received a minor revamp
@@ -2238,7 +3091,7 @@
 
 <details>
      <summary>
-            1.63 (Jul 07, 2015)
+            v1.63 (Jul 07, 2015)
      </summary>
  
      - Beast Tamer has many skill changes (huge buffs)
@@ -2255,7 +3108,7 @@
 
 <details>
      <summary>
-            1.62 (May 19, 2015)
+            v1.62 (May 19, 2015)
      </summary>
  
      - 2x EXP coupons no longer have purchase restrictions between levels 201-249
@@ -2265,7 +3118,7 @@
 
 <details>
      <summary>
-            1.61 (Apr 20, 2015)
+            v1.61 (Apr 20, 2015)
      </summary>
  
      - Black Heaven acts 5 and 6 have been added
@@ -2277,7 +3130,7 @@
 
 <details>
      <summary>
-            1.60 (Mar 09, 2015)
+            v1.60 (Mar 09, 2015)
      </summary>
  
      - Battle Mage has been revamped
@@ -2296,7 +3149,7 @@
 
 <details>
      <summary>
-            1.58 (Dec 15, 2014)
+            v1.58 (Dec 15, 2014)
      </summary>
  
      - 
@@ -2307,7 +3160,7 @@
 
 <details>
      <summary>
-            1.57 (Dec 01, 2014)
+            v1.57 (Dec 01, 2014)
      </summary>
  
      - Minor skill changes for most classes
@@ -2333,7 +3186,7 @@
 
 <details>
      <summary>
-            1.56 (Oct 28, 2014)
+            v1.56 (Oct 28, 2014)
      </summary>
  
      - Night Walker has been revamped and now has a level cap of 250
@@ -2348,7 +3201,7 @@
 
 <details>
      <summary>
-            1.54 (Sep 16, 2014)
+            v1.54 (Sep 16, 2014)
      </summary>
  
      - Blaze Wizard has been revamped and now has a level cap of 250
@@ -2359,7 +3212,7 @@
 
 <details>
      <summary>
-            1.52 (Aug 11, 2014)
+            v1.52 (Aug 11, 2014)
      </summary>
  
      - Jett has been Revamped
@@ -2374,7 +3227,7 @@
 
 <details>
      <summary>
-            1.51 (Jul 08, 2014)
+            v1.51 (Jul 08, 2014)
      </summary>
  
      - Shade is added to the game
@@ -2387,7 +3240,7 @@
 
 <details>
      <summary>
-            1.50 (Jun 24, 2014)
+            v1.50 (Jun 24, 2014)
      </summary>
  
      - Instant KO chance is lowered in skills across the board
@@ -2416,7 +3269,7 @@
 
 <details>
      <summary>
-            1.49 (May 12, 2014)
+            v1.49 (May 12, 2014)
      </summary>
  
      - Wild Hunter has skill changes (minor buff)
@@ -2448,7 +3301,7 @@
 
 <details>
      <summary>
-            1.48 (Mar 20, 2014)
+            v1.48 (Mar 20, 2014)
      </summary>
  
      - Cannoneer is revamped
@@ -2473,7 +3326,7 @@
 
 <details>
      <summary>
-            1.46 (Feb 11, 2014)
+            v1.46 (Feb 11, 2014)
      </summary>
  
      - Masteria and its quest line have been updated
@@ -2484,7 +3337,7 @@
 
 <details>
      <summary>
-            1.45 (Jan 21, 2014)
+            v1.45 (Jan 21, 2014)
      </summary>
  
      - Beast Tamer is added
@@ -2496,7 +3349,7 @@
 
 <details>
      <summary>
-            1.44 (Dec 16, 2013)
+            v1.44 (Dec 16, 2013)
      </summary>
  
      - Zero has been added
@@ -2506,7 +3359,7 @@
 
 <details>
      <summary>
-            1.43 (Dec 04, 2013)
+            v1.43 (Dec 04, 2013)
      </summary>
  
      - Explorer classes have been revamped
@@ -2525,7 +3378,7 @@
 
 <details>
      <summary>
-            1.42 (Oct 16, 2013)
+            v1.42 (Oct 16, 2013)
      </summary>
  
      - Battle Mage, Wild Hunter, Phantom, Mercedes, Kaiser, Angelic Buster, Aran, Evan, Demon Avenger, and Xenon have skill revamps
@@ -2539,7 +3392,7 @@
 
 <details>
      <summary>
-            1.41 (Sep 04, 2013)
+            v1.41 (Sep 04, 2013)
      </summary>
  
      - Cygnus Classes have had some general changes (level cap increase)
@@ -2564,7 +3417,7 @@
 
 <details>
      <summary>
-            1.39 (Jul 22, 2013)
+            v1.39 (Jul 22, 2013)
      </summary>
  
      - Demon Avenger is added:
@@ -2574,7 +3427,7 @@
 
 <details>
      <summary>
-            1.38 (Jul 01, 2013)
+            v1.38 (Jul 01, 2013)
      </summary>
  
      - Xenon is added:
@@ -2584,7 +3437,7 @@
 
 <details>
      <summary>
-            1.37 (Jun 19, 2013)
+            v1.37 (Jun 19, 2013)
      </summary>
  
      - Many classes have minor hyper skill changes
@@ -2622,7 +3475,7 @@
 
 <details>
      <summary>
-            1.35 (May 21, 2013)
+            v1.35 (May 21, 2013)
      </summary>
  
      - Monster Life is added:
@@ -2631,7 +3484,7 @@
 
 <details>
      <summary>
-            1.32 (Apr 30, 2013)
+            v1.32 (Apr 30, 2013)
      </summary>
  
      - Paladin, Bowmaster, Marksman, Night Lord, Shadower, Cannon Shooter, Demon Slayer, Luminous, Kaiser, and Angelic Buster receive minor skill changes:
@@ -2648,7 +3501,7 @@
 
 <details>
      <summary>
-            1.31 (Mar 12, 2013)
+            v1.31 (Mar 12, 2013)
      </summary>
  
      - Hayato is added
@@ -2657,7 +3510,7 @@
 
 <details>
      <summary>
-            1.29 (Feb 26, 2013)
+            v1.29 (Feb 26, 2013)
      </summary>
  
      - Kanna is added
@@ -2667,7 +3520,7 @@
 
 <details>
      <summary>
-            1.27 (Jan 15, 2013)
+            v1.27 (Jan 15, 2013)
      </summary>
  
      - Root Abyss is added
@@ -2676,7 +3529,7 @@
 
 <details>
      <summary>
-            1.26 (Jan 08, 2013)
+            v1.26 (Jan 08, 2013)
      </summary>
  
      - Angelic Buster is added
@@ -2685,7 +3538,7 @@
 
 <details>
      <summary>
-            1.25 (Dec 14, 2012)
+            v1.25 (Dec 14, 2012)
      </summary>
  
      - Kaiser is added
@@ -2698,7 +3551,7 @@
 
 <details>
      <summary>
-            1.24 (Dec 04, 2012)
+            v1.24 (Dec 04, 2012)
      </summary>
  
      - Luminous is added
@@ -2707,7 +3560,7 @@
 
 <details>
      <summary>
-            1.23 (Nov 28, 2012)
+            v1.23 (Nov 28, 2012)
      </summary>
  
      - Many classes have minor skill changes
@@ -2720,7 +3573,7 @@
 
 <details>
      <summary>
-            1.21 (Nov 12, 2012)
+            v1.21 (Nov 12, 2012)
      </summary>
  
      - Battle Mage has been revamped
@@ -2732,7 +3585,7 @@
 
 <details>
      <summary>
-            1.18 (Sep 21, 2012)
+            v1.18 (Sep 21, 2012)
      </summary>
  
      - Warrior, Magician, Bowman, Cannoneer, Mercedes, and Demon Slayer are all revamped
@@ -2742,7 +3595,7 @@
 
 <details>
      <summary>
-            1.17 (Aug 31, 2012)
+            v1.17 (Aug 31, 2012)
      </summary>
  
      - Mihile is released
@@ -2751,7 +3604,7 @@
 
 <details>
      <summary>
-            1.15 (Aug 07, 2012)
+            v1.15 (Aug 07, 2012)
      </summary>
  
      - Dual Blade gets revamped
@@ -2765,7 +3618,7 @@
 
 <details>
      <summary>
-            1.12-1.14 (Jul 23, 2012)
+            v1.12-1.14 (Jul 23, 2012)
      </summary>
  
      - Phantom is released
@@ -2779,7 +3632,7 @@
 
 <details>
      <summary>
-            1.09 (Apr 12, 2012)
+            v1.09 (Apr 12, 2012)
      </summary>
  
      - Alliance Eternal game update
@@ -2801,7 +3654,7 @@
 
 <details>
      <summary>
-            1.08 (Mar 28, 2012)
+            v1.08 (Mar 28, 2012)
      </summary>
  
      - Bug Fix
@@ -2810,7 +3663,7 @@
 
 <details>
      <summary>
-            1.07 (Mar 14, 2012)
+            v1.07 (Mar 14, 2012)
      </summary>
  
      - New Alliance Quests
@@ -2830,7 +3683,7 @@
 
 <details>
      <summary>
-            1.06 (Feb 03, 2012)
+            v1.06 (Feb 03, 2012)
      </summary>
  
      - Crimsonwood Keep PQ returns.
@@ -2854,7 +3707,7 @@
 
 <details>
      <summary>
-            1.05 (Jan 19, 2012)
+            v1.05 (Jan 19, 2012)
      </summary>
  
      - Pink Zakum raid Event
@@ -2866,7 +3719,7 @@
 
 <details>
      <summary>
-            1.04 (Dec 08, 2011)
+            v1.04 (Dec 08, 2011)
      </summary>
  
      - New Job: Cannoneer
@@ -2928,7 +3781,7 @@
 
 <details>
      <summary>
-            1.03 (Nov 16, 2011)
+            v1.03 (Nov 16, 2011)
      </summary>
  
      - Bug Fix
@@ -2944,7 +3797,7 @@
 
 <details>
      <summary>
-            1.02 (Oct 27, 2011)
+            v1.02 (Oct 27, 2011)
      </summary>
  
      - Monster Familiar
@@ -2960,7 +3813,7 @@
 
 <details>
      <summary>
-            1.01 (Sep 28, 2011)
+            v1.01 (Sep 28, 2011)
      </summary>
  
      - Warrior, Magicians and Archer Skill Changes
@@ -2988,7 +3841,7 @@
 
 <details>
      <summary>
-            1.00 (Aug 11, 2011)
+            v1.00 (Aug 11, 2011)
      </summary>
  
      - Age of Triumph
@@ -3000,7 +3853,7 @@
 
 <details>
      <summary>
-            0.99 (Jun 29, 2011)
+            v0.99 (Jun 29, 2011)
      </summary>
  
      - Age of Heros
@@ -3027,7 +3880,7 @@
 
 <details>
      <summary>
-            0.98 (May 25, 2011)
+            v0.98 (May 25, 2011)
      </summary>
  
      - Cake vs. Pie Town Battles Event
@@ -3040,7 +3893,7 @@
 
 <details>
      <summary>
-            0.97 (Apr 27, 2011)
+            v0.97 (Apr 27, 2011)
      </summary>
  
      - Anniversary
@@ -3057,7 +3910,7 @@
 
 <details>
      <summary>
-            0.96 (Mar 10, 2011)
+            v0.96 (Mar 10, 2011)
      </summary>
  
      - Ultimate Explorer
@@ -3081,7 +3934,7 @@
 
 <details>
      <summary>
-            0.95 (Jan 19, 2011)
+            v0.95 (Jan 19, 2011)
      </summary>
  
      - Mechanics
@@ -3097,7 +3950,7 @@
 
 <details>
      <summary>
-            0.94 (Dec 20, 2010)
+            v0.94 (Dec 20, 2010)
      </summary>
  
      - Resistance Class
@@ -3114,7 +3967,7 @@
 
 <details>
      <summary>
-            0.92 (Nov 23, 2010)
+            v0.92 (Nov 23, 2010)
      </summary>
  
      - Improve compatibility with modern Windows operating systems
@@ -3148,7 +4001,7 @@
 
 <details>
      <summary>
-            0.91 (Oct 27, 2010)
+            v0.91 (Oct 27, 2010)
      </summary>
  
      - Introducing eTracer
@@ -3162,7 +4015,7 @@
 
 <details>
      <summary>
-            0.90 (Sep 29, 2010)
+            v0.90 (Sep 29, 2010)
      </summary>
  
      - Ice Gorge PQ
@@ -3174,7 +4027,7 @@
 
 <details>
      <summary>
-            0.89 (Aug 19, 2010) [R1]
+            v0.89 (Aug 19, 2010) [R1]
      </summary>
  
      - OSSS Secret Base
@@ -3187,7 +4040,7 @@
 
 <details>
      <summary>
-            0.88 (Jul 21, 2010)
+            v0.88 (Jul 21, 2010)
      </summary>
  
      - Dual Blade Class
@@ -3206,7 +4059,7 @@
 
 <details>
      <summary>
-            0.87 (Jun 23, 2010)
+            v0.87 (Jun 23, 2010)
      </summary>
  
      - Bug Fix
@@ -3217,7 +4070,7 @@
 
 <details>
      <summary>
-            0.86 (Jun 16, 2010)
+            v0.86 (Jun 16, 2010)
      </summary>
  
      - Friend Finder
@@ -3236,7 +4089,7 @@
 
 <details>
      <summary>
-            0.85 (May 05, 2010) Maple Story 5th Anniversary
+            v0.85 (May 05, 2010) Maple Story 5th Anniversary
      </summary>
  
      - Birthday Patch
@@ -3259,7 +4112,7 @@
 
 <details>
      <summary>
-            0.84 (Mar 31, 2010)
+            v0.84 (Mar 31, 2010)
      </summary>
  
      - Evan Class
@@ -3280,7 +4133,7 @@
 
 <details>
      <summary>
-            0.83 (Feb 22, 2010)
+            v0.83 (Feb 22, 2010)
      </summary>
  
      - Kerning Square Mall
@@ -3296,7 +4149,7 @@
 
 <details>
      <summary>
-            0.82 (Feb 10, 2010)
+            v0.82 (Feb 10, 2010)
      </summary>
  
      - Mardi Gras Event
@@ -3308,7 +4161,7 @@
 
 <details>
      <summary>
-            0.81 (Jan 20, 2010)
+            v0.81 (Jan 20, 2010)
      </summary>
  
      - Version Up: Monster Survival and New Medal
@@ -3318,7 +4171,7 @@
 
 <details>
      <summary>
-            0.80 (Dec 10, 2009)
+            v0.80 (Dec 10, 2009)
      </summary>
  
      - Aran Class
@@ -3339,7 +4192,7 @@
 
 <details>
      <summary>
-            0.79 (Nov 11, 2009)
+            v0.79 (Nov 11, 2009)
      </summary>
  
      - A November to Remember Events
@@ -3354,7 +4207,7 @@
 
 <details>
      <summary>
-            0.78 (Oct 22, 2009)
+            v0.78 (Oct 22, 2009)
      </summary>
  
      - Emergency Patch
@@ -3369,7 +4222,7 @@
 
 <details>
      <summary>
-            0.77 (Oct 22, 2009)
+            v0.77 (Oct 22, 2009)
      </summary>
  
      - Halloween Events
@@ -3392,7 +4245,7 @@
 
 <details>
      <summary>
-            0.76 (Sep 24, 2009)
+            v0.76 (Sep 24, 2009)
      </summary>
  
      - Spirit Week Event
@@ -3404,7 +4257,7 @@
 
 <details>
      <summary>
-            0.75 (Aug 26, 2009)
+            v0.75 (Aug 26, 2009)
      </summary>
  
      - New Nexon Logo in Game
@@ -3419,7 +4272,7 @@
 
 <details>
      <summary>
-            0.74 (Aug 12, 2009)
+            v0.74 (Aug 12, 2009)
      </summary>
  
      - Bug Fix
@@ -3428,7 +4281,7 @@
 
 <details>
      <summary>
-            0.73 (Jul 29, 2009)
+            v0.73 (Jul 29, 2009)
      </summary>
  
      - Cygnus Knights Class
@@ -3445,7 +4298,7 @@
 
 <details>
      <summary>
-            0.72 (Jun 24, 2009)
+            v0.72 (Jun 24, 2009)
      </summary>
  
      - Temple of Time (Pink Bean)
@@ -3460,7 +4313,7 @@
 
 <details>
      <summary>
-            0.71 (Jun 17, 2009)
+            v0.71 (Jun 17, 2009)
      </summary>
  
      - Bug Fix
@@ -3470,7 +4323,7 @@
 
 <details>
      <summary>
-            0.70 (May 07, 2009) Maple Story 4th Anniversary
+            v0.70 (May 07, 2009) Maple Story 4th Anniversary
      </summary>
  
      - Birthday Patch
@@ -3481,7 +4334,7 @@
 
 <details>
      <summary>
-            0.69 (Apr 28, 2009)
+            v0.69 (Apr 28, 2009)
      </summary>
  
      - Goodbye GameGaurd
@@ -3491,7 +4344,7 @@
 
 <details>
      <summary>
-            0.68 (Apr 10, 2009)
+            v0.68 (Apr 10, 2009)
      </summary>
  
      - Bug Fixes
@@ -3500,7 +4353,7 @@
 
 <details>
      <summary>
-            0.67 (Apr 08, 2009)
+            v0.67 (Apr 08, 2009)
      </summary>
  
      - New Party Quest features
@@ -3519,7 +4372,7 @@
 
 <details>
      <summary>
-            0.66 (Mar 05, 2009)
+            v0.66 (Mar 05, 2009)
      </summary>
  
      - Crimsonwood Keep Party Quest
@@ -3531,7 +4384,7 @@
 
 <details>
      <summary>
-            0.65 (Jan 23, 2009)
+            v0.65 (Jan 23, 2009)
      </summary>
  
      - Emergency Patch
@@ -3541,7 +4394,7 @@
 
 <details>
      <summary>
-            0.64 (Jan 22, 2009)
+            v0.64 (Jan 22, 2009)
      </summary>
  
      - 7th Day Market
@@ -3555,7 +4408,7 @@
 
 <details>
      <summary>
-            0.63 (Dec 17, 2008)
+            v0.63 (Dec 17, 2008)
      </summary>
  
      - Christmas
@@ -3567,7 +4420,7 @@
 
 <details>
      <summary>
-            0.62 (Nov 12, 2008)
+            v0.62 (Nov 12, 2008)
      </summary>
  
      - Pirate Class
@@ -3580,7 +4433,7 @@
 
 <details>
      <summary>
-            0.61 (Oct 15, 2008)
+            v0.61 (Oct 15, 2008)
      </summary>
  
      - Pre Pirate Quests
@@ -3593,7 +4446,7 @@
 
 <details>
      <summary>
-            0.60 (Sep 10, 2008)
+            v0.60 (Sep 10, 2008)
      </summary>
  
      - Bug Fix
@@ -3604,7 +4457,7 @@
 
 <details>
      <summary>
-            0.59 (Aug 14, 2008)
+            v0.59 (Aug 14, 2008)
      </summary>
  
      - New World - Yellonde
@@ -3616,7 +4469,7 @@
 
 <details>
      <summary>
-            0.58 (Jul 09, 2008)
+            v0.58 (Jul 09, 2008)
      </summary>
  
      - Summer Updates
@@ -3626,7 +4479,7 @@
 
 <details>
      <summary>
-            0.57 (Jun 26, 2008)
+            v0.57 (Jun 26, 2008)
      </summary>
  
      - Bug fix
@@ -3635,7 +4488,7 @@
 
 <details>
      <summary>
-            0.56 (Jun 20, 2008)
+            v0.56 (Jun 20, 2008)
      </summary>
  
      - Ariant
@@ -3646,7 +4499,7 @@
 
 <details>
      <summary>
-            0.55 (May 22, 2008) Maple Story 3rd Anniversary
+            v0.55 (May 22, 2008) Maple Story 3rd Anniversary
      </summary>
  
      - Maple Birthday Patch
@@ -3658,7 +4511,7 @@
 
 <details>
      <summary>
-            0.54 (May 07, 2008) [2]
+            v0.54 (May 07, 2008) [2]
      </summary>
  
      - Showa
@@ -3667,7 +4520,7 @@
 
 <details>
      <summary>
-            0.53 (Apr 02, 2008)
+            v0.53 (Apr 02, 2008)
      </summary>
  
      - Maple Trading System (MTS)
@@ -3678,7 +4531,7 @@
 
 <details>
      <summary>
-            0.52 (Mar 19, 2008)
+            v0.52 (Mar 19, 2008)
      </summary>
  
      - Easter Event
@@ -3690,7 +4543,7 @@
 
 <details>
      <summary>
-            0.51 (Feb 14, 2008)
+            v0.51 (Feb 14, 2008)
      </summary>
  
      - Valentine's Day
@@ -3701,7 +4554,7 @@
 
 <details>
      <summary>
-            0.50 (Jan 31, 2008)
+            v0.50 (Jan 31, 2008)
      </summary>
  
      - Bug fix
@@ -3710,7 +4563,7 @@
 
 <details>
      <summary>
-            0.49 (Jan 23, 2008)
+            v0.49 (Jan 23, 2008)
      </summary>
  
      - Final Job Advancement
@@ -3727,7 +4580,7 @@
 
 <details>
      <summary>
-            0.48 (Dec 13, 2007)
+            v0.48 (Dec 13, 2007)
      </summary>
  
      - Christmas Event
@@ -3736,7 +4589,7 @@
 
 <details>
      <summary>
-            0.47 (Nov 15, 2007)
+            v0.47 (Nov 15, 2007)
      </summary>
  
      - Thanksgiving event
@@ -3745,7 +4598,7 @@
 
 <details>
      <summary>
-            0.46 (Oct 31, 2007)
+            v0.46 (Oct 31, 2007)
      </summary>
  
      - Bugfix
@@ -3754,7 +4607,7 @@
 
 <details>
      <summary>
-            0.45 (Oct 25, 2007)
+            v0.45 (Oct 25, 2007)
      </summary>
  
      - Bugfix
@@ -3763,7 +4616,7 @@
 
 <details>
      <summary>
-            0.44 (Oct 11,  2007)
+            v0.44 (Oct 11,  2007)
      </summary>
  
      - New World - Kradia
@@ -3773,7 +4626,7 @@
 
 <details>
      <summary>
-            0.43 (Sep 20, 2007)
+            v0.43 (Sep 20, 2007)
      </summary>
  
      - Bugfix patch
@@ -3782,7 +4635,7 @@
 
 <details>
      <summary>
-            0.42 (Sep 18, 2007)
+            v0.42 (Sep 18, 2007)
      </summary>
  
      - Henesys Party Quest
@@ -3792,7 +4645,7 @@
 
 <details>
      <summary>
-            0.41 (Aug 22, 2007)
+            v0.41 (Aug 22, 2007)
      </summary>
  
      - Mu Lung/Herb Town
@@ -3803,7 +4656,7 @@
 
 <details>
      <summary>
-            0.40 (Jul 26, 2007)
+            v0.40 (Jul 26, 2007)
      </summary>
  
      - New Leaf City
@@ -3812,7 +4665,7 @@
 
 <details>
      <summary>
-            0.39 (Jun 13, 2007)
+            v0.39 (Jun 13, 2007)
      </summary>
  
      - Amoria Party Quest
@@ -3822,7 +4675,7 @@
 
 <details>
      <summary>
-            0.38 (May 02, 2007) Maple Story 2nd Anniversary
+            v0.38 (May 02, 2007) Maple Story 2nd Anniversary
      </summary>
  
      - Birthday event
@@ -3831,7 +4684,7 @@
 
 <details>
      <summary>
-            0.37 (Apr 18, 2007)
+            v0.37 (Apr 18, 2007)
      </summary>
  
      - Removal of ch20
@@ -3841,7 +4694,7 @@
 
 <details>
      <summary>
-            0.36 (Mar 27, 2007)
+            v0.36 (Mar 27, 2007)
      </summary>
  
      - Bug fix
@@ -3850,7 +4703,7 @@
 
 <details>
      <summary>
-            0.35 (Mar 20, 2007)
+            v0.35 (Mar 20, 2007)
      </summary>
  
      - New World - Mardia
@@ -3866,7 +4719,7 @@
 
 <details>
      <summary>
-            0.34 (Feb 06, 2007)
+            v0.34 (Feb 06, 2007)
      </summary>
  
      - Guild Quest
@@ -3877,7 +4730,7 @@
 
 <details>
      <summary>
-            0.33 (Jan 11, 2007)
+            v0.33 (Jan 11, 2007)
      </summary>
  
      - Amoria Dungeon
@@ -3886,7 +4739,7 @@
 
 <details>
      <summary>
-            0.32 (Dec 06, 2006)
+            v0.32 (Dec 06, 2006)
      </summary>
  
      - Amoria
@@ -3896,7 +4749,7 @@
 
 <details>
      <summary>
-            0.31 (Nov 07, 2006)
+            v0.31 (Nov 07, 2006)
      </summary>
  
      - Thanksgiving event
@@ -3905,7 +4758,7 @@
 
 <details>
      <summary>
-            0.30 (Oct 17, 2006)
+            v0.30 (Oct 17, 2006)
      </summary>
  
      - Halloween event
@@ -3914,7 +4767,7 @@
 
 <details>
      <summary>
-            0.29 (Sep 12, 2006)
+            v0.29 (Sep 12, 2006)
      </summary>
  
      - New World - Bellocan
@@ -3924,7 +4777,7 @@
 
 <details>
      <summary>
-            0.28 (Aug 15, 2006)
+            v0.28 (Aug 15, 2006)
      </summary>
  
      - Deep Sea Gorge
@@ -3934,7 +4787,7 @@
 
 <details>
      <summary>
-            0.27 (Jul 27, 2006)
+            v0.27 (Jul 27, 2006)
      </summary>
  
      - Bug fix
@@ -3943,7 +4796,7 @@
 
 <details>
      <summary>
-            0.26 (Jul 26, 2006)
+            v0.26 (Jul 26, 2006)
      </summary>
  
      - Beginner Skills
@@ -3954,7 +4807,7 @@
 
 <details>
      <summary>
-            0.25 (Jun 28, 2006)
+            v0.25 (Jun 28, 2006)
      </summary>
  
      - Independence Day Event
@@ -3963,7 +4816,7 @@
 
 <details>
      <summary>
-            0.24 (Jun 08, 2006)
+            v0.24 (Jun 08, 2006)
      </summary>
  
      - Omega Sector
@@ -3972,7 +4825,7 @@
 
 <details>
      <summary>
-            0.23 (May 03, 2006) Maple Story 1st Anniversary
+            v0.23 (May 03, 2006) Maple Story 1st Anniversary
      </summary>
  
      - Zakum
@@ -3982,7 +4835,7 @@
 
 <details>
      <summary>
-            0.22 (Apr 18, 2006)
+            v0.22 (Apr 18, 2006)
      </summary>
  
      - Bug fix
@@ -3991,7 +4844,7 @@
 
 <details>
      <summary>
-            0.21 (Apr 05, 2006)
+            v0.21 (Apr 05, 2006)
      </summary>
  
      - Easter event
@@ -4000,7 +4853,7 @@
 
 <details>
      <summary>
-            0.20 (Mar 27, 2006)
+            v0.20 (Mar 27, 2006)
      </summary>
  
      - Bug fix
@@ -4009,7 +4862,7 @@
 
 <details>
      <summary>
-            0.19 (Mar 02, 2006)
+            v0.19 (Mar 02, 2006)
      </summary>
  
      - Ludibrium
@@ -4018,7 +4871,7 @@
 
 <details>
      <summary>
-            0.18 (Feb 16, 2006)
+            v0.18 (Feb 16, 2006)
      </summary>
  
      - New World - Khaini
@@ -4028,7 +4881,7 @@
 
 <details>
      <summary>
-            0.17 (Feb 09, 2006)
+            v0.17 (Feb 09, 2006)
      </summary>
  
      - PIN reset
@@ -4038,7 +4891,7 @@
 
 <details>
      <summary>
-            0.16 (Jan 23, 06)
+            v0.16 (Jan 23, 06)
      </summary>
  
      - Level 80/90/100 equips
@@ -4049,7 +4902,7 @@
 
 <details>
      <summary>
-            0.15 (Dec 27, 2005)
+            v0.15 (Dec 27, 2005)
      </summary>
  
      - Bug fix
@@ -4058,7 +4911,7 @@
 
 <details>
      <summary>
-            0.14 (Dec 21, 2005)
+            v0.14 (Dec 21, 2005)
      </summary>
  
      - End of thanksgiving event
@@ -4067,7 +4920,7 @@
 
 <details>
      <summary>
-            0.13 (Nov 30, 2005)
+            v0.13 (Nov 30, 2005)
      </summary>
  
      - New World - Windia
@@ -4079,7 +4932,7 @@
 
 <details>
      <summary>
-            0.12 (Nov 16, 2005)
+            v0.12 (Nov 16, 2005)
      </summary>
  
      - Security Pins
@@ -4089,7 +4942,7 @@
 
 <details>
      <summary>
-            0.12 (Nov 16, 2005)
+            v0.12 (Nov 16, 2005)
      </summary>
  
      - Security Pins
@@ -4099,7 +4952,7 @@
 
 <details>
      <summary>
-            0.11 (Nov 02, 2005)
+            v0.11 (Nov 02, 2005)
      </summary>
  
      - End of Halloween event
@@ -4108,7 +4961,7 @@
 
 <details>
      <summary>
-            0.10 (Oct 25, 2005)
+            v0.10 (Oct 25, 2005)
      </summary>
  
      - Halloween Quest
@@ -4117,7 +4970,7 @@
 
 <details>
      <summary>
-            0.09 (Oct 20, 2005)
+            v0.09 (Oct 20, 2005)
      </summary>
  
      - Bugfix
@@ -4126,7 +4979,7 @@
 
 <details>
      <summary>
-            0.08 (Oct 18, 2005)
+            v0.08 (Oct 18, 2005)
      </summary>
  
      - Improved version
@@ -4139,7 +4992,7 @@
 
 <details>
      <summary>
-            0.07 (Sep 8, 2005)
+            v0.07 (Sep 8, 2005)
      </summary>
  
      - New World - Broa
@@ -4149,7 +5002,7 @@
 
 <details>
      <summary>
-            0.06 (Aug 2, 2005)
+            v0.06 (Aug 2, 2005)
      </summary>
  
      - Mini games
@@ -4158,7 +5011,7 @@
 
 <details>
      <summary>
-            0.05 (Jul 14, 2005)
+            v0.05 (Jul 14, 2005)
      </summary>
  
      - Summer Items
@@ -4168,7 +5021,7 @@
 
 <details>
      <summary>
-            0.04 (Jun 28, 2005)
+            v0.04 (Jun 28, 2005)
      </summary>
 
      - Complete Version
