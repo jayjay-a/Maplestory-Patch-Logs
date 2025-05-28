@@ -1,13 +1,15 @@
 #!/usr/bin/env python3
 """
-patch-scraper.py – scrape MapleStory patch-note pages using legacy layout (v140–v200).
+patch-scraper-legacy.py – scrape legacy MapleStory patch-note pages (old layouts).
 
-• If no URL is given, reads from patch-urls-below-v165.txt (one per line, # comments ok)
+• If no URL is given, reads URLs from patch-urls-below-v165.txt (one per line, # comments ok)
 • Outputs grouped JSON into patch-jsons/v###.json
 """
 
 import argparse, json, re, time, pathlib
-from typing import Dict, List
+from collections import OrderedDict
+from typing import Dict, List, Optional
+
 from bs4 import BeautifulSoup, Tag
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
@@ -15,8 +17,11 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
-# ────────────────────────────── Selenium ──────────────────────────────
-def fetch_rendered_html(url: str, timeout: int = 20) -> BeautifulSoup:
+EXCLUDE = {"overview", "gameplay", "rewards", "requirement",
+           "beginner", "1st job", "2nd job", "3rd job", "4th job",
+           "hyper skills"}
+
+def fetch_rendered_html(url: str, timeout: int = 25) -> BeautifulSoup:
     opts = Options()
     opts.add_argument("--headless=new")
     opts.add_argument("--disable-gpu")
@@ -28,23 +33,21 @@ def fetch_rendered_html(url: str, timeout: int = 20) -> BeautifulSoup:
     driver.quit()
     return BeautifulSoup(html, "lxml")
 
-# ────────────────────────────── Legacy parser ──────────────────────────────
-EXCLUDE = {"overview", "gameplay", "rewards", "requirement",
-           "beginner", "1st job", "2nd job", "3rd job", "4th job",
-           "hyper skills"}
-
-def parse_legacy_sections(soup: BeautifulSoup) -> Dict[str, List[str]]:
-    result: Dict[str, List[str]] = {}
+def parse_legacy_sections(soup: BeautifulSoup) -> Optional[Dict[str, List[str]]]:
+    result: Dict[str, List[str]] = OrderedDict()
     headers = soup.find_all("h1")
+    if not headers:
+        return None
+
     for h1 in headers:
         strong = h1.find("strong")
         if not strong:
             continue
         section = strong.get_text(strip=True)
-        if section.lower().startswith("check out"):
+        if section.lower().startswith("check out"):   # skip site banner
             continue
 
-        items = []
+        result[section] = []
         for sib in h1.next_siblings:
             if isinstance(sib, Tag) and sib.name == "h1":
                 break
@@ -55,42 +58,52 @@ def parse_legacy_sections(soup: BeautifulSoup) -> Dict[str, List[str]]:
                 item = st.get_text(strip=True)
                 if not item or item.lower() in EXCLUDE:
                     continue
-                items.append(item)
-        if items:
-            result[section] = items
-    return result
+                result[section].append(item)
 
-# ────────────────────────────── Helpers ──────────────────────────────
+    return {k: v for k, v in result.items() if v} or None
+
 def extract_version(soup: BeautifulSoup, url: str) -> str:
-    title = soup.title.string if soup.title else ""
-    m = re.search(r"\bv[.\-\s]?(\d{3})\b", title, re.I) or re.search(r"\bv[.\-\s]?(\d{3})\b", url, re.I)
-    return f"v{m.group(1)}" if m else f"unknown_{int(time.time())}"
+    m = re.search(r"\bv[.\-\s]?(\d{2,3})\b", url, re.I)
+    if m:
+        return f"v{m.group(1)}"
+    title = soup.find("h1")
+    if title:
+        m = re.search(r"\bv[.\-\s]?(\d{2,3})\b", title.get_text())
+        if m:
+            return f"v{m.group(1)}"
+    return time.strftime("v%Y%m%d%H%M%S")
 
-def load_urls(path: pathlib.Path) -> List[str]:
-    return [ln.strip() for ln in path.read_text(encoding="utf-8").splitlines()
-            if ln.strip() and not ln.lstrip().startswith("#")]
+def extract_date(soup: BeautifulSoup) -> str:
+    date_div = soup.select_one("div.news-detail__live-date")
+    if date_div:
+        return date_div.get_text(strip=True)
+    return ""
 
-# ────────────────────────────── Main ──────────────────────────────
 def scrape(url: str, out_dir: pathlib.Path, overwrite: bool):
     try:
         soup = fetch_rendered_html(url)
         data = parse_legacy_sections(soup)
         if not data:
-            raise RuntimeError("No legacy sections found.")
+            raise RuntimeError("No legacy sections found")
 
         version = extract_version(soup, url)
+        date = extract_date(soup)
+        data["__url__"] = url
+        data["__date__"] = date
+
+        out_dir.mkdir(parents=True, exist_ok=True)
         out_file = out_dir / f"{version}.json"
         if out_file.exists() and not overwrite:
             print(f"⚠  {out_file.name} exists – skip (use --overwrite)")
             return
-
-        data_with_meta = {"__url": url, **data}
-        out_dir.mkdir(parents=True, exist_ok=True)
-        out_file.write_text(json.dumps(data_with_meta, indent=2, ensure_ascii=False), encoding="utf-8")
+        out_file.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
         print(f"✓  {url}  →  {out_file}")
-
     except Exception as e:
         print(f"✗  {url}  :: {e}")
+
+def load_urls(path: pathlib.Path) -> List[str]:
+    return [ln.strip() for ln in path.read_text(encoding="utf-8").splitlines()
+            if ln.strip() and not ln.lstrip().startswith("#")]
 
 def main():
     ap = argparse.ArgumentParser()
@@ -111,7 +124,4 @@ def main():
 
     out_dir = pathlib.Path(args.out_dir)
     for u in urls:
-        scrape(u, out_dir, args.overwrite)
-
-if __name__ == "__main__":
-    main()
+        scrape(u, out_dir, args.overwrite
