@@ -1,0 +1,3 @@
+# Put patch URLs here, 1 per line
+https://web.archive.org/web/20130706061537/http://maplestory.nexon.net/news/updates/update-notes/00GuT/v-138-unleashed-xenon-update-notes
+https://web.archive.org/web/20130704182945/http://maplestory.nexon.net/news/updates/update-notes/00G7W/v-137-unleashed-update-notes
