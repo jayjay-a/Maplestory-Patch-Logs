@@ -2130,7 +2130,7 @@
 
 <details>
      <summary>
-            v2.00 (Nov 15, 2018)
+            v200 (Nov 15, 2018)
      </summary>
      
      - New Content: Maple Alliance Outpost
@@ -3090,113 +3090,301 @@
 </details>
 
 <details>
-     <summary>
-            v1.63 (Jul 07, 2015)
-     </summary>
- 
-     - Beast Tamer has many skill changes (huge buffs)
-     - Buccaneer, Corsair, Kaiser, Xenon, Marksman, Mercedes, and Paladin have minor skill changes
-     - Certain skills have auto activation (on/off) enabled for them
-     - Blackgate City has been added to the dimensional mirror
-     - Scrapyard is now accessable via Edelstein
-     - Chapter 6 of FriendStory is now available
-     - Damage skin storage system added
-     - Maple Rewards UI added
-     - Pierre, VonBon, Queen, Vellum, and Lotus now drop Soul Shards
+  <summary>
+            v163 (Jul 7, 2015)
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13627/v-163-firepower-patch-notes
+
+     - New Content: Blackgate City
+     - New Content: Scrapyard
+     - New Content: FriendStory: Rock & Roll
+     - Skill Updates: Beast Tamer
+     - Skill Updates: Buccaneer
+     - Skill Updates: Corsair
+     - Skill Updates: Kaiser
+     - Skill Updates: Xenon
+     - Skill Updates: Marksman
+     - Skill Updates: Mercedes
+     - Skill Updates: Paladin
+     - Skill Updates: General Skill Changes
+     - Additional Updates: FriendStory Updates
+     - Additional Updates: Star Planet Updates and New Games
+     - Additional Updates: ’A Better Maple’ Updates
+     - Additional Updates: System Changes
+     - Additional Updates: Default Character Slot Expansion
+     - Additional Updates: Lotus Boss Update
+     - Additional Updates: AbsoLabs Set Equipment
+     - Additional Updates: AbsoLab Fragment Exchange
+     - Additional Updates: Soul Weapon: New Boss Souls
+     - FIREPOWER Events: Crystal Chest
+     - FIREPOWER Events: Burning Character
+     - FIREPOWER Events: FIREPOWER Attendance Check-In Season 1
+     - FIREPOWER Events: [Updated 8/4] FIREPOWER Coin Commissary
+     - FIREPOWER Events: FIREPOWER Agents
+     - FIREPOWER Events: FIREPOWER Cases
+     - FIREPOWER Events: FIREPOWER Guild Goodies
+     - FIREPOWER Events: [Updated 8/13] FIREPOWER Hot Weekends
+     - FIREPOWER Events: [Updated 7/24] Hot Time
+     - FIREPOWER Events: [Updated 8/4] Burning Character Season 2
+     - FIREPOWER Events: [Updated 8/4] FIREPOWER Attendance Check-In Season 2
+     - Beast Tamer Events: Beast Tamer Character Creation
+     - Beast Tamer Events: Beast Tamer Critical Ring
+     - Beast Tamer Events: Beast Tamer Equipment Gift
+     - Other New Events: [Updated 7/10] 2x EXP/Drop Weekends
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: FriendStory Chapter 6: Open Event!
+     - Other New Events: Return of Korean Folk Town
+     - Other New Events: Maple Contents Book
+     - Other New Events: A Hundred And Then Some!
+     - Other New Events: [Updated 7/21] Double Maple Rewards Event
+     - Other New Events: [Updated 8/6] Honey Butterfly Mount Event
+     - Other New Events: [Updated 7/21] Sylph Ring Event
+     - Other New Events: [Updated 7/21] Sheep Ranch
+     - Other New Events: [Updated 7/21] Beefy’s Kitchen
+     - Other New Events: [Updated 7/28] Gachapon Stamp Event
+     - Other New Events: [Updated 8/4] Sengoku High
 </details>
 
 <details>
-     <summary>
-            v1.62 (May 19, 2015)
-     </summary>
- 
-     - 2x EXP coupons no longer have purchase restrictions between levels 201-249
-     - 2x Drop/EXP events will now display a banner when they are active
+  <summary>
+            v162 (May 18, 2015)
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13590/v-162-spring-into-summer-patch-notes
+
+     - A Better Maple: 2x EXP Coupon Level Limit Removal
+     - A Better Maple: Buff Event Notifier
+     - 10th Anniversary Event Updates: 10th Anniversary Coins
+     - 10th Anniversary Event Updates: [Updated 6/11] 10th Anniversary Coin Shop
+     - 10th Anniversary Event Updates: 10th Anniversary Armor Box
+     - New Events: [Updated 5/28] Pink Zakum
+     - New Events: Cassandra's Spring Flower Festival
+     - New Events: 3!3!3! Events
+     - New Events: Black Bean Boss
+     - New Events: World Alliance Medal
+     - New Events: [Updated 6/2] Special Beauty Coupon Event
+     - New Events: [Updated 6/11] Catch the Wind!
+     - New Events: [Updated 6/8] Summer Kickoff Attendance Event
+     - New Events: [Updated 6/8] Sengoku High
+     - New Events: [Updated 6/26] Hot Week
+     - New Events: [Updated 6/23] Tinkerer’s Chest
+     - New Events: [Updated 6/23] Zero Character Creation
+     - New Events: [Updated 6/23] Golden Goose Egg
 </details>
 
 <details>
-     <summary>
-            v1.61 (Apr 20, 2015)
-     </summary>
- 
-     - Black Heaven acts 5 and 6 have been added
-     - Lotus (boss) has been added
-     - Party Quest EXP has been increased
-     - Channels have been added to Dimension Invasion and Evolution System
+  <summary>
+            v161 (Apr 19, 2015)
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13545/v-161-black-heaven-final-chapter-patch-notes
+
+     - Black Heaven: Acts 5 and 6
+     - Black Heaven: New Boss: Lotus
+     - Black Heaven: Absolute Labs Equipment and Coin Shop
+     - Black Heaven: Repeatable Black Heaven Story
+     - Additional Updates: [Updated 4/22] Star Planet: Star Step
+     - Additional Updates: [Better Maple] Party Quest EXP Improvement
+     - Additional Updates: [Better Maple] Channel Additions
+     - Additional Updates: Bug Fixes
+     - New Events: [Updated 5/12] 2x EXP & Drop Weekends
+     - New Events: Golden Dream Pig
+     - New Events: Earth Day Attendance Check
+     - New Events: AbsoLab Coin Event
+     - New Events: [Updated 4/30] White Heaven
+     - 10th Anniversary Events: 10th Anniversary Registration Gift Package
+     - 10th Anniversary Events: [Updated 5/12] 10th Anniversary Gift
+     - 10th Anniversary Events: [Updated 5/12] 10 Years in 10 Days
+     - 10th Anniversary Events: Cash Inventory Transfer Event
+     - 10th Anniversary Events: In the Beginning, There was a Mushroom
+     - 10th Anniversary Events: Cake vs. Pie: The King of Desserts
+     - 10th Anniversary Events: Ikura Rising
+     - 10th Anniversary Events: 10th Anniversary Festival
+     - 10th Anniversary Events: Spell Trace Fever Time
+     - 10th Anniversary Events: [Updated 6/11] 10th Anniversary Coin Shop
 </details>
 
 <details>
-     <summary>
-            v1.60 (Mar 09, 2015)
-     </summary>
- 
-     - Battle Mage has been revamped
-     - Wild Hunter has been revamped
-     - Mechanic has been revamped
-     - Dual Blade, Buccaneer, Corsair, Mercedes, Demon Avenger, Demon Slayer, and Angelic buster have minor skill changes
-     - Black Heaven acts 1, 2, 3, and 4 have been added to the game
-     - Maple Talk has been added to the game
-     - Medals of Honor dropped by bosses give 20x the honor EXP
-     - Maple Reward point cap has been increased
-     - Drop rates for cubes have been increased
-     - Rank up rates for all cubes have been increased
-     - Star Planet has minor changes
+  <summary>
+            v160 (Mar 8, 2015)
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13518/v-160-black-heaven-first-chapter-patch-notes
+
+     - Black Heaven: Acts 1 and 2
+     - Black Heaven: [Updated 3/25] Act 3
+     - Black Heaven: [Updated 4/8] Act 4
+     - Resistance Revamps: Battle Mage
+     - Resistance Revamps: Wild Hunter
+     - Resistance Revamps: Mechanic
+     - Skill Changes: Dual Blade
+     - Skill Changes: Buccaneer
+     - Skill Changes: Corsair
+     - Skill Changes: Mercedes
+     - Skill Changes: Demon Avenger
+     - Skill Changes: Demon Slayer
+     - Skill Changes: Angelic Buster
+     - Additional Updates: Maple Talk
+     - Additional Updates: Medal of Honor Changes
+     - Additional Updates: Maple Rewards Cap Increase
+     - Additional Updates: Maple Rewards
+     - Additional Updates: [Better Maple] Cube Rate Changes
+     - Additional Updates: Star Planet Changes
+     - Additional Updates: Damage Skins for Zero
+     - Additional Updates: Image and Effect Compression
+     - Additional Updates: New Loading Process
+     - Additional Updates: Unused SP
+     - Black Heaven Events: Black Heaven Ignition Package
+     - Black Heaven Events: Black Heaven - A Game of Destiny!
+     - Black Heaven Events: Black Heaven Attendance Check
+     - Easter Events: [Updated 4/8] The Great Easter Egg Hunt
+     - Easter Events: [Updated 4/8] Golden Egg Coloring
+     - Easter Events: [Updated 4/8] The Mad Bunny
+     - Other New Events: [Updated 3/13] Resistance Ignition Event
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Star Planet Expert in Training
+     - Other New Events: Star Planet 2x Event
+     - Other New Events: Rainbow Festival
+     - Other New Events: Cash Inventory Transfer Event
+     - Other New Events: Tangyoon’s Marinated Chicken Attendance Check
+     - Other New Events: [Updated 3/31] Maple Leaf High
+     - Ongoing Events: Maple Rewards Attendance Event
 </details>
 
 <details>
-     <summary>
-            v1.58 (Dec 15, 2014)
-     </summary>
- 
-     - 
-     - Star Planet has been added to the game
-     - Maple Rewards System has been added to the game
+  <summary>
+            v158 (Dec 14, 2014)
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13513/v-158-shining-star-part-ii-patch-notes
+
+     - Star Planet: Star Planet
+     - Star Planet: Entering and Travelling Through Star Planet
+     - Star Planet: Star Grade
+     - Star Planet: Shining Star
+     - Star Planet: Star Arena Mini-games
+     - Star Planet: Star Plaza World Events
+     - Star Planet: Star Fortune Teller
+     - Star Planet: Star Planet Experience Coupons
+     - Maple Rewards: Maple Rewards System
+     - Maple Rewards: Earning Reward Points
+     - Maple Rewards: Storing Reward Points
+     - Maple Rewards: Using Reward Points
+     - Maple Rewards: Reward Points Limits
+     - New Dungeon Event: Mr. Lee World Tour Dungeon
+     - New Events: Maple Rewards Event
+     - New Events: Cash Inventory Movement Event
+     - New Events: Star Planet Attendance Check
+     - New Events: Shining Attendance 2
+     - New Events: [Updated 1/5] Hot Week
+     - New Events: [Updated 12/19] Hot Time
+     - Ongoing Events: Star World
+     - Ongoing Events: Cosmos Knockout
+     - Ongoing Events: Nut Case Event
+     - Ongoing Events: Happyville
+     - Ongoing Events: Christmas Everywhere
+     - Ongoing Events: Merry Maple Christmas
+     - Ongoing Events: The Grand Christmas Tree
+     - Ongoing Events: Magic Christmas Stocking
+     - Ongoing Events: Cassandra’s Christmas Present
+     - Ongoing Events: Shining Attendance
+     - Ongoing Events: Zero Limited Time Creation
 </details>
 
 <details>
-     <summary>
-            v1.57 (Dec 01, 2014)
-     </summary>
- 
-     - Minor skill changes for most classes
-     - Bowmasters have arrow blaster moved to 3rd job
-     - Star Force maps have been added to the game
-     - Star Force Enhancement has been added to the game
-     - New weapons and armors have been added to the game (utgard weapons/pensalir armors)
-     - New boss accessories have been added to the game
-     - Evolution System has been revamped (nerfed)
-     - Lion King Castle has been changedslightly
-     - Blacklisting has been slightly improved
-     - Offline status has been slightly improved
-     - Easy horntail has been added, Horntail prequests made easier
-     - Easy Magnus has been made easier
-     - Normal magnus resets at midnight (Pacific)
-     - Hard Magnus resets every Thursday (pacific)
-     - Pink bean can only be entered once a day
-     - Easy Von Leon has been made easier
-     - Mastery book prices have been lowered
-     - Elite Monsters have been changed slightly
+  <summary>
+            v157 (Nov 30, 2014)
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13510/v-157-shining-star-part-i-patch-notes
+
+     - Star Force: Star Force
+     - Star Force: Star Force Enhancement
+     - New Equipment: New Weapons and Armor
+     - New Equipment: New Boss Accessories
+     - New Equipment: Item Related Changes
+     - New Equipment: New Item Sets
+     - New Equipment: Set Effects
+     - Skill Changes: Arch Mage (Ice, Lightning)
+     - Skill Changes: Bow Master
+     - Skill Changes: Mercedes
+     - Skill Changes: Hero
+     - Skill Changes: Shade
+     - Skill Changes: Angelic Buster
+     - Skill Changes: Shadower
+     - Skill Changes: Corsair
+     - Skill Changes: Kaiser
+     - Skill Changes: Xenon
+     - Skill Changes: Mihile
+     - Skill Changes: Evan
+     - Skill Changes: Paladin
+     - Skill Changes: Dark Knight
+     - Skill Changes: Wind Archer
+     - Skill Changes: Blaze Wizard
+     - Skill Changes: Night Walker
+     - Skill Changes: Resistance
+     - Skill Changes: Battle Mage
+     - Skill Changes: Wild Hunter
+     - Skill Changes: Mechanic
+     - Skill Changes: 4th Job and SP Changes
+     - Additional Updates: Evolution System
+     - Additional Updates: Lion King's Castle
+     - Additional Updates: Maple Guide Improvement
+     - Additional Updates: Blacklist Update
+     - Additional Updates: Offline Status
+     - Additional Updates: Boss Related Changes
+     - Additional Updates: Elite Monster Changes
+     - Additional Updates: Login Screen Music
+     - Additional Updates: Mastery Book Prices
+     - Additional Updates: Miscellaneous Changes
+     - New Dungeon Events: Star World
+     - New Dungeon Events: Cosmos Knockout
+     - Holiday Events: Nut Case Event
+     - Holiday Events: Happyville
+     - Holiday Events: Christmas Everywhere
+     - Holiday Events: Merry Maple Christmas
+     - Holiday Events: The Grand Christmas Tree
+     - Holiday Events: Magic Christmas Stocking
+     - Holiday Events: Cassandra’s Christmas Present
+     - Other New Events: Shining Attendance
+     - Other New Events: Zero Limited Time Creation
 </details>
 
 <details>
-     <summary>
-            v1.56 (Oct 28, 2014)
-     </summary>
- 
-     - Night Walker has been revamped and now has a level cap of 250
-     - Friendstory has been added into the game
-     - Theme Dungeon: Mushroom Castle has been added into the game
-     - Mr. Lee Airlines has been added into the game
-     - Characters now have a 24 hour cooldown before you can delete them above level 31.
-     - Buff duration added to buff icons
-     - Guild Search function has been added
+  <summary>
+            v156 (Oct 27, 2014)
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13507/v-156-cygnus-awakening-night-walker-patch-notes
+
+     - Night Walker Reborn: Night Walker Skills
+     - New Dungeons: FriendStory
+     - New Dungeons: Mushroom Castle
+     - New Dungeons: Mr. Lee Airlines
+     - Additional Updates: Cash Item Delete Function
+     - Additional Updates: Cash Shop Inventory
+     - Additional Updates: Character Slot Increase
+     - Additional Updates: Character Deletion Function
+     - Additional Updates: Guild Party Search
+     - Additional Updates: Buff Duration
+     - New Events: Night Walker Awakening
+     - New Events: Back to the Old Maple
+     - New Events: Cassandra's Sweetiepie Giftstravaganza
+     - New Events: [Updated 11/13] Monster Purge
+     - New Events: Fall Leaves
+     - New Events: King of Crowns
+     - New Events: Homecoming
+     - New Events: [Updated 11/18] Sengoku High
+     - Thanksgiving Events: Thanksgiving!
+     - Thanksgiving Events: Turkey Egg Hunt
+     - Thanksgiving Events: [Updated 11/20] Thanksgiving Feast
+     - Ongoing Events: Dark Lords of Darkness
+     - Ongoing Events: The Kid Gamsper
+     - Ongoing Events: Witch Malady’s Secret Mission
+     - Ongoing Events: Olivia and the Haunted Mansion
+     - Ongoing Events: Take This Commander Mask
+     - Ongoing Events: The Masked Gentleman's Candy
 </details>
 
 <details>
@@ -3211,92 +3399,207 @@
 </details>
 
 <details>
-     <summary>
-            v1.52 (Aug 11, 2014)
-     </summary>
- 
-     - Jett has been Revamped
-     - Hieizan Temple has been added
-     - Princess No.(Boss) has been added
-     - Kritias has been added
-     - Mori Ranmaru has had his drop list updated
-     - Nebulites have a slightly higher chance of dropping from bosses
-     - Japanese Myth items are now tradable until equipped
+  <summary>
+            v152 (Aug 10, 2014)
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13504/v-152-mark-of-honor-hieizan-temple-patch-notes
+
+     - New Sengoku Era Dungeon: Roleplay Dungeon: Hieizan Temple
+     - New Sengoku Era Dungeon: Princess No Expedition
+     - New Area: Kritias
+     - Jett Reborn: Jett
+     - Jett Reborn: Jett Equips
+     - Jett Reborn: Jett Skills
+     - Jett Reborn: Jett Return Skill
+     - Additional Updates: Mori Ranmaru Drops
+     - Additional Updates: [Better Maple] Nebulite Box Drops
+     - Additional Updates: [Better Maple] Beauty Parlor: REG Hair and Face Style Previews
+     - Additional Updates: Tradeability of Lv.150 Japanese Myth Items
+     - Additional Updates: Tot’s Know-How Changes
+     - Additional Updates: Commerci Denaro Vendor
+     - Additional Updates: Gender Restriction for Trading
+     - Sengoku Era Events: The Hieizan Temple Experience
+     - Sengoku Era Events: Stop Princess No Event
+     - New Events: Maple Leaf High
+     - New Events: Jett Lift Off
+     - New Events: Clam Shell Attendance Check Event
+     - New Events: [Updated 8/28] Monster Bounty Hunter Event
+     - New Events: 2x EXP Buff Event
+     - New Events: Monster Purge
+     - New Events: Resurrection of Osiris
+     - New Events: September Attendance Check Event
+     - New Events: Scavenger Hunt
+     - New Events: Rainbow Box Event
+     - New Events: Elite Monster Fever Time
+     - New Events: [Updated 8/14] Hot Day
+     - New Events: [Updated 8/19] Tinkerer’s Set Event
+     - Ongoing Events: Owner of the Safe
+     - Ongoing Events: Hot Summer Coin Shop
 </details>
 
 <details>
-     <summary>
-            v1.51 (Jul 08, 2014)
-     </summary>
- 
-     - Shade is added to the game
-     - Nebulite box drop rate has been increased in bosses and monsters
-     - Elite monsters have a chance to drop safety scrolls
-     - Normal and Chaos Horntail have had their drop restrictions removed
-     - Tower of Oz has been added into the game
+  <summary>
+            v151 (Jul 20, 2014)
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13501/v-151-rising-heroes-tower-of-oz-patch-notes
+
+     - New Dungeon: Tower of Oz
+     - Additional Updates: Zero Character Creation
+     - New Events: Legendary Fruit Juice
+     - New Events: The Knights of Virtue Return
+     - New Events: Owner of the Safe
+     - New Events: [Updated 8/7] Hot Days
+     - Ongoing Events: Shade Level-Up Event (The Birth of the Forgotten Hero Shade)
+     - Ongoing Events: Summertime Event
+     - Ongoing Events: OX Quix
+     - Ongoing Events: Surfboard Event
+     - Ongoing Events: Maple Omok
+     - Ongoing Events: Memory
+     - Ongoing Events: One Card
+     - Ongoing Events: Monsteropoly
+     - Ongoing Events: Game of Yut
+     - Ongoing Events: Kaleido-Spinner Madness
+     - Ongoing Events: Hot Summer Box
+     - Ongoing Events: Hot Summer Coin Shop
+     - Ongoing Events: Everyone’s Bingo
 </details>
 
 <details>
-     <summary>
-            v1.50 (Jun 24, 2014)
-     </summary>
- 
-     - Instant KO chance is lowered in skills across the board
-     - Dual Blade, Cannoneer, Evan, Luminous, Mercedes, Phantom, Demon Avenger, Demon Slayer, Xenon, have skill changes (minor buff)
-     - Dawn Warrior, Thunder Breaker, Wind Archer, Mechanic, Kaiser, Angelic Buster, have skill changes (decent buff)
-     - Aran has skill changes (Huge buff)
-     - Evans no longer need to complete quests to obtain SP needed for skills
-     - Magicians can use teleport mid-air
-     - Kanna and Hayato have had their story quests adjusted slightly
-     - Elite monsters are added into the game
-     - Elite bosses are added into the game
-     - Party invite will appear when entering a map with another character in a similar level range
-     - More than 999 Ability Points can be invested in a single stat now
-     - Spell Traces are now available to enhance equipment
-     - Runes have been added into the game
-     - Several level 20-100 equipments have set bonuses now
-     - Hidden potential level will display on the field via an aura around the equipment
-     - Inner ability has been changed slightly
-     - Account Buddy System added to the Buddy System
-     - Auto All-Cure is now available for pets
-     - Monster levels below 140 have been adjusted as well as HP/EXP
-     - Easy mode Zakum can be attempted at level 50
-     - Normal and Chaos mode Zakum can be attempted at 90
+  <summary>
+            v150 (Jun 23, 2014)
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13495/v-150-rising-heroes-elite-patch-notes
+
+     - Character Skill Rebalances: Paladin
+     - Character Skill Rebalances: Dark Knight
+     - Character Skill Rebalances: Mage (Ice/Lightning)
+     - Character Skill Rebalances: Ranger
+     - Character Skill Rebalances: Sniper
+     - Character Skill Rebalances: Corsair
+     - Character Skill Rebalances: Dual Blade
+     - Character Skill Rebalances: Cannoneer
+     - Character Skill Rebalances: Dawn Warrior
+     - Character Skill Rebalances: Wind Archer
+     - Character Skill Rebalances: Thunder Breaker
+     - Character Skill Rebalances: Aran
+     - Character Skill Rebalances: Evan
+     - Character Skill Rebalances: Luminous
+     - Character Skill Rebalances: Mercedes
+     - Character Skill Rebalances: Phantom
+     - Character Skill Rebalances: Demon Avenger
+     - Character Skill Rebalances: Demon Slayer
+     - Character Skill Rebalances: Xenon
+     - Character Skill Rebalances: Mechanic
+     - Character Skill Rebalances: Kaiser
+     - Character Skill Rebalances: Angelic Buster
+     - Character Skill Rebalances: Zero
+     - Character Skill Rebalances: Soul Weapon Skill
+     - Other Job Updates: Evan
+     - Other Job Updates: Mihile
+     - Other Job Updates: Magicians
+     - Other Job Updates: Beast Tamer
+     - Other Job Updates: Kanna
+     - Other Job Updates: Hayato
+     - System Updates: Combat System
+     - System Updates: Scroll System
+     - System Updates: Rune System
+     - System Updates: Equipment Updates
+     - System Updates: Inner Ability Updates
+     - System Updates: Buddy List and Maple User List Updates
+     - Additional Updates: Cash Item Updates
+     - Additional Updates: Quest Updates
+     - Additional Updates: Monster Updates
+     - Additional Updates: Maps and Movement
+     - Additional Updates: Entry Level Changes
+     - Additional Updates: Silent Crusade
+     - Additional Updates: Lord Balrog Updates
+     - Additional Updates: Zakum Updates
+     - Additional Updates: Tot’s Know-How Updates
+     - Additional Updates: Maple Guide
+     - Additional Updates: Transposition
+     - Additional Updates: Hair
+     - Additional Updates: Guild
+     - Additional Updates: Ardentmill Harvesting Area
+     - Mini-Game Events: Maple Omok
+     - Mini-Game Events: Memory
+     - Mini-Game Events: One Card
+     - Mini-Game Events: Monsteropoly
+     - Mini-Game Events: Game of Yut
+     - Mini-Game Events: [Updated 6/27] Kaleido-Spinner Madness
+     - Other New Events: [Updated 7/7] Cash Inventory Transfer Event
+     - Other New Events: Hot Summer Box
+     - Other New Events: Hot Summer Coin Shop
+     - Other New Events: The Gale Gourd
+     - Other New Events: Everyone’s Bingo
+     - Other New Events: [Updated 7/3] Hot Day
 </details>
 
 <details>
-     <summary>
-            v1.49 (May 12, 2014)
-     </summary>
- 
-     - Wild Hunter has skill changes (minor buff)
-     - Night Lord has skill changes
-     - Demon Avenger has skill changes (minor buff)
-     - Kaiser has skill changes (minor buff)
-     - Demon Slayer has skill changes (minor buff)
-     - Mihile has skill changes (huge buff)
-     - Mechanic has skill changes (minor buff)
-     - Mercedes has skill changes (minor buff)
-     - Evan has skill changes (Huge buff)
-     - Bowmaster has skill changes (decent buff)
-     - Kanna has skill changes (small nerf to kishin)
-     - Jett has skill changes (minor buff)
-     - Soul Weapons are added into the game
-     - Guild System has been revamped
-     - Flag Race has been added into the game
-     - Lion King Castle has been updated
-     - Cross World Party Quest has been updated
-     - Cubes chance to tier up have been increased across the board
-     - Meister and Master Craftsman Cubes are now obtainable from certain bosses
-     - Certain bosses have a chance of dropping a Golden Hammer (100%)
-     - Pets have been revamped
-     - Family system has been removed, with some skills going into guild system
-     - New Shortcut Keys are added
-     - Some item names have been changed
+  <summary>
+            v149 (May 11, 2014)
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13492/v-149-legacy-of-nine-patch-notes
+
+     - Skill Updates: Wild Hunter
+     - Skill Updates: Night Lord
+     - Skill Updates: Kaiser
+     - Skill Updates: Demon Avenger
+     - Skill Updates: Demon Slayer
+     - Skill Updates: Mihile
+     - Skill Updates: Mechanic
+     - Skill Updates: Mercedes
+     - Skill Updates: Evan
+     - Skill Updates: Bowmaster
+     - Skill Updates: Kanna
+     - Skill Updates: Jett
+     - Soul Weapon System: Soul Weapons
+     - Guild Revamp: Guild Revamp
+     - Guild Revamp: Guild Forum Emoticons
+     - Guild Revamp: Flag Race
+     - Updated Dungeon: Lion King’s Castle Update
+     - Cross World Party Quests: Cross World Party Quests
+     - Additional Updates: Cube Drop Rates
+     - Additional Updates: Cube Rank Up Rate Adjusted
+     - Additional Updates: Golden Hammer Boss Drops
+     - Additional Updates: Items For Mesos
+     - Additional Updates: Pet System Revamp
+     - Additional Updates: Family Skills
+     - Additional Updates: New Shortcut Keys
+     - Additional Updates: Event Notifier UI Update
+     - Additional Updates: Auto-Pilot Update
+     - Additional Updates: Item Name Update
+     - Mustache Events: Everyone Needs One Good Mustache
+     - Mustache Events: Mustache Shop
+     - Mustache Events: Mustache Slide
+     - Other New Events: Hermes Cube
+     - Other New Events: Take on Pipsqueak Zakum in Rock-Paper-Scissors
+     - Other New Events: Soul Weapon Event
+     - Other New Events: Returning Maple Warriors Gift
+     - Other New Events: Absolute Belt
+     - Other New Events: Murgoth Dungeon
+     - Other New Events: Zombie Survival
+     - Other New Events: 3!6!9! Event
+     - Other New Events: Special Beauty Coupon Event
+     - Other New Events: Honey Sweet Event
+     - Other New Events: Tinkerer’s Set Event
+     - Other New Events: Red Leaf High
+     - Ongoing Events: 9th Anniversary Event
+     - Ongoing Events: [Updated 5/14] 9th Anniversary Coin Shop
+     - Ongoing Events: Bursting Word Bubbles
+     - Ongoing Events: Monsteropoly
+     - Ongoing Events: 9th Anniversary Attendance
+     - Ongoing Events: Maple Leaf Just for You
+     - Ongoing Events: 9th Anniversary - Endurance Road
+     - Ongoing Events: [Updated 5/14] 9th Anniversary Event - 9 Year Old Maple Tree
+     - Ongoing Events: 9th Anniversary Levitating Admin
+     - Ongoing Events: 9th Anniversary Rally
+     - Ongoing Events: 9th Anniversary Party Prep Event
+     - Ongoing Events: 9th Anniversary Achievements
+     - Ongoing Events: [Updated 5/14] 9th Anniversary Planetary Chairs
 </details>
 
 <details>
@@ -3325,14 +3628,42 @@
 </details>
 
 <details>
-     <summary>
-            v1.46 (Feb 11, 2014)
-     </summary>
- 
-     - Masteria and its quest line have been updated
-     - Merchant Union has been updated
-     - World Tour locations (Ninja Castle, Malaysia, Singapore) have had their drops updated)
+  <summary>
+            v146 (Feb 10, 2014)
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13486/v-146-return-to-masteria-patch-notes
+
+     - Updated Area: Updated: Masteria
+     - Updated Area: Raven Ninja Clan
+     - Updated Area: Mo’s Shop
+     - Updated Area: Joko’s Badge Rewards
+     - Updated Area: Fiona’s Forge
+     - Additional Updates: Merchant Union Trade
+     - Additional Updates: [Updated 2/11] World Tour Updates
+     - Mardi Gras Events: Mardi Gras 2014
+     - Other New Events: RED Appreciation Event
+     - Other New Events: February Attendance - Check in to Win Season 1
+     - Other New Events: Lucky Lucky Monstory
+     - Other New Events: [Updated 2/11] Maple Monster Collection
+     - Other New Events: Maple Special Week
+     - Other New Events: [Updated 2/28] Hot Days
+     - Other New Events: Winter Achievement
+     - Other New Events: Kaleido-Spinner Madness
+     - Other New Events: March Attendance - Check in to Win Season 2
+     - Ongoing Events: Collect Golden Horse Points!
+     - Ongoing Events: Complete 2.0.1.4.!
+     - Ongoing Events: Dawn of the New Year
+     - Ongoing Events: Fortune Telling
+     - Ongoing Events: A Dangerous Wager
+     - Ongoing Events: Quite a Sweetie
+     - Ongoing Events: Candy Score Achievement
+     - Ongoing Events: Gift Shop Grand Opening
+     - Ongoing Events: Recycling the Love Away
+     - Ongoing Events: Beast Tamer Events
+     - Ongoing Events: RED Achievement Season 4
+     - Ongoing Events: Mesorangers!
+     - Ongoing Events: RED Coin Shop
 </details>
 
 <details>
@@ -3395,7 +3726,7 @@
             v1.41 (Sep 04, 2013)
      </summary>
  
-     - Cygnus Classes have had some general changes (level cap increase)
+     - Cygnus Classes have had some general changes
      - Thunder Breaker has been revamped
      - Wind Archer has been revamped
      - Dawn Warrior has been revamped
@@ -3419,7 +3750,7 @@
      <summary>
             v1.39 (Jul 22, 2013)
      </summary>
- 
+
      - Demon Avenger is added:
      - EXP Coupons can no longer be bought above level 201
 
@@ -3439,10 +3770,11 @@
      <summary>
             v1.37 (Jun 19, 2013)
      </summary>
- 
+
+     - Unleashed Update
      - Many classes have minor hyper skill changes
      - Level 3 Link Skills are added
-     - Max level is increased from 200 to 250:
+     - Max level cap is increased from 200 to 250:
      - Damage cap is increased from 999,999 to 50,000,000
      - HP and MP cap have been increased
      - Avoid cap has been lowered from 100% to 90%
@@ -3486,7 +3818,7 @@
      <summary>
             v1.32 (Apr 30, 2013)
      </summary>
- 
+     - Hyper Evolution Update
      - Paladin, Bowmaster, Marksman, Night Lord, Shadower, Cannon Shooter, Demon Slayer, Luminous, Kaiser, and Angelic Buster receive minor skill changes:
      - Hero, Paladin, Dark Knight, Mihile, Archmage (f/p), Archmage (i/l), Bishop, Bowmaster, Marksman, Night Lord, Shadower, Dual Blade, Buccaneer, Corsair, Cannoneer, Battle Mage, Wild Hunter, Mechanic, and Demon  - Slayer receive hyper skill changes:
      - Dimension Invasion is added:
@@ -3512,7 +3844,7 @@
      <summary>
             v1.29 (Feb 26, 2013)
      </summary>
- 
+     - Mark Of Honor Update
      - Kanna is added
      - Level 150 Fafnir set added to Chaos Root Abyss drop list.
 
@@ -3540,7 +3872,7 @@
      <summary>
             v1.25 (Dec 14, 2012)
      </summary>
- 
+     - Tempest Update
      - Kaiser is added
      - Hyper skills are added for Mercedes, Aran, Phantom, Luminous, Evan, and Kaiser
      - Heliseum is added
@@ -3588,6 +3920,7 @@
             v1.18 (Sep 21, 2012)
      </summary>
  
+     - Champions Update
      - Warrior, Magician, Bowman, Cannoneer, Mercedes, and Demon Slayer are all revamped
      - Gachapon has been revamped
 
@@ -3597,7 +3930,7 @@
      <summary>
             v1.17 (Aug 31, 2012)
      </summary>
- 
+     - New Dawn Update
      - Mihile is released
 
 </details>
@@ -3606,7 +3939,8 @@
      <summary>
             v1.15 (Aug 07, 2012)
      </summary>
- 
+     
+     - Mutiny Update
      - Dual Blade gets revamped
      - Corsair and Buccaneer get revamped
      - Golden Temple: Theme Dungeon is added
@@ -3620,7 +3954,7 @@
      <summary>
             v1.12-1.14 (Jul 23, 2012)
      </summary>
- 
+     - Renegades Update
      - Phantom is released
      - Jett is released
      - Fight for Azwan is released
@@ -3666,6 +4000,7 @@
             v1.07 (Mar 14, 2012)
      </summary>
  
+     - Alliance Unbound Update
      - New Alliance Quests
      - Ellin Forest Expansion
      - New Leaf City and Masteria Expansion
@@ -3685,7 +4020,8 @@
      <summary>
             v1.06 (Feb 03, 2012)
      </summary>
- 
+
+     - Alliance Rising Update
      - Crimsonwood Keep PQ returns.
      - Aran and Evan revamps
      - Silent Crusade revamp, with the new Arkarium expedition
@@ -3722,6 +4058,7 @@
             v1.04 (Dec 08, 2011)
      </summary>
  
+     - Legends Update
      - New Job: Cannoneer
      - New Job: Mercedes
      - New Job: Demon Slayer
@@ -3800,6 +4137,7 @@
             v1.02 (Oct 27, 2011)
      </summary>
  
+     - Rise of Fellowship Update
      - Monster Familiar
      - Sidekick
      - Life Style Campaign Event
@@ -3815,7 +4153,8 @@
      <summary>
             v1.01 (Sep 28, 2011)
      </summary>
- 
+     
+     - Ascension Update
      - Warrior, Magicians and Archer Skill Changes
      - Monster Park
      - Wedding Revamp
@@ -3843,7 +4182,7 @@
      <summary>
             v1.00 (Aug 11, 2011)
      </summary>
- 
+     - Chaos Update
      - Age of Triumph
      - Capture the Flag
      - Silent Crusade
@@ -3962,6 +4301,38 @@
      - New World Event
      - Singapore Monsters Adjustments
      - Bug Fixes
+
+</details>
+
+<details>
+     <summary>
+            v0.93 (Dec 07, 2010)
+     </summary>
+
+     - Big Bang
+     - New World – El Nido
+     - New World – Zenith
+     - EXP change
+     - New Formulas
+     - Map changes
+     - Item Drops increased (Use and Etc.)
+     - Party Quest Level updated
+     - Astaroth Been Added To Dimensional Mirror
+     - Quest Has Been Retooled
+     - Monster Adjustments
+     - Skill Adjustments
+     - Evolving Ring Event
+     - Eve of Resistance Event
+     - New User Event
+     - Returned Friend Event
+     - New World Event
+     - 1024x768 Resolution
+     - Higher Resolution
+     - User Interface Change
+     - World Map Change
+     - Ariant Coliseum and Ludibrium Maze Removed
+     - Episode 1 Quest Remodivied
+     - Big Fix
 
 </details>
 
