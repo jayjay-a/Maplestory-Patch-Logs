@@ -2163,7 +2163,7 @@
 
 <details>
      <summary>
-            v1.99 (Oct 03, 2018)
+            v199 (Oct 03, 2018)
      </summary>
      
      - New Content: Fairy Bros Daily Gift
@@ -2191,7 +2191,7 @@
 
 <details>
      <summary>
-            v1.98 (Aug 28, 2018)
+            v198 (Aug 28, 2018)
      </summary>
      
      - Cardcaptor Sakura: Clear Card Events: Maple Monsters
@@ -2214,7 +2214,7 @@
 
 <details>
      <summary>
-            v1.97 (Jul 24, 2018)
+            v197 (Jul 24, 2018)
      </summary>
      
      - New Content: Monad
@@ -2246,7 +2246,7 @@
 
 <details>
      <summary>
-            v1.96 (Jun 19, 2018)
+            v196 (Jun 19, 2018)
      </summary>
      
      - New Playable Character: Ark Intro
@@ -2284,7 +2284,7 @@
 
 <details>
      <summary>
-            v1.95 (May 08, 2018)
+            v195 (May 08, 2018)
      </summary>
      
      - New Content: Fox Valley
@@ -2310,7 +2310,7 @@
 
 <details>
      <summary>
-            v1.94 (Feb 27, 2018)
+            v194 (Feb 27, 2018)
      </summary>
      
      - 13th Anniversary Events: 13th Anniversary Stardust
@@ -2342,7 +2342,7 @@
 
 <details>
      <summary>
-            v1.93 (Feb 27, 2018)
+            v193 (Feb 27, 2018)
      </summary>
      
      - Evangelion Events: Dr. Kim’s Daily Quests
@@ -2380,7 +2380,7 @@
 
 <details>
      <summary>
-            v1.92 (Jan 16, 2018)
+            v192 (Jan 16, 2018)
      </summary>
      
      - Showdown Events: Mechanical Hearts
@@ -2415,7 +2415,7 @@
 
 <details>
      <summary>
-            v1.91 (Dec 13, 2017)
+            v191 (Dec 13, 2017)
      </summary>
      
      - New Content: Grand Athenaeum: Winter Bard
@@ -2441,7 +2441,7 @@
 
 <details>
      <summary>
-            v1.90 (Nov 28, 2017)
+            v190 (Nov 28, 2017)
      </summary>
      
      - New Playable Character:  Cadena Intro
@@ -2473,7 +2473,7 @@
 
 <details>
      <summary>
-            v1.89 (Oct 17, 2017)
+            v189 (Oct 17, 2017)
      </summary>
      
      - Halloween Event: Hallowkitty’s Halloween Bash
@@ -2504,7 +2504,7 @@
 
 <details>
      <summary>
-            v1.88 (Aug 29, 2017)
+            v188 (Aug 29, 2017)
      </summary>
      
      - New Content: A Better Maple
@@ -2537,7 +2537,7 @@
 
 <details>
      <summary>
-            v1.87 (Jul 18, 2017)
+            v187 (Jul 18, 2017)
      </summary>
      
      - New Content: Dream Defender
@@ -2576,7 +2576,7 @@
 
 <details>
      <summary>
-            v1.86 (Jun 20, 2017)
+            v186 (Jun 20, 2017)
      </summary>
      
      - New Content: New 5th Job Skills: V Matrix Update
@@ -2630,7 +2630,7 @@
 
 <details>
      <summary>
-            v1.85 (May 10, 2017)
+            v185 (May 10, 2017)
      </summary>
      
      - Re:ZERO Events: Re:ZERO Attendance Check Event
@@ -2658,7 +2658,7 @@
 
 <details>
      <summary>
-            v1.84 (Feb 28, 2017)
+            v184 (Feb 28, 2017)
      </summary>
      
      - 12th Terrorversary: Night of the Living Bean
@@ -2691,7 +2691,7 @@
 
 <details>
      <summary>
-            v1.83 (Feb 28, 2017)
+            v183 (Feb 28, 2017)
      </summary>
      
      - New Content: Theme Dungeon: Kerning Tower
@@ -2716,7 +2716,7 @@
 
 <details>
      <summary>
-            v1.80 (Jan 17, 2017)
+            v180 (Jan 17, 2017)
      </summary>
      
      - Appreciation Events: Player Appreciation ReVVard
@@ -2755,7 +2755,7 @@
 
 <details>
      <summary>
-            v1.79 (Dec 14, 2016)
+            v179 (Dec 14, 2016)
      </summary>
      
      - New Content: 5th Job Advancement: 5th Job Overview
@@ -2786,7 +2786,7 @@
 
 <details>
      <summary>
-            v1.78 (Nov 29, 2016)
+            v178 (Nov 29, 2016)
      </summary>
      
      - New Content: UI Revamp
@@ -2820,7 +2820,7 @@
 
 <details>
      <summary>
-            v1.77 (Oct 18, 2016)
+            v177 (Oct 18, 2016)
      </summary>
      
      - New Content: The Afterlands
@@ -2858,7 +2858,7 @@
 
 <details>
      <summary>
-            v1.76 (Sep 07, 2016)
+            v176 (Sep 07, 2016)
      </summary>
      
      - New Content: Mushroom Shrine
@@ -2881,7 +2881,7 @@
 
 <details>
      <summary>
-            v1.75 (Jul 19, 2016)
+            v175 (Jul 19, 2016)
      </summary>
      
      - New Playable Character: Blaster
@@ -2898,7 +2898,7 @@
 
 <details>
      <summary>
-            v1.74 (Jun 22, 2016)
+            v174 (Jun 22, 2016)
      </summary>
  
      - New Content: Heroes of Maple
@@ -2985,7 +2985,7 @@
 
 <details>
      <summary>
-            v1.73 (May 17, 2016)
+            v173 (May 17, 2016)
      </summary>
  
      - Stellar Detectives quest line has been added
@@ -2995,7 +2995,7 @@
 
 <details>
      <summary>
-            v1.72 (Apr 19, 2016)
+            v172 (Apr 19, 2016)
      </summary>
  
      - Many classes have received skill changes to balance them
@@ -3015,7 +3015,7 @@
 
 <details>
      <summary>
-            v1.71 (Mar 09, 2016)
+            v171 (Mar 09, 2016)
      </summary>
  
      - Mastera Through Time parts 1 and 2 have been added
@@ -3029,7 +3029,7 @@
 
 <details>
      <summary>
-            v1.70 (Jan 13, 2016)
+            v170 (Jan 13, 2016)
      </summary>
  
      - Ursus the Mighty has been added to the game
@@ -3041,7 +3041,7 @@
 
 <details>
      <summary>
-            v1.69 (Dec 15, 2015)
+            v169 (Dec 15, 2015)
      </summary>
  
      - Kinesis has been added to the game
@@ -3051,7 +3051,7 @@
 
 <details>
      <summary>
-            v1.68 (Dec 01, 2015)
+            v168 (Dec 01, 2015)
      </summary>
  
      - Most jobs have a skill change of some sort
@@ -3068,7 +3068,7 @@
 
 <details>
      <summary>
-            v1.67 (Oct 28, 2015)
+            v167 (Oct 28, 2015)
      </summary>
  
      - Alishan has been added to the game
@@ -3078,7 +3078,7 @@
 
 <details>
      <summary>
-            v1.66 (Oct 06, 2015)
+            v166 (Oct 06, 2015)
      </summary>
  
      - Kanna received a minor revamp
@@ -3389,7 +3389,7 @@
 
 <details>
      <summary>
-            v1.54 (Sep 16, 2014)
+            v154 (Sep 16, 2014)
      </summary>
  
      - Blaze Wizard has been revamped and now has a level cap of 250
@@ -3604,7 +3604,7 @@
 
 <details>
      <summary>
-            v1.48 (Mar 20, 2014)
+            v148 (Mar 20, 2014)
      </summary>
  
      - Cannoneer is revamped
@@ -3668,7 +3668,7 @@
 
 <details>
      <summary>
-            v1.45 (Jan 21, 2014)
+            v145 (Jan 21, 2014)
      </summary>
  
      - Beast Tamer is added
@@ -3680,7 +3680,7 @@
 
 <details>
      <summary>
-            v1.44 (Dec 16, 2013)
+            v144 (Dec 16, 2013)
      </summary>
  
      - Zero has been added
@@ -3690,7 +3690,7 @@
 
 <details>
      <summary>
-            v1.43 (Dec 04, 2013)
+            v143 (Dec 04, 2013)
      </summary>
  
      - Explorer classes have been revamped
@@ -3709,7 +3709,7 @@
 
 <details>
      <summary>
-            v1.42 (Oct 16, 2013)
+            v142 (Oct 16, 2013)
      </summary>
  
      - Battle Mage, Wild Hunter, Phantom, Mercedes, Kaiser, Angelic Buster, Aran, Evan, Demon Avenger, and Xenon have skill revamps
@@ -3723,7 +3723,7 @@
 
 <details>
      <summary>
-            v1.41 (Sep 04, 2013)
+            v141 (Sep 04, 2013)
      </summary>
  
      - Cygnus Classes have had some general changes
@@ -3748,7 +3748,7 @@
 
 <details>
      <summary>
-            v1.39 (Jul 22, 2013)
+            v139 (Jul 22, 2013)
      </summary>
 
      - Demon Avenger is added:
@@ -3758,7 +3758,7 @@
 
 <details>
      <summary>
-            v1.38 (Jul 01, 2013)
+            v138 (Jul 01, 2013)
      </summary>
  
      - Xenon is added:
@@ -3768,10 +3768,9 @@
 
 <details>
      <summary>
-            v1.37 (Jun 19, 2013)
+            v137 (Jun 19, 2013)
      </summary>
 
-     - Unleashed Update
      - Many classes have minor hyper skill changes
      - Level 3 Link Skills are added
      - Max level cap is increased from 200 to 250:
@@ -3807,7 +3806,7 @@
 
 <details>
      <summary>
-            v1.35 (May 21, 2013)
+            v135 (May 21, 2013)
      </summary>
  
      - Monster Life is added:
@@ -3816,9 +3815,9 @@
 
 <details>
      <summary>
-            v1.32 (Apr 30, 2013)
+            v132 (Apr 30, 2013)
      </summary>
-     - Hyper Evolution Update
+
      - Paladin, Bowmaster, Marksman, Night Lord, Shadower, Cannon Shooter, Demon Slayer, Luminous, Kaiser, and Angelic Buster receive minor skill changes:
      - Hero, Paladin, Dark Knight, Mihile, Archmage (f/p), Archmage (i/l), Bishop, Bowmaster, Marksman, Night Lord, Shadower, Dual Blade, Buccaneer, Corsair, Cannoneer, Battle Mage, Wild Hunter, Mechanic, and Demon  - Slayer receive hyper skill changes:
      - Dimension Invasion is added:
@@ -3833,7 +3832,7 @@
 
 <details>
      <summary>
-            v1.31 (Mar 12, 2013)
+            v131 (Mar 12, 2013)
      </summary>
  
      - Hayato is added
@@ -3842,9 +3841,9 @@
 
 <details>
      <summary>
-            v1.29 (Feb 26, 2013)
+            v129 (Feb 26, 2013)
      </summary>
-     - Mark Of Honor Update
+
      - Kanna is added
      - Level 150 Fafnir set added to Chaos Root Abyss drop list.
 
@@ -3852,7 +3851,7 @@
 
 <details>
      <summary>
-            v1.27 (Jan 15, 2013)
+            v127 (Jan 15, 2013)
      </summary>
  
      - Root Abyss is added
@@ -3861,7 +3860,7 @@
 
 <details>
      <summary>
-            v1.26 (Jan 08, 2013)
+            v126 (Jan 08, 2013)
      </summary>
  
      - Angelic Buster is added
@@ -3870,9 +3869,9 @@
 
 <details>
      <summary>
-            v1.25 (Dec 14, 2012)
+            v125 (Dec 14, 2012)
      </summary>
-     - Tempest Update
+
      - Kaiser is added
      - Hyper skills are added for Mercedes, Aran, Phantom, Luminous, Evan, and Kaiser
      - Heliseum is added
@@ -3883,7 +3882,7 @@
 
 <details>
      <summary>
-            v1.24 (Dec 04, 2012)
+            v124 (Dec 04, 2012)
      </summary>
  
      - Luminous is added
@@ -3892,7 +3891,7 @@
 
 <details>
      <summary>
-            v1.23 (Nov 28, 2012)
+            v123 (Nov 28, 2012)
      </summary>
  
      - Many classes have minor skill changes
@@ -3905,7 +3904,7 @@
 
 <details>
      <summary>
-            v1.21 (Nov 12, 2012)
+            v121 (Nov 12, 2012)
      </summary>
  
      - Battle Mage has been revamped
@@ -3917,10 +3916,9 @@
 
 <details>
      <summary>
-            v1.18 (Sep 21, 2012)
+            v118 (Sep 21, 2012)
      </summary>
  
-     - Champions Update
      - Warrior, Magician, Bowman, Cannoneer, Mercedes, and Demon Slayer are all revamped
      - Gachapon has been revamped
 
@@ -3928,19 +3926,18 @@
 
 <details>
      <summary>
-            v1.17 (Aug 31, 2012)
+            v117 (Aug 31, 2012)
      </summary>
-     - New Dawn Update
+
      - Mihile is released
 
 </details>
 
 <details>
      <summary>
-            v1.15 (Aug 07, 2012)
+            v115 (Aug 07, 2012)
      </summary>
      
-     - Mutiny Update
      - Dual Blade gets revamped
      - Corsair and Buccaneer get revamped
      - Golden Temple: Theme Dungeon is added
@@ -3952,9 +3949,9 @@
 
 <details>
      <summary>
-            v1.12-1.14 (Jul 23, 2012)
+            v112-1.14 (Jul 23, 2012)
      </summary>
-     - Renegades Update
+
      - Phantom is released
      - Jett is released
      - Fight for Azwan is released
@@ -3966,7 +3963,7 @@
 
 <details>
      <summary>
-            v1.09 (Apr 12, 2012)
+            v109 (Apr 12, 2012)
      </summary>
  
      - Alliance Eternal game update
@@ -3988,7 +3985,7 @@
 
 <details>
      <summary>
-            v1.08 (Mar 28, 2012)
+            v108 (Mar 28, 2012)
      </summary>
  
      - Bug Fix
@@ -3997,10 +3994,9 @@
 
 <details>
      <summary>
-            v1.07 (Mar 14, 2012)
+            v107 (Mar 14, 2012)
      </summary>
  
-     - Alliance Unbound Update
      - New Alliance Quests
      - Ellin Forest Expansion
      - New Leaf City and Masteria Expansion
@@ -4018,10 +4014,9 @@
 
 <details>
      <summary>
-            v1.06 (Feb 03, 2012)
+            v106 (Feb 03, 2012)
      </summary>
 
-     - Alliance Rising Update
      - Crimsonwood Keep PQ returns.
      - Aran and Evan revamps
      - Silent Crusade revamp, with the new Arkarium expedition
@@ -4043,7 +4038,7 @@
 
 <details>
      <summary>
-            v1.05 (Jan 19, 2012)
+            v105 (Jan 19, 2012)
      </summary>
  
      - Pink Zakum raid Event
@@ -4055,10 +4050,9 @@
 
 <details>
      <summary>
-            v1.04 (Dec 08, 2011)
+            v104 (Dec 08, 2011)
      </summary>
  
-     - Legends Update
      - New Job: Cannoneer
      - New Job: Mercedes
      - New Job: Demon Slayer
@@ -4118,7 +4112,7 @@
 
 <details>
      <summary>
-            v1.03 (Nov 16, 2011)
+            v103 (Nov 16, 2011)
      </summary>
  
      - Bug Fix
@@ -4134,10 +4128,9 @@
 
 <details>
      <summary>
-            v1.02 (Oct 27, 2011)
+            v102 (Oct 27, 2011)
      </summary>
  
-     - Rise of Fellowship Update
      - Monster Familiar
      - Sidekick
      - Life Style Campaign Event
@@ -4151,10 +4144,9 @@
 
 <details>
      <summary>
-            v1.01 (Sep 28, 2011)
+            v101 (Sep 28, 2011)
      </summary>
      
-     - Ascension Update
      - Warrior, Magicians and Archer Skill Changes
      - Monster Park
      - Wedding Revamp
@@ -4180,9 +4172,9 @@
 
 <details>
      <summary>
-            v1.00 (Aug 11, 2011)
+            v100 (Aug 11, 2011)
      </summary>
-     - Chaos Update
+
      - Age of Triumph
      - Capture the Flag
      - Silent Crusade
