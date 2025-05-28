@@ -124,4 +124,4 @@ def main():
 
     out_dir = pathlib.Path(args.out_dir)
     for u in urls:
-        scrape(u, out_dir, args.overwrite
+        scrape(u, out_dir, args.overwrite)
