@@ -2,20 +2,10 @@
 import json
 import pathlib
 import re
-from datetime import datetime
 from typing import Dict, List, Optional
 
 PATCH_DIR = pathlib.Path("patch-jsons")
 OUTPUT_FILE = pathlib.Path("../README.md")
-
-def parse_date(date_str: str) -> Optional[str]:
-    for fmt in ("%Y-%m-%d", "%Y-%m-%d %H:%M:%S"):
-        try:
-            dt = datetime.strptime(date_str, fmt)
-            return dt.strftime("%b %d, %Y")
-        except Exception:
-            continue
-    return None
 
 def extract_version_num(version: str) -> int:
     # Extract digits from version string like 'v259' → 259
@@ -41,10 +31,8 @@ def load_patches(dir_path: pathlib.Path) -> List[Dict]:
     for file in dir_path.glob("*.json"):
         try:
             data = json.loads(file.read_text(encoding="utf-8"))
-            # Expect keys "__url__" and "__date__" inside JSON for metadata
             url = data.get("__url__", None)
-            raw_date = data.get("__date__", None)
-            date = parse_date(raw_date) if raw_date else None
+            date = data.get("__date__", None)  # Use as-is, no parsing
             # Remove metadata keys to get only sections
             sections = {k: v for k, v in data.items() if not k.startswith("__")}
             version = file.stem
