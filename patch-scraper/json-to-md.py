@@ -14,14 +14,14 @@ def extract_version_num(version: str) -> int:
 def format_patch_summary(version: str, date: Optional[str], url: Optional[str], sections: Dict[str, List[str]]) -> str:
     date_part = f" ({date})" if date else ""
     summary = f"{version}{date_part}"
-    md = [f"<details>\n  <summary>\n    {summary}\n  </summary>"]
+    md = [f"<details>\n  <summary>\n            {summary}\n  </summary>"]
     if url:
         md.append(f"\n  URL: {url}\n")
     for section, items in sections.items():
         if section.startswith("__"):
             continue
         for item in items:
-            md.append(f"  - {section}: {item}")
+            md.append(f"     - {section}: {item}")
     md.append("</details>\n")
     return "\n".join(md)
 
