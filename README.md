@@ -3799,7 +3799,7 @@
 
 <details>
   <summary>
-            v143 (Dec 02, 2013) - RED: First Impact Update Notes - Part 2
+            v143 (Dec 02, 2013) - RED: First Impact - Part 2
   </summary>
 
   URL: https://web.archive.org/web/20131226115744/http://maplestory.nexon.net/news/updates/update-notes/00HMP/v-143-red-first-impact-update-notes-part-2
@@ -3853,7 +3853,7 @@
 
 <details>
   <summary>
-            v142 (Oct 15, 2013) - [Updated] v.142 - Dawnveil: Demons of Tynerum
+            v142 (Oct 15, 2013) - Dawnveil: Demons of Tynerum
   </summary>
 
   URL: https://web.archive.org/web/20140110195609/http://maplestory.nexon.net/news/updates/update-notes/00HDW/updated-v-142-dawnveil-demons-of-tynerum-update-notes
