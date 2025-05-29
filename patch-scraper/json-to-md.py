@@ -13,7 +13,7 @@ def extract_version_num(version: str) -> int:
 
 def format_patch_summary(version: str, date: Optional[str], url: Optional[str], title: Optional[str], sections: Dict[str, List[str]]) -> str:
     date_part = f" ({date})" if date else ""
-    title_part = f" - {title}" if title else ""
+    title_part = f" - {title}" if title and title.upper() != "TITLE" else ""
     summary = f"{version}{date_part}{title_part}"
     md = [f"<details>\n  <summary>\n            {summary}\n  </summary>"]
     if url:
