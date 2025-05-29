@@ -1,0 +1,61 @@
+{
+  "__url__": "URL",
+  "__date__": "DATE",
+  "__title__": "TITLE",
+  "CATEGORY": [
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM"
+  ],
+  "CATEGORY2": [
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM"
+  ],
+  "CATEGORY3": [
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM"
+  ],
+  "CATEGORY4": [
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM"
+  ],
+  "CATEGORY5": [
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM",
+    "SUBITEM"
+  ],
+  
+}
