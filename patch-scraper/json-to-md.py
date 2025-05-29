@@ -2,14 +2,19 @@
 import json
 import pathlib
 import re
-from typing import Dict, List, Optional
+from typing import Dict, List, Optional, Tuple
 
 PATCH_DIR = pathlib.Path("patch-jsons")
 OUTPUT_FILE = pathlib.Path("../README.md")
 
-def extract_version_num(version: str) -> int:
-    m = re.search(r"\d+", version)
-    return int(m.group()) if m else 0
+def extract_version_num(version: str) -> Tuple[int, int]:
+    """Extracts major and minor version numbers as a tuple (major, minor)."""
+    m = re.search(r"(\d+)(?:\.(\d+))?", version)
+    if not m:
+        return (0, 0)
+    major = int(m.group(1))
+    minor = int(m.group(2)) if m.group(2) else 0
+    return (major, minor)
 
 def format_patch_summary(version: str, date: Optional[str], url: Optional[str], title: Optional[str], sections: Dict[str, List[str]]) -> str:
     date_part = f" ({date})" if date else ""
@@ -52,7 +57,7 @@ def extract_versions_from_readme(readme_path: pathlib.Path) -> List[str]:
         return []
     text = readme_path.read_text(encoding="utf-8")
     # Match lines like: <summary>   v235 (Aug 30, 2022) </summary>
-    versions = re.findall(r"<summary>\s*([vV]?\d+)", text)
+    versions = re.findall(r"<summary>\s*([vV]?\d+(?:\.\d+)?)", text)
     return versions
 
 def main():
@@ -66,8 +71,11 @@ def main():
         print("No new patches to add.")
         return
 
-    # Sort new patches descending
-    new_patches.sort(key=lambda p: extract_version_num(p["version"]), reverse=True)
+    # Sort new patches descending by version number
+    new_patches.sort(
+        key=lambda p: extract_version_num(p["version"]),
+        reverse=True
+    )
 
     new_md_blocks = [format_patch_summary(p["version"], p["date"], p["url"], p["title"], p["sections"]) for p in new_patches]
     new_content = "\n".join(new_md_blocks) + "\n"
@@ -83,4 +91,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
