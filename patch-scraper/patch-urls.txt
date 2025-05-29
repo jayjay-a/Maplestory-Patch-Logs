@@ -1,23 +1,2 @@
 # Put patch URLs here, 1 per line
-https://www.nexon.com/maplestory/news/update/4945/update-jan-11-v-238-ignition-extreme-patch-notes
-https://www.nexon.com/maplestory/news/update/4982/updated-feb-21-v-239-neo-tokyo-patch-notes
-https://www.nexon.com/maplestory/news/update/5031/updated-april-10-v-240-double-trouble-recharge-patch-notes
-https://www.nexon.com/maplestory/news/update/5089/v-241-maple-momentree-patch-notes
-https://www.nexon.com/maplestory/news/update/5130/updated-7-7-v-242-savior-khali-wind-of-vengeance-patch-notes
-https://www.nexon.com/maplestory/news/update/5172/updated-8-14-v-243-savior-shangri-la-kaling-patch-notes
-https://www.nexon.com/maplestory/news/update/5239/updated-9-22-v-244-punch-king-palooza-patch-notes
-https://www.nexon.com/maplestory/news/update/5296/updated-11-8-v-245-midnight-carnival-nautilus-patch-notes
-https://www.nexon.com/maplestory/news/update/5341/updated-november-21-v-246-new-age-6th-job-patch-notes
-https://www.nexon.com/maplestory/news/update/13317/updated-december-20-v-247-new-age-into-the-abyss-patch-notes
-https://www.nexon.com/maplestory/news/update/16858/updated-3-18-v-248-maple-story-x-konosuba-patch-notes
-https://www.nexon.com/maplestory/news/update/17101/updated-4-18-v-249-minar-picnic-patch-notes
-https://www.nexon.com/maplestory/news/update/17123/updated-5-1-v-250-mayple-island-patch-notes
-https://www.nexon.com/maplestory/news/update/17541/updated-8-26-2024-v-251-go-west-patch-notes
-https://www.nexon.com/maplestory/news/update/17655/updated-8-26-2024-v-252-go-west-patch-notes
-https://www.nexon.com/maplestory/news/update/18317/updated-9-29-v-253-maple-story-x-bugcat-capoo-patch-notes
-https://www.nexon.com/maplestory/news/update/20934/updated-11-15-v-254-midnight-carnival-ludibrium-patch-notes
-https://www.nexon.com/maplestory/news/update/21375/updated-12-05-2024-v-255-the-dark-ride-ride-or-die-patch-notes
-https://www.nexon.com/maplestory/news/update/21376/updated-2-12-2025-v-256-the-dark-ride-limbo-patch-notes
-https://www.nexon.com/maplestory/news/update/23160/v-257-tallahart-grave-of-the-gods-patch-notes
-https://www.nexon.com/maplestory/news/update/23927/updated-3-19-v-258-maple-story-x-demon-slayer-kimetsu-no-yaiba-patch-notes
-https://www.nexon.com/maplestory/news/update/26290/v-259-victoria-cup-20th-anniversary-patch-notes
+https://www.nexon.com/maplestory/news/update/13926/v-172-maple-s-eleven-patch-notes
