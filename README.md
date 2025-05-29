@@ -1,6 +1,6 @@
 <details>
   <summary>
-            v259 (Apr 28, 2025)
+            v259 (Apr 28, 2025) - Victoria Cup: 20th Anniversary
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/26290/v-259-victoria-cup-20th-anniversary-patch-notes
@@ -29,13 +29,14 @@
      - Victoria Cup Events: Goodbye, Victoria Cup
      - Other Events: Watch [Althea Saga] Episode 2 Video
      - Other Events: Hit the Road
+     - Other Events: [UPDATED 5/28/2025] Cash Shop Transfer
      - Other Events: Sunny Sunday
      - Bug Fixes: Bug Fixes
 </details>
 
 <details>
   <summary>
-            v258 (Mar 18, 2025)
+            v258 (Mar 18, 2025) - MapleStory x Demon Slayer: Kimetsu no Yaiba
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/23927/updated-3-19-v-258-maple-story-x-demon-slayer-kimetsu-no-yaiba-patch-notes
@@ -58,7 +59,7 @@
 
 <details>
   <summary>
-            v257 (Feb 11, 2025)
+            v257 (Feb 11, 2025) - Tallahart: Grave of the Gods
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/23160/v-257-tallahart-grave-of-the-gods-patch-notes
@@ -94,7 +95,7 @@
 
 <details>
   <summary>
-            v256 (Dec 16, 2024)
+            v256 (Dec 16, 2024) - The Dark Ride: Limbo
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/21376/updated-2-12-2025-v-256-the-dark-ride-limbo-patch-notes
@@ -152,7 +153,7 @@
 
 <details>
   <summary>
-            v255 (Nov 19, 2024)
+            v255 (Nov 19, 2024) - The Dark Ride: Ride or Die
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/21375/updated-12-05-2024-v-255-the-dark-ride-ride-or-die-patch-notes
@@ -204,7 +205,7 @@
 
 <details>
   <summary>
-            v254 (Oct 8, 2024)
+            v254 (Oct 8, 2024) - Midnight Carnival - Ludibrium
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/20934/updated-11-15-v-254-midnight-carnival-ludibrium-patch-notes
@@ -232,7 +233,7 @@
 
 <details>
   <summary>
-            v253 (Aug 27, 2024)
+            v253 (Aug 27, 2024) - MapleStory x BUGCAT CAPOO
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/18317/updated-9-29-v-253-maple-story-x-bugcat-capoo-patch-notes
@@ -267,7 +268,7 @@
 
 <details>
   <summary>
-            v252 (Jul 16, 2024)
+            v252 (Jul 16, 2024) - GO WEST!
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/17655/updated-8-26-2024-v-252-go-west-patch-notes
@@ -322,7 +323,7 @@
 
 <details>
   <summary>
-            v251 (Jun 11, 2024)
+            v251 (Jun 11, 2024) - GO WEST!
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/17541/updated-8-26-2024-v-251-go-west-patch-notes
@@ -380,7 +381,7 @@
 
 <details>
   <summary>
-            v250 (Apr 30, 2024)
+            v250 (Apr 30, 2024) - Mayple Island
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/17123/updated-5-1-v-250-mayple-island-patch-notes
@@ -421,7 +422,7 @@
 
 <details>
   <summary>
-            v249 (Mar 19, 2024)
+            v249 (Mar 19, 2024) - Minar Picnic
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/17101/updated-4-18-v-249-minar-picnic-patch-notes
@@ -453,7 +454,7 @@
 
 <details>
   <summary>
-            v248 (Feb 22, 2024)
+            v248 (Feb 22, 2024) - MapleStory X KONOSUBA
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/16858/updated-3-18-v-248-maple-story-x-konosuba-patch-notes
@@ -477,7 +478,7 @@
 
 <details>
   <summary>
-            v247 (Dec 12, 2023)
+            v247 (Dec 12, 2023) - New Age: Into the Abyss
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/13317/updated-december-20-v-247-new-age-into-the-abyss-patch-notes
@@ -527,7 +528,7 @@
 
 <details>
   <summary>
-            v246 (Nov 14, 2023)
+            v246 (Nov 14, 2023) - New Age: 6th Job
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/5341/updated-november-21-v-246-new-age-6th-job-patch-notes
@@ -581,7 +582,7 @@
 
 <details>
   <summary>
-            v245 (Oct 12, 2023)
+            v245 (Oct 12, 2023) - Midnight Carnival - Nautilus
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/5296/updated-11-8-v-245-midnight-carnival-nautilus-patch-notes
@@ -618,7 +619,7 @@
 
 <details>
   <summary>
-            v244 (Aug 29, 2023)
+            v244 (Aug 29, 2023) - v.244 Punch King Palooza
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/5239/updated-9-22-v-244-punch-king-palooza-patch-notes
@@ -643,7 +644,7 @@
 
 <details>
   <summary>
-            v243 (Jul 18, 2023)
+            v243 (Jul 18, 2023) - v.243 Savior: Shangri-La & Kaling
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/5172/updated-8-14-v-243-savior-shangri-la-kaling-patch-notes
@@ -690,7 +691,7 @@
 
 <details>
   <summary>
-            v242 (Jun 13, 2023)
+            v242 (Jun 13, 2023) - Savior: Khali, Wind of Vengeance
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/5130/updated-7-7-v-242-savior-khali-wind-of-vengeance-patch-notes
@@ -730,7 +731,7 @@
 
 <details>
   <summary>
-            v241 (May 2, 2023)
+            v241 (May 2, 2023) - Maple Momentree
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/5089/v-241-maple-momentree-patch-notes
@@ -757,7 +758,7 @@
 
 <details>
   <summary>
-            v240 (Mar 21, 2023)
+            v240 (Mar 21, 2023) - Double Trouble Recharge
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/5031/updated-april-10-v-240-double-trouble-recharge-patch-notes
@@ -786,7 +787,7 @@
 
 <details>
   <summary>
-            v239 (Feb 7, 2023)
+            v239 (Feb 7, 2023) - Neo Tokyo
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/4982/updated-feb-21-v-239-neo-tokyo-patch-notes
@@ -808,7 +809,7 @@
 
 <details>
   <summary>
-            v238 (Dec 13, 2022)
+            v238 (Dec 13, 2022) - Ignition: Extreme
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/4945/update-jan-11-v-238-ignition-extreme-patch-notes
@@ -849,12 +850,12 @@
      - Other Events: Sunny Sunday
 </details>
 
-
-
 <details>
-     <summary>
-            v237 (Nov 15, 2022)
-     </summary>
+  <summary>
+            v237 (Nov 15, 2022) - Ignition: Cygnus Knights Redux
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4918/updated-december-1-v-237-ignition-cygnus-knights-redux-patch-notes
 
      - Cygnus Knights Redux: Noblesse
      - Cygnus Knights Redux: Dawn Warrior
@@ -879,6 +880,7 @@
      - New Updates: Better Maple
      - New Updates: Bug Fixes
      - Ignition Burning Events: Hyper Burning
+     - Ignition Burning Events: Burning World
      - Ignition Burning Events: Burning World Step Up
      - Ignition Burning Events: Burning World Leap
      - Fireworks Festival Parade Events: Fireworks Festival Parade
@@ -895,13 +897,14 @@
      - Other Events: MapleStory Fest 2022 Package
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v236 (Oct 04, 2022)
-     </summary>
+  <summary>
+            v236 (Oct 4, 2022) - Midnight Carnival
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4894/update-nov-1-v-236-midnight-carnival-patch-notes
 
      - New Updates: Content Changes
      - New Updates: System Changes
@@ -923,13 +926,14 @@
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Event
      - Other Events: Cash Inventory Transfer Event
-     
 </details>
 
 <details>
-     <summary>
-            v235 (Aug 30, 2022)
-     </summary>
+  <summary>
+            v235 (Aug 30, 2022) - Rocking Revamp
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4867/updated-september-14-v-235-rocking-revamp-patch-notes
 
      - New Updates: Mu Lung Dojo Revamp
      - New Updates: Legion Rank Expansion
@@ -955,32 +959,35 @@
      - Other Events: Recommended Worlds Special Event: Burning World Leap Special Rewards
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Event
-     
 </details>
 
 <details>
-     <summary>
-            v234 (Jul 19, 2022)
-     </summary>
+  <summary>
+            v234 (Jul 19, 2022) - Destiny: Homecoming
+  </summary>
 
-     - New Updates: Home: Miranda’s Shop
-     - New Updates: Home: Home Coin Shop
+  URL: https://www.nexon.com/maplestory/news/update/4830/updated-august-9-v-234-destiny-homecoming-patch-notes
+
+     - New Updates: Home
+     - New Updates: Miranda’s Shop
+     - New Updates: Home Coin Shop
      - New Updates: New Boss: Kalos
      - New Updates: Karote, The Unending Tower
      - New Updates: Eternal Equipment Set
      - New Updates: Bug Fixes
      - New Updates: Known Issues
      - Destiny Burning Events: Tera Burning Plus
-     - Destiny Burning Events: Burning World: Burning World Step Up
-     - Destiny Burning Events: Burning World: Burning World EXP Event
-     - Destiny Burning Events: Burning World: Burning World Big Spender Event
-     - Destiny Burning Events: Burning World: Burning World Leap
+     - Destiny Burning Events: Burning World
+     - Destiny Burning Events: Burning World Step Up
+     - Destiny Burning Events: Burning World EXP Event
+     - Destiny Burning Events: Burning World Big Spender Event
+     - Destiny Burning Events: Burning World Leap
      - Starlight Symphony Events: Starlight Symphony
      - Starlight Symphony Events: Starlight Chariot
      - Starlight Symphony Events: Stellar Ensemble
      - Starlight Symphony Events: Starlight Symphony, Assemble!
      - Starlight Symphony Events: Gemini Match
-     - Starlight Symphony Events: Starlight Symphony Encore 
+     - Starlight Symphony Events: Starlight Symphony Encore
      - Starlight Symphony Events: Melody Coin Shop
      - Starlight Symphony Events: Harmony Coin Shop
      - Other Events: Home Release Event
@@ -991,13 +998,14 @@
      - Other Events: New Journey
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Event
-     
 </details>
 
 <details>
-     <summary>
-            v233 (Jun 14, 2022)
-     </summary>
+  <summary>
+            v233 (Jun 14, 2022) - Destiny: Remastered
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4803/updated-july-5-v-233-destiny-remastered-patch-notes
 
      - Explorer Redux: All Warriors
      - Explorer Redux: Hero
@@ -1035,11 +1043,12 @@
      - New Updates: System Changes
      - New Updates: Bug Fixes
      - New Updates: Known Issues
-     - Destiny Burning Events: Burning World: Tera Burning Plus
-     - Destiny Burning Events: Burning World: Burning World Step Up
-     - Destiny Burning Events: Burning World: Burning World EXP Event
-     - Destiny Burning Events: Burning World: Burning World Big Spender Event
-     - Destiny Burning Events: Burning World: Burning World Leap
+     - Destiny Burning Events: Tera Burning Plus
+     - Destiny Burning Events: Burning World
+     - Destiny Burning Events: Burning World Step Up
+     - Destiny Burning Events: Burning World EXP Event
+     - Destiny Burning Events: Burning World Big Spender Event
+     - Destiny Burning Events: Burning World Leap
      - Starlight Symphony Events: Starlight Symphony
      - Starlight Symphony Events: Starlight Chariot
      - Starlight Symphony Events: Stellar Ensemble
@@ -1051,49 +1060,38 @@
      - Other Events: Destiny Pre-Registration Package
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Event
-     
 </details>
 
 <details>
-     <summary>
-            v232 (Apr 26, 2022)
-     </summary>
+  <summary>
+            v232 (Apr 26, 2022) - Blooming Forest
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4766/updated-may-25-v-232-blooming-forest-patch-notes
 
      - New Updates: Content Changes
      - New Updates: Bug Fixes
      - New Updates: Known Issues
-     - Blooming Forest Events: Blooming Forest
-     - Blooming Forest Events: Blossoming Flowers
-     - Blooming Forest Events: Floral Blessing
-     - Blooming Forest Events: Blooming Race
-     - Blooming Forest Events: Blooming Dance Party
-     - Blooming Forest Events: Help the Rock Spirits!
-     - Blooming Forest Events: Legion Gardening
-     - Blooming Forest Events: Blooming Moment
-     - Blooming Forest Events: Day of Nostalgia
-     - Blooming Forest Events: Blooming Communal Coin Shop
-     - Blooming Forest Events: Blooming Personal Coin Shop
-     - Blooming Forest Events: Blooming Meso Shop
-     - Blooming Forest Events: Wish Coin Shop
      - Other Events: Fairy Bros’ Golden Giveaway
      - Other Events: Hot Week
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
      - Other Events: Cash Inventory Transfer Event
-     
 </details>
 
 <details>
-     <summary>
-            v231 (Mar 15, 2022)
-     </summary>
+  <summary>
+            v231 (Mar 15, 2022) - Double Trouble Superstars
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4737/updated-april-28-v-231-double-trouble-superstars-patch-notes
 
      - New Updates: 64-bit Client
      - New Updates: Content Changes
      - New Updates: Bug Fixes
      - New Updates: Known Issues
      - Yeti x Pink Bean World Events: Yeti x Pink Bean World
-     - Yeti x Pink Bean World Events: Yeti x Pink Bean Step Up
+     - Yeti x Pink Bean World Events: Yeti x Pink Bean Step up
      - Yeti x Pink Bean World Events: Yeti x Pink Bean Stan's Letter
      - Yeti x Pink Bean World Events: Yeti x Pink Bean Monster Punch King
      - Yeti x Pink Bean World Events: Yeti x Pink Bean Slime Meso Shop
@@ -1105,13 +1103,14 @@
      - Other Events: Fairy Bros’ Golden Giveaway
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v230 (Feb 08, 2022)
-     </summary>
+  <summary>
+            v230 (Feb 8, 2022) - Festival of Foodies
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4702/updated-march-21-v-230-festival-of-foodies-patch-notes
 
      - New Updates: Tower of Oz Revamp
      - New Updates: Reboot World Improvements
@@ -1138,28 +1137,31 @@
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
      - Other Events: Cash Inventory Transfer Event
-     
 </details>
 
 <details>
-     <summary>
-            v229 (Dec 14, 2021)
-     </summary>
+  <summary>
+            v229 (Dec 14, 2021) - On Air: An Absolute Unit
+  </summary>
 
-     - New Updates: New Boss: Guardian Angel Slime 
-     - New Updates: Ranheim Defense 
+  URL: https://www.nexon.com/maplestory/news/update/4667/updated-march-21-v-229-on-air-an-absolute-unit-patch-notes
+
+     - New Updates: New Boss: Guardian Angel Slime
+     - New Updates: Ranheim Defense
      - New Updates: Esfera Guardian
      - New Updates: Content Changes
      - New Updates: Bug Fixes
      - New Updates: Known Issues
-     - On Air Burning Events: Burning World: Burning World Step Up
-     - On Air Burning Events: Burning World: Burning World Leap
+     - On Air Burning Events: Burning World
+     - On Air Burning Events: Burning World Step Up
+     - On Air Burning Events: Burning World Leap
      - On Air Burning Events: Tera Burning Plus
      - Maple LIVE Events: Maple LIVE
+     - Maple LIVE Events: Creator Step Up
      - Maple LIVE Events: Daily Missions
-     - Maple LIVE Events: Creator Step Up: Weekly Missions
-     - Maple LIVE Events: Creator Step Up: Monthly Missions
-     - Maple LIVE Events: Creator Step Up: Daily Subscriber Booster
+     - Maple LIVE Events: Weekly Missions
+     - Maple LIVE Events: Monthly Missions
+     - Maple LIVE Events: Daily Subscriber Booster
      - Maple LIVE Events: STUDIO GO!
      - Maple LIVE Events: Maple ON AIR: Gift Show! ...Show! ...Show!
      - Maple LIVE Events: Sky Sovereign
@@ -1179,13 +1181,14 @@
      - Other Events: Two-Factor Authentication Event
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v228 (Nov 16, 2021)
-     </summary>
+  <summary>
+            v228 (Nov 16, 2021) - On Air: Glimpse of Joy
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4644/updated-december-7-v-228-on-air-glimpse-of-joy-patch-notes
 
      - New Playable Character: Lara!: Lara
      - New Playable Character: Lara!: Lara Skills
@@ -1201,14 +1204,16 @@
      - New Updates: Skill Fixes
      - New Updates: Bug Fixes
      - New Updates: Known Issues
-     - On Air Burning Events: Burning World: Burning World Step Up
-     - On Air Burning Events: Burning World: Burning World Leap
+     - On Air Burning Events: Burning World
+     - On Air Burning Events: Burning World Step Up
+     - On Air Burning Events: Burning World Leap
      - On Air Burning Events: Tera Burning Plus
      - Maple LIVE Events: Maple LIVE
-     - Maple LIVE Events: Creator Step Up: Daily Missions
-     - Maple LIVE Events: Creator Step Up: Weekly Missions
-     - Maple LIVE Events: Creator Step Up: Monthly Missions
-     - Maple LIVE Events: Creator Step Up: Daily Subscriber Booster
+     - Maple LIVE Events: Creator Step Up
+     - Maple LIVE Events: Daily Missions
+     - Maple LIVE Events: Weekly Missions
+     - Maple LIVE Events: Monthly Missions
+     - Maple LIVE Events: Daily Subscriber Booster
      - Maple LIVE Events: STUDIO GO!
      - Maple LIVE Events: Maple ON AIR: Pop Reaction
      - Maple LIVE Events: Beach Boss
@@ -1221,13 +1226,14 @@
      - Other Events: Two-Factor Authentication Event
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v227 (Oct 05, 2021)
-     </summary>
+  <summary>
+            v227 (Oct 5, 2021) - MapleStory X BUGCAT CAPOO
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4605/updated-october-11-v-227-maple-story-x-bugcat-capoo-patch-notes
 
      - MapleStory X BUGCAT CAPOO Event: MapleStory X BUGCAT CAPOO
      - New Updates: Job Balances
@@ -1247,9 +1253,10 @@
      - Night Troupe Events: Night Troupe
      - Night Troupe Events: Festival Design Level
      - Night Troupe Events: Festival Design Skill
-     - Night Troupe Events: Night Troupe Main Attractions: Ride Attractions
-     - Night Troupe Events: Night Troupe Main Attractions: Fireworks Festival Parade
-     - Night Troupe Events: Night Troupe Main Attractions: Spiegelmann's Fantastic Magic Show
+     - Night Troupe Events: Night Troupe Main Attractions
+     - Night Troupe Events: Ride Attractions
+     - Night Troupe Events: Fireworks Festival Parade
+     - Night Troupe Events: Spiegelmann's Fantastic Magic Show
      - Night Troupe Events: Flower Pig Ride
      - Night Troupe Events: Stan Band
      - Night Troupe Events: Pop the Mushroom Balloons
@@ -1260,13 +1267,14 @@
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
      - Other Events: Cash Inventory Transfer Event
-     
 </details>
 
 <details>
-     <summary>
-            v225 (Aug 24, 2021)
-     </summary>
+  <summary>
+            v225 (Aug 24, 2021) - Goo Island Getaway
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4581/updated-september-22-v-225-goo-island-getaway-patch-notes
 
      - New Updates: Content Changes
      - New Updates: Bug Fixes
@@ -1286,13 +1294,14 @@
      - Other Events: Animal Friend Safari
      - Other Events: Spell Trace Fever Time
      - Other Events: Sunny Sunday
-     
 </details>
 
 <details>
-     <summary>
-            v224 (Jul 20, 2021)
-     </summary>
+  <summary>
+            v224 (Jul 20, 2021) - Neo: Light's Wrath
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4558/updated-july-22-v-224-neo-light-s-wrath-patch-notes
 
      - New Updates: New Boss: Seren
      - New Updates: Hotel Arcus
@@ -1302,7 +1311,8 @@
      - New Updates: System Changes
      - New Updates: Bug Fixes
      - New Updates: Known Issues
-     - Neo Burning Events: Neo Burning World: Neo Burning World Leap
+     - Neo Burning Events: Neo Burning World
+     - Neo Burning Events: Neo Burning World Leap
      - Neo Burning Events: Neo Tera Burning Plus Part 2
      - Neo Castle Events: Neo Castle
      - Neo Castle Events: Neo Force
@@ -1324,13 +1334,14 @@
      - Other Events: Beast Tamer Creation
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v223 (Jun 08, 2021)
-     </summary>
+  <summary>
+            v223 (Jun 8, 2021) - Neo: Darkness Ascending
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4528/updated-june-24-v-223-neo-darkness-ascending-patch-notes
 
      - New Playable Character: Kain!: Kain
      - New Playable Character: Kain!: Kain Skills
@@ -1346,7 +1357,8 @@
      - New Updates: System Changes
      - New Updates: Bug Fixes
      - New Updates: Known Issues
-     - Neo Burning Events: Neo Burning World: Neo Burning World Leap
+     - Neo Burning Events: Neo Burning World
+     - Neo Burning Events: Neo Burning World Leap
      - Neo Burning Events: Neo Tera Burning Plus
      - Neo Castle Events: Neo Castle
      - Neo Castle Events: Neo Force
@@ -1366,13 +1378,14 @@
      - Other Events: Kain's Road to Remembrance
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v222 (Apr 20, 2021)
-     </summary>
+  <summary>
+            v222 (Apr 20, 2021) - 16th Anniversary: Hotel Maple
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4494/updated-june-18-v-222-16th-anniversary-hotel-maple-patch-notes
 
      - New Updates: Content Changes
      - New Updates: Bug Fixes
@@ -1397,18 +1410,20 @@
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
      - Other Events: Cash Inventory Transfer Event
-     
 </details>
 
 <details>
-     <summary>
-            v221 (Mar 09, 2021)
-     </summary>
+  <summary>
+            v221 (Mar 9, 2021) - Spring Blossoms
+  </summary>
 
-     - New Updates: Zipangu Revam: Showa Town
-     - New Updates: Zipangu Revam: Ninja Castle
-     - New Updates: Zipangu Revam: Hieizan Temple
-     - New Updates: Zipangu Revam: Mushroom Shrine
+  URL: https://www.nexon.com/maplestory/news/update/4441/updated-april-7-v-221-spring-blossoms-patch-notes
+
+     - New Updates: Zipangu Revamp
+     - New Updates: Showa Town
+     - New Updates: Ninja Castle
+     - New Updates: Hieizan Temple
+     - New Updates: Mushroom Shrine
      - New Updates: Content Changes
      - New Updates: System Changes
      - New Updates: Bug Fixes
@@ -1423,18 +1438,19 @@
      - Other Events: Superior Engraved Gollux Pendant Exchange Extension
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v220 (Feb 02, 2021)
-     </summary>
+  <summary>
+            v220 (Feb 2, 2021) - Moonlight Magic
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4429/updated-february-19-v-220-moonlight-magic-patch-notes
 
      - New Updates: Job Balances
      - New Updates: Ursus Revamp
      - New Updates: Boss Improvements
-     - New Updates: Quest &amp; Map Improvements
+     - New Updates: Quest & Map Improvements
      - New Updates: Item Improvements
      - New Updates: Content Changes
      - New Updates: System Changes
@@ -1457,13 +1473,14 @@
      - Other Events: [Legion Arena] Spoils for the Victors!
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v219 (Dec 15, 2020)
-     </summary>
+  <summary>
+            v219 (Dec 15, 2020) - Awake: Flicker of Light
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4423/updated-january-27-v-219-awake-flicker-of-light-patch-notes
 
      - New Updates: Reboot World Revamp
      - New Updates: Familiar Improvements
@@ -1497,13 +1514,14 @@
      - Other Events: Spiegelmann's Lucky Boxes
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v218 (Nov 17, 2020)
-     </summary>
+  <summary>
+            v218 (Nov 17, 2020) - Awake: Ascend to Mastery
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4417/updated-february-18-v-218-awake-ascend-to-mastery-patch-notes
 
      - New Updates: New 5th Job Skills
      - New Updates: Jett Skill Revamp
@@ -1520,7 +1538,8 @@
      - New Updates: Bug Fixes
      - New Updates: Known Issues
      - Awake Burning Events: Tera Burning Plus
-     - Awake Burning Events: Burning World: World Leap
+     - Awake Burning Events: Burning World
+     - Awake Burning Events: World Leap
      - Awake Events: Awake Celebration Event
      - Awake Events: [Awake] Awakening Scroll
      - Awake Events: [Awake] Coin Shop
@@ -1533,13 +1552,14 @@
      - Awake Events: [Awake] Bingo
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v217 (Oct 06, 2020)
-     </summary>
+  <summary>
+            v217 (Oct 6, 2020) - Sengoku Returns: Asura War
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4414/updated-november-9-v-217-sengoku-returns-asura-war-patch-notes
 
      - New Updates: Content Changes
      - New Updates: System Changes
@@ -1558,13 +1578,14 @@
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
      - Other Events: Cash Inventory Transfer Event
-     
 </details>
 
 <details>
-     <summary>
-            v216 (Aug 25, 2020)
-     </summary>
+  <summary>
+            v216 (Aug 25, 2020) - Astral Blessings
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4410/updated-september-18-v-216-astral-blessings-patch-notes
 
      - New Updates: Content Changes
      - New Updates: System Changes
@@ -1573,9 +1594,10 @@
      - Celestial Festival: Celestial Festival
      - Celestial Festival: Celestial Rank
      - Celestial Festival: Celestial Skills
-     - Celestial Festival: Celestial Main Events: Celestial Surge
-     - Celestial Festival: Celestial Main Events: Unending Night
-     - Celestial Festival: Celestial Main Events: The Umbra
+     - Celestial Festival: Celestial Main Events
+     - Celestial Festival: Celestial Surge
+     - Celestial Festival: Unending Night
+     - Celestial Festival: The Umbra
      - Celestial Festival: The Fire Thief
      - Celestial Festival: Princess Parade
      - Celestial Festival: Celestial Jackpot
@@ -1585,13 +1607,14 @@
      - Other Events: I Haven’t Done Anything
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v215 (Jul 21, 2020)
-     </summary>
+  <summary>
+            v215 (Jul 21, 2020) - Rise: Surge of Power
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4406/updated-july-28-v-215-rise-surge-of-power-patch-notes
 
      - New Updates: Familiar System Reopening
      - New Updates: Yum Yum Island
@@ -1615,13 +1638,14 @@
      - Other Events: Maple Relay
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v214 (Jun 09, 2020)
-     </summary>
+  <summary>
+            v214 (Jun 9, 2020) - Rise: Promise of the Guardian
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4403/updated-july-9-v-214-rise-promise-of-the-guardian-patch-
 
      - New Playable Character: Adele!: Adele
      - New Playable Character: Adele!: Adele Skills
@@ -1657,13 +1681,14 @@
      - Other Events: Maple Relay
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v213 (Apr 21, 2020)
-     </summary>
+  <summary>
+            v213 (Apr 21, 2020) - 15th Anniversary: Pixel Party
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4397/updated-june-9-v-213-15th-anniversary-pixel-party-patch-notesnotes
 
      - New Updates: Familiar System Revamp
      - New Updates: Gollux Content Revamp
@@ -1673,7 +1698,7 @@
      - New Updates: Known Issues
      - 15th Anniversary: Pixel Party Events: Mega Burning Project
      - 15th Anniversary: Pixel Party Events: Anniversary Bonus Giveaway
-     - 15th Anniversary: Pixel Party Events: Anniversary 2x EXP &amp; Drop Event
+     - 15th Anniversary: Pixel Party Events: Anniversary 2x EXP & Drop Event
      - 15th Anniversary: Pixel Party Events: Honorary Pixel Hero
      - 15th Anniversary: Pixel Party Events: Pixel Odyssey
      - 15th Anniversary: Pixel Party Events: Pixel Roller Rink
@@ -1700,13 +1725,14 @@
      - MapleStory 2 Welcome Events: Maple Relay
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v212 (Mar 09, 2020)
-     </summary>
+  <summary>
+            v212 (Mar 9, 2020) - MapleStory X ISEKAI QUARTET
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4393/updated-march-19-v212-maple-story-x-isekai-quartet-patch-notes
 
      - New Updates: Maple Tour
      - New Updates: Mu Lung Dojo Expansion
@@ -1719,29 +1745,19 @@
      - MapleStory X ISEKAI QUARTET Events: Daily Requests
      - MapleStory X ISEKAI QUARTET Events: Field Trips
      - MapleStory X ISEKAI QUARTET Events: Isekai Match
-     - Goblin Full Moon Night Market Events: Bauble’s Jewelry Shop
-     - Goblin Full Moon Night Market Events: Smithy’s Forge
-     - Goblin Full Moon Night Market Events: Stitch’s Boutique
-     - Goblin Full Moon Night Market Events: Sweepy’s General Store
-     - Goblin Full Moon Night Market Events: Dok &amp; Kaebi’s Magic Batons
-     - Goblin Full Moon Night Market Events: Phan’s Goblin Baton
-     - Goblin Full Moon Night Market Events: Goblin Fireworks
-     - Goblin Full Moon Night Market Events: Meso-Raining Goblin Cloud
-     - Goblin Full Moon Night Market Events: Zzoblin’s Dream Emporium
-     - Goblin Full Moon Night Market Events: Blessing of the Goblin Statue
-     - Other Events: Sunny Sunday
-     - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v211 (Jan 27, 2020)
-     </summary>
+  <summary>
+            v211 (Jan 27, 2020) - Mechanical Utopia
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4389/updated-february-18-v-211-mechanical-utopia-patch-notes
 
      - New Updates: System Changes
      - New Updates: Bug Fixes
      - New Updates: Known Issues
+     - Mechanical Hearts: Mechanical Hearts: The Great Escape
      - Extravagameza!: Divine Intelligence
      - Extravagameza!: High Noon Gunslinger
      - Extravagameza!: Snowdrift Lodge Downhill Battle
@@ -1754,16 +1770,16 @@
      - Other Events: Fairy Bros' Golden Giveaway
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     - Mechanical Hearts: Mechanical Hearts: The Great Escape
-     
 </details>
 
 <details>
-     <summary>
-            v210 (Dec 17, 2019)
-     </summary>
+  <summary>
+            v210 (Dec 17, 2019) - Glory: Savior of Hope
+  </summary>
 
-     - New Updates: Masteria &amp; New Leaf City Revamp
+  URL: https://www.nexon.com/maplestory/news/update/4385/updated-january-24-v-210-glory-savior-of-hope-patch-notes
+
+     - New Updates: Masteria & New Leaf City Revamp
      - New Updates: Jett Skill Revamp
      - New Updates: Content Changes
      - New Updates: System Changes
@@ -1771,7 +1787,7 @@
      - New Updates: Known Issues
      - Glory Events: Cernium
      - Glory Events: Glory Guard Rank
-     - Glory Events: Glory 2x EXP &amp; Drop
+     - Glory Events: Glory 2x EXP & Drop
      - Glory Events: Glory Guard Sugar Time
      - Glory Events: The Chosen One
      - Glory Events: Glory Coin Bonanza
@@ -1800,13 +1816,14 @@
      - Other Events: Spell Trace Fever Time
      - Other Events: Sunny Sunday
      - Other Events: Cash Inventory Transfer Event
-     
 </details>
 
 <details>
-     <summary>
-            v209 (Nov 18, 2019)
-     </summary>
+  <summary>
+            v209 (Nov 18, 2019) - Glory:  Strengthened Alliances
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4378/updated-december-3-v-209-glory-strengthened-alliances-patch-notes
 
      - New Playable Character: Hoyoung: Hoyoung
      - New Playable Character: Hoyoung: Hoyoung Skills
@@ -1821,7 +1838,7 @@
      - Glory Events: Glory Pre-registration
      - Glory Events: Glory Guard Rank
      - Glory Events: Drill Hall
-     - Glory Events: Glory 2x EXP &amp; Drop
+     - Glory Events: Glory 2x EXP & Drop
      - Glory Events: Convergence
      - Glory Events: Basic Mission: Neinheart's Request
      - Glory Events: Basic Mission: Shattered Dimensions
@@ -1834,13 +1851,14 @@
      - Other Events: Maple Relay
      - Other Events: Spell Trace Fever Time
      - Other Events: Sunny Sunday
-     
 </details>
 
 <details>
-     <summary>
-            v208 (Sep 30, 2019)
-     </summary>
+  <summary>
+            v208 (Sep 30, 2019) - Fabled Melody
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4374/updated-october-8-v-208-fabled-melody-patch-notes
 
      - New Updates: Cash Shop Revamp
      - New Updates: Content Changes
@@ -1860,23 +1878,24 @@
      - Halloween Events: Ghoulish Greetings
      - Halloween Events: Ghoulish Meso Cascade Mount
      - Halloween Events: Halloween Hasty Hunting
-     - Halloween Events: Halloween 2x EXP &amp; Drop Event
+     - Halloween Events: Halloween 2x EXP & Drop Event
      - Other Events: Maple Reward Point Rebate
      - Other Events: Bard
      - Other Events: Dark Lords of Darkness
      - Other Events: Return of Toben Hair Hero
      - Other Events: Sunny Sunday
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v207 (Aug 26, 2019)
-     </summary>
+  <summary>
+            v207 (Aug 26, 2019) - Worlds Unite
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4372/updated-august-28-v-207-worlds-unite-patch-notes
 
      - New Content: World Merges
-     - World Merge Events: EXP &amp; Drop Event
+     - World Merge Events: EXP & Drop Event
      - World Merge Events: Mega Burning Event
      - World Merge Events: Meso Support Event
      - World Merge Events: Legion Event
@@ -1892,21 +1911,18 @@
      - Additional Updates: Bug Fixes
      - Additional Updates: Known Issues
      - Additional Updates: Other Changes
-     
 </details>
 
 <details>
-     <summary>
-            v206 (Jul 22, 2019)
-     </summary>
+  <summary>
+            v206 (Jul 22, 2019) - Pathfinder: Squadron of Heroes
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4369/updated-july-24-v-206-pathfinder-squadron-of-heroes-patch-notes
 
      - New Updates: Theme Dungeon: Partem Ruins
      - New Updates: Beast Tamer Skill Updates
      - New Updates: Jett Skill Updates
-     - Additional Updates: Content Changes
-     - Additional Updates: System Changes
-     - Additional Updates: Bug Fixes
-     - Additional Updates: Known Issues
      - Adventure Island Events: Supernatural Yut
      - Adventure Island Events: Reverse Battle
      - Adventure Island Events: One Card
@@ -1925,26 +1941,18 @@
      - Other Events: Sunny Sundays
      - Other Events: Maplehood Watch
      - Other Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v205 (Jun 11, 2019)
-     </summary>
+  <summary>
+            v205 (Jun 11, 2019) - Pathfinder
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4362/updated-august-21-v-205-pathfinder-patch-notes
 
      - New Playable Character: Pathfinder: Meet Pathfinder!
      - New Playable Character: Pathfinder: Pathfinder Skills
      - New Playable Character: Pathfinder: Pathfinder Pre-Creation Event
-     - New Updates: Theme Dungeon: Secret Forest of Elodin
-     - New Updates: Job Balance Adjustments
-     - New Updates: Kanna Class Revamp
-     - New Updates: Hayato Skill Revamp
-     - New Updates: Hayato &amp; Kanna Quest Revamp
-     - New Updates: Fury Totem
-     - New Updates: Erda Spectrum
-     - New Updates: Bug Fixes
-     - New Updates: Known Issues
      - Content Revamps: Job Quest Revamp
      - Content Revamps: Lv. 30-59 Theme Dungeon Revamp
      - Content Revamps: Lv. 140-200 Quest and Field Revamp
@@ -1977,19 +1985,20 @@
      - Adventure Island Events: Brawlosseum
      - Adventure Island Events: Adventure Coin Shop
      - Other Events: Tera Burning Event
-     - Other Events: Hayato &amp; Kanna Revamp Event
+     - Other Events: Hayato & Kanna Revamp Event
      - Other Events: Sengoku Era Revamp Celebration Gift
      - Other Events: Zero Creation Event
-     - Other Events: 3x EXP &amp; Drop Event
-     - Other Events: Saturday 2x EXP &amp; Drop Events
+     - Other Events: 3x EXP & Drop Event
+     - Other Events: Saturday 2x EXP & Drop Events
      - Other Events: Sunny Sundays
-     
 </details>
 
 <details>
-     <summary>
-            v204 (Apr 23, 2019)
-     </summary>
+  <summary>
+            v204 (Apr 23, 2019) - LINE FRIENDS X MapleStory
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4356/updated-may-16-v-204-line-friends-x-maple-story-patch-notes
 
      - LINE FRIENDS X MapleStory Events: A Surplus of Snapshots
      - LINE FRIENDS X MapleStory Events: Souvenir Collection
@@ -2014,13 +2023,14 @@
      - 14th Anniversary Events: Big Bang Store
      - Additional Updates: Bug Fixes
      - Additional Updates: Gachapon Ticket Revamp
-     
 </details>
 
 <details>
-     <summary>
-            v203 (Mar 05, 2019)
-     </summary>
+  <summary>
+            v203 (Mar 5, 2019) - Arcade Adventures
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4352/updated-april-11-v-203-arcade-adventures-patch-notes
 
      - Retro World Events: Promote the Game!
      - Retro World Events: Chief's Special Potion
@@ -2040,13 +2050,14 @@
      - Other New Events: Sunny Sunday Perk
      - Other New Events: Hot Week
      - Other New Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v202 (Jan 22, 2019)
-     </summary>
+  <summary>
+            v202 (Jan 22, 2019) - Black Mage: New Beginnings
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4347/updated-march-4-v-202-black-mage-new-beginnings-patch-notes
 
      - New Content: Tenebris Available Permanently
      - New Content: New Genesis Weapons
@@ -2085,13 +2096,14 @@
      - Other New Events: Choco Onslaught
      - Other New Events: Spell Trace Fever Time
      - Other New Events: Cash Inventory Transfer Event
-     
 </details>
 
 <details>
-     <summary>
-            v201 (Dec 11, 2018)
-     </summary>
+  <summary>
+            v201 (Dec 11, 2018) - Black Mage: Labyrinth
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4340/updated-january-14-v-201-black-mage-labyrinth-patch-notes
 
      - New Content: Labyrinth of Suffering
      - New Content: New Boss: Verus Hilla
@@ -2113,7 +2125,7 @@
      - Maple Alliance Events: Determination Unleashed
      - Maple Alliance Events: Defense Mission: Remembering the Journey
      - Holiday Events: Shining Santa Box
-     - Holiday Events: 2x EXP &amp; Drop
+     - Holiday Events: 2x EXP & Drop
      - Holiday Events: Christmas Sweetstravaganza Gift
      - Holiday Events: Christmas Bounce
      - Holiday Events: Christmas Cake Boss
@@ -2125,14 +2137,15 @@
      - Other New Events: Sunny Sunday Perk
      - Other New Events: Maple Relay 2
      - Other New Events: Hot Week 2
-     
 </details>
 
 <details>
-     <summary>
-            v200 (Nov 15, 2018)
-     </summary>
-     
+  <summary>
+            v200 (Nov 14, 2018) - Black Mage: Gathering of Heroes
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4330/updated-december-7-v-200-black-mage-gathering-of-heroes-patch-notes
+
      - New Content: Maple Alliance Outpost
      - New Content: Determination Gauge
      - New Content: World Gauge
@@ -2158,14 +2171,15 @@
      - Other New Events: Zero Character Creation
      - Other New Events: Maple Relay
      - Other New Events: Sunny Sunday Perk
-     
 </details>
 
 <details>
-     <summary>
-            v199 (Oct 03, 2018)
-     </summary>
-     
+  <summary>
+            v199 (Oct 3, 2018) - Darkness Looms
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4317/updated-november-7-v-199-darkness-looms-patch-notes
+
      - New Content: Fairy Bros Daily Gift
      - New Content: Skill Updates
      - New Content: Boss Updates
@@ -2186,14 +2200,15 @@
      - Other New Events: Spell Trace Fever Time
      - Other New Events: Hasty Hunting
      - Black Mage Pre-Events: Black Mage Hot Week
-     
 </details>
 
 <details>
-     <summary>
-            v198 (Aug 28, 2018)
-     </summary>
-     
+  <summary>
+            v198 (Aug 28, 2018) - MapleStory X Cardcaptor Sakura: Clear Card
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4308/updated-august-28-v-198-maple-story-x-cardcaptor-sakura-clear-card-patch-notes
+
      - Cardcaptor Sakura: Clear Card Events: Maple Monsters
      - Cardcaptor Sakura: Clear Card Events: Hungry Kero-chan
      - Cardcaptor Sakura: Clear Card Events: Commemorative Photograph
@@ -2209,14 +2224,15 @@
      - Other New Events: Bug Brawl
      - Other New Events: Hot Week 2
      - Other New Events: 2x EXP & Drop Weekend
-     
 </details>
 
 <details>
-     <summary>
-            v197 (Jul 24, 2018)
-     </summary>
-     
+  <summary>
+            v197 (Jul 24, 2018) - Ark: Monad
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4304/updated-september-4-v-197-ark-monad-patch-notes
+
      - New Content: Monad
      - New Content: Reboot (EU) World
      - New Content: Star Force Revamp
@@ -2241,14 +2257,15 @@
      - Other New Events: Maplehood Watch
      - Other New Events: Cash Inventory Transfer Event
      - Other New Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v196 (Jun 19, 2018)
-     </summary>
-     
+  <summary>
+            v196 (Jun 19, 2018) - Ark
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4301/updated-august-1-v-196-ark-patch-notes
+
      - New Playable Character: Ark Intro
      - New Playable Character: Ark Skills
      - New Playable Character: Ark 5th Job
@@ -2279,14 +2296,15 @@
      - Other New Events: Sunny Sunday Perk
      - Other New Events: Maple Relay
      - Other New Events: Spell Trace Fever Time
-     
 </details>
 
 <details>
-     <summary>
-            v195 (May 08, 2018)
-     </summary>
-     
+  <summary>
+            v195 (May 8, 2018) - Lifestyle of the Pink and Beany
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4298/updated-v-195-lifestyle-of-the-pink-and-beany-patch-notes
+
      - New Content: Fox Valley
      - Additional Updates: Other Changes
      - Additional Updates: Bug Fixes
@@ -2305,14 +2323,15 @@
      - Ark Events: Walk Through Maple World
      - Ark Events: Ark Attendance Check
      - Ark Events: Monster Hunting Community Event
-     
 </details>
 
 <details>
-     <summary>
-            v194 (Feb 27, 2018)
-     </summary>
-     
+  <summary>
+            v194 (Apr 3, 2018) - Star Squad 13
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4295/updated-v-194-star-squad-13-patch-notes
+
      - 13th Anniversary Events: 13th Anniversary Stardust
      - 13th Anniversary Events: Planet Vita
      - 13th Anniversary Events: Planet Minel
@@ -2337,14 +2356,15 @@
      - New Events: Sunny Sunday Perks
      - New Events: Spell Trace Fever Time
      - New Events: Hot Week 2
-     
 </details>
 
 <details>
-     <summary>
-            v193 (Feb 27, 2018)
-     </summary>
-     
+  <summary>
+            v193 (Feb 27, 2018) - MapleStory X Evangelion
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4290/updated-v-193-maple-story-x-evangelion-patch-notes
+
      - Evangelion Events: Dr. Kim’s Daily Quests
      - Evangelion Events: Evangelion Pilot Daily Quests
      - Evangelion Events: 4th Angel Invasion
@@ -2375,14 +2395,15 @@
      - Maple Film Festival Events: Deplorable Maple
      - Maple Film Festival Events: Standoff
      - Maple Film Festival Events: King of the Rings
-     
 </details>
 
 <details>
-     <summary>
-            v192 (Jan 16, 2018)
-     </summary>
-     
+  <summary>
+            v192 (Jan 16, 2018) - New Year Showdown
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4287/updated-v-192-new-year-showdown-patch-notes
+
      - Showdown Events: Mechanical Hearts
      - Showdown Events: The Legends Return!
      - Showdown Events: Divine Intelligence
@@ -2410,42 +2431,47 @@
      - Other New Events: Cash Inventory Transfer
      - Other New Events: Spell Trace Fever Time
      - Other New Events: Sengoku High
-     
 </details>
 
 <details>
-     <summary>
-            v191 (Dec 13, 2017)
-     </summary>
-     
-     - New Content: Grand Athenaeum: Winter Bard
-     - Additional Updates: Bug Fixes
-     - Additional Updates: Reboot World Meso Drops
-     - Nova Events: 
-     - Nova Events: Illium Pre-Creation
+  <summary>
+            v191 (Dec 19, 2017) - Nova: Brilliance of Illium
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4284/v-191-nova-brilliance-of-illium-patch-notes
+
+     - New Playable Character: Illium Intro
+     - New Playable Character: Illium Skills
+     - New Content: Morass
+     - New Content: Papulatus Revamp
+     - Nova Events: Illium Boost Up
+     - Nova Events: Nova Coin Shop
+     - Nova Events: Nova Hot Week 3
+     - Nova Events: Festival Nova Box
      - Nova Events: Mega Burning Project
-     - Nova Events: Step Up
-     - Nova Events: Hunter’s Arena
-     - Nova Events: Nova Hot Week 2
-     - Nova Events: Cadena and Illium Level 200 Rewards
-     - Holiday Events: Shining Santa Box
-     - Holiday Events: Winter Retreat
-     - Holiday Events: Winter Photo Card
-     - Other New Events: 2x EXP & Drop Sunday
-     - Other New Events: December Big Spender
+     - Nova Events: Nova Sugar Time
+     - Holiday Events: Snowdrift Lodge
+     - Holiday Events: Christmas Means Presents
+     - Holiday Events: Deck The Trees
+     - Holiday Events: Merry, Merry Christmas
+     - Holiday Events: New Year’s Countdown
+     - Holiday Events: New Year’s Hot Day
+     - Other New Events: 2x EXP & Drop Weekend
      - Other New Events: Sunny Sunday Perk
-     - Other New Events: Winter Bard Opening Event
-     - Other New Events: Beast Tamer Character Creation
-     
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Zero Character Creation
+     - Other New Events: Cash Inventory Transfer
 </details>
 
 <details>
-     <summary>
-            v190 (Nov 28, 2017)
-     </summary>
-     
-     - New Playable Character:  Cadena Intro
-     - New Playable Character:  Cadena Skills
+  <summary>
+            v190 (Nov 28, 2017) - Nova: Liberation of Cadena
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4278/updated-v-190-nova-liberation-of-cadena-patch-notes
+
+     - New Playable Character: Cadena Intro
+     - New Playable Character: Cadena Skills
      - Skill Updates: New 5th Job Skills
      - Skill Updates: Skill Revamps
      - New Content: Maple Achievements
@@ -2468,19 +2494,21 @@
      - Other New Events: 2x EXP & Drop Weekend
      - Other New Events: Sunny Sunday Perk
      - Other New Events: Festival 100-Player Bingo
-     
 </details>
 
 <details>
-     <summary>
-            v189 (Oct 17, 2017)
-     </summary>
-     
-     - Halloween Event: Hallowkitty’s Halloween Bash
-     - Halloween Event: Murgoth Dungeon
-     - Halloween Event: Madhouse Dungeon
-     - Halloween Event: Dark Lords of Darkness
-     - Halloween Event: Halloween 2x EXP & Drop Weekends
+  <summary>
+            v189 (Oct 17, 2017) - Midnight Monster Bash
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4275/updated-v-189-midnight-monster-bash-patch-notes
+
+     - Halloween Events: Hallowkitty’s Halloween Bash
+     - Halloween Events: Murgoth Dungeon
+     - Halloween Events: Madhouse Dungeon
+     - Halloween Events: Dark Lords of Darkness
+     - Halloween Events: Halloween 2x EXP & Drop Weekends
+     - Halloween Events: Halloween Hot Week
      - Additional Updates: Bug Fixes
      - Additional Updates: UI Improvements
      - Additional Updates: Balance Updates
@@ -2499,14 +2527,15 @@
      - Nova Events: Nova Attendance Check
      - Black Friday Events: Black Friday Hot Week
      - Black Friday Events: Black Friday Big Spender
-     
 </details>
 
 <details>
-     <summary>
-            v188 (Aug 29, 2017)
-     </summary>
-     
+  <summary>
+            v188 (Aug 29, 2017) - Tune Up
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4272/updated-v-188-tune-up-patch-notes
+
      - New Content: A Better Maple
      - New Content: Skill Revamps
      - New Content: Quest Revamps
@@ -2532,14 +2561,15 @@
      - Moon Festival Events: Bountiful Fall Saturday Perk
      - Moon Festival Events: Moon Festival Gift Box
      - Moon Festival Events: Moon Festival 2x EXP & Drop Weekend
-     
 </details>
 
 <details>
-     <summary>
-            v187 (Jul 18, 2017)
-     </summary>
-     
+  <summary>
+            v187 (Jul 18, 2017) - Override: Venture
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4269/updated-v-187-override-venture-patch-notes
+
      - New Content: Dream Defender
      - New Content: Fantasy Theme World
      - New Content: Arcana
@@ -2571,14 +2601,15 @@
      - Other New Events: Spiegelmann Express: Nihal Desert Trade Tycoon
      - Other New Events: Cash Inventory Transfer Event
      - Other New Events: Tinkerer's Chest
-     
 </details>
 
 <details>
-     <summary>
-            v186 (Jun 20, 2017)
-     </summary>
-     
+  <summary>
+            v186 (Jun 20, 2017) - Override: Evolve
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4266/updated-v-186-override-evolve-patch-notes
+
      - New Content: New 5th Job Skills: V Matrix Update
      - New Content: New 5th Job Skills: New Skills: All Jobs
      - New Content: New 5th Job Skills: New Skills: Explorers
@@ -2625,14 +2656,15 @@
      - Other New Events: Sengoku High
      - Other New Events: Elunarium Energy
      - Other New Events: Otherworldly Luck
-     
 </details>
 
 <details>
-     <summary>
-            v185 (May 10, 2017)
-     </summary>
-     
+  <summary>
+            v185 (May 10, 2017) - MapleStory X Re:ZERO
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4263/updated-v-185-maple-story-x-re-zero-patch-notes
+
      - Re:ZERO Events: Re:ZERO Attendance Check Event
      - Re:ZERO Events: Re:ZERO Reboot World Event
      - Additional Updates: Meso Market
@@ -2653,14 +2685,15 @@
      - Override Pre-Events: Override Mega Burning Project
      - Override Pre-Events: Override Attendance Check
      - Override Pre-Events: Override Hot Week
-     
 </details>
 
 <details>
-     <summary>
-            v184 (Feb 28, 2017)
-     </summary>
-     
+  <summary>
+            v184 (Apr 4, 2017) - 12th Terrorversary
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4260/updated-v-184-12th-terrorversary-patch-notes
+
      - 12th Terrorversary: Night of the Living Bean
      - Thursday the 12th Events: Burning Project
      - Thursday the 12th Events: Freaky Frankenbalrog
@@ -2686,14 +2719,15 @@
      - Other New Events: Cash Inventory Transfer Event
      - Other New Events: Maple Leaf High
      - Additional Updates: Bug Fixes
-     
 </details>
 
 <details>
-     <summary>
-            v183 (Feb 28, 2017)
-     </summary>
-     
+  <summary>
+            v183 (Feb 28, 2017) - Kerning City Superstars
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4257/updated-v-183-kerning-city-superstars-patch-notes
+
      - New Content: Theme Dungeon: Kerning Tower
      - New Content: ‘A Better Maple’ System Changes
      - New Content: Maple Value Points (MVP) Service
@@ -2711,14 +2745,15 @@
      - New Events: Steamed Bun Maestro
      - New Events: Chocky Day
      - New Events: Hot Week 2
-     
 </details>
 
 <details>
-     <summary>
-            v180 (Jan 17, 2017)
-     </summary>
-     
+  <summary>
+            v180 (Jan 17, 2017) - V: Champions
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4254/updated-v-180-v-champions-patch-notes
+
      - Appreciation Events: Player Appreciation ReVVard
      - Appreciation Events: Maple VVorld Records
      - Additional Updates: Bug Fixes
@@ -2750,343 +2785,644 @@
      - Valentine's Day Events: The Sweetest Day
      - Valentine's Day Events: Sweet in the Center
      - Valentine's Day Events: Valentine's Day Heart-Shaped Box
-     
 </details>
 
 <details>
-     <summary>
-            v179 (Dec 14, 2016)
-     </summary>
-     
-     - New Content: 5th Job Advancement: 5th Job Overview
-     - New Content: 5th Job Advancement: New Skills: All Jobs
-     - New Content: 5th Job Advancement: New Skills: Warrior Jobs
-     - New Content: 5th Job Advancement: New Skills: Magician Jobs
-     - New Content: 5th Job Advancement: New Skills: Bowman Jobs
-     - New Content: 5th Job Advancement: New Skills: Thief Jobs
-     - New Content: 5th Job Advancement: New Skills: Pirate Jobs
-     - New Area: Arcane River: Vanishing Journey
-     - New Area: Arcane River: Chu Chu Island
-     - Additional Updates: Bug Fixes
-     - MapleStory V Events: V Hot Day
-     - MapleStory V Events: V Box Event
-     - MapleStory V Events: Mesoranger V
-     - MapleStory V Events: Mega Burning Project
-     - MapleStory V Events: V Coin Shop
-     - Holiday Events: Icy Onslaught
-     - Holiday Events: Catch a Snowflake
-     - Holiday Events: Cassandra’s Christmas Present
-     - Holiday Events: New Year's Countdown
-     - Other New Events: December Big Spender
-     - Other New Events: Let's Party Quest
-     - Other New Events: 2x EXP & Drop Weekends
-     - Other New Events: Spell Trace Fever Time
-     
+  <summary>
+            v179 (Jan 3, 2017) - V: Lucid
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4252/updated-v-179-v-lucid-patch-notes
+
+     - New Content: New Boss: Lucid
+     - New Content: Arcane River: Lachelein
+     - New Events: Hasty Hunting
+     - New Events: 2x EXP & Drop Weekends
+     - New Events: Hot Weekends
+     - New Events: Hot Week
+     - New Events: Play V Rewards Event
 </details>
 
 <details>
-     <summary>
-            v178 (Nov 29, 2016)
-     </summary>
-     
+  <summary>
+            v178 (Nov 29, 2016) - V: Limitless
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/4248/updated-v-178-v-limitless-patch-notes
+
      - New Content: UI Revamp
      - New Content: Damage Cap Removal
      - New Content: Reduced Leveling Curve
      - New Content: Auction House
      - New Content: Character Name Change
-     - Additional Update: Bug Fixes
-     - Additional Update: Stat Changes
-     - Additional Update: Reboot World Monster HP Changes
-     - Additional Update: ‘A Better Maple’ System Changes
-     - MapleStory V Event: V Hot Day
-     - MapleStory V Event: Mega Burning Project
-     - MapleStory V Event: Hi-Five Box Event
-     - MapleStory V Event: Play V Rewards Event
-     - MapleStory V Event: V Breakthrough Event
-     - MapleStory V Event: V Coin Shop
-     - MapleStory V Event: V Tracker
-     - Holiday Event: Happyville
-     - Holiday Event: Christmas Everywhere
-     - Holiday Event: The Grand Christmas Tree
-     - Holiday Event: Santa’s Shining Gift
+     - Additional Updates: Bug Fixes
+     - Additional Updates: Stat Changes
+     - Additional Updates: Reboot World Monster HP Changes
+     - Additional Updates: ‘A Better Maple’ System Changes
+     - MapleStory V Events: V Hot Day
+     - MapleStory V Events: Mega Burning Project
+     - MapleStory V Events: Hi-Five Box Event
+     - MapleStory V Events: Play V Rewards Event
+     - MapleStory V Events: V Breakthrough Event
+     - MapleStory V Events: V Coin Shop
+     - MapleStory V Events: V Tracker
+     - Holiday Events: Happyville
+     - Holiday Events: Christmas Everywhere
+     - Holiday Events: The Grand Christmas Tree
+     - Holiday Events: Santa’s Shining Gift
      - Other New Events: Zero Character Creation
      - Other New Events: Beast Tamer Character Creation
      - Other New Events: Hot Week
      - Other New Events: 2x EXP & Drop Weekends
      - Other New Events: Spell Trace Fever Time
      - Other New Events: Tinkerer’s Chest
-     
 </details>
 
 <details>
-     <summary>
-            v177 (Oct 18, 2016)
-     </summary>
-     
+  <summary>
+            v177 (Oct 18, 2016) - Strange Stories
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/14088/updated-v-177-strange-stories-patch-notes
+
      - New Content: The Afterlands
-     - Bug Fixes
-     - Skill Changes
-     - ‘A Better Maple’ System Changes
-     - Fishing System
-     - Wedding System Revamp
-     - Secret Stories
-     - Haunted Mansion
-     - Elite Pumpkin Zombie
-     - Hero’s Gauntlet
-     - Halloween Kaleido-Spinner Event
-     - Dark Lords of Darkness
-     - 2x EXP & Drop Weekend
-     - Halloween Monster Invasion
-     - Halloween Hot Weekend
-     - Thanksgiving! Event
-     - Food Fighter
-     - Thanksgiving Turkey Egg Hunt
-     - Bunny on the Moon
-     - Of Mice and Bunnies
-     - Rice Cakes are Back
-     - Towering Crown
-     - Rock-Paper-Scissors Zakum
-     - Jewel Crafting
-     - Hunt Acceleration Haste Event
-     - Arcane Attendance Event
-     - Hot Weekend
-     - V Coin Exchange Event
-     - Black Friday Big Spender Event
-     - Black Friday Hot Week
-     
+     - Additional Updates: Bug Fixes
+     - Additional Updates: Skill Changes
+     - Additional Updates: ‘A Better Maple’ System Changes
+     - Additional Updates: Fishing System
+     - Additional Updates: Wedding System Revamp
+     - Halloween Events: Secret Stories
+     - Halloween Events: Haunted Mansion
+     - Halloween Events: Elite Pumpkin Zombie
+     - Halloween Events: Hero’s Gauntlet
+     - Halloween Events: Halloween Kaleido-Spinner Event
+     - Halloween Events: Dark Lords of Darkness
+     - Halloween Events: 2x EXP & Drop Weekend
+     - Halloween Events: Halloween Monster Invasion
+     - Halloween Events: Halloween Hot Weekend
+     - Thanksgiving Events: Thanksgiving! Event
+     - Thanksgiving Events: Food Fighter
+     - Thanksgiving Events: Thanksgiving Turkey Egg Hunt
+     - Rice Cake Festival Events: Bunny on the Moon
+     - Rice Cake Festival Events: Of Mice and Bunnies
+     - Rice Cake Festival Events: Rice Cakes are Back
+     - Other New Events: Towering Crown
+     - Other New Events: Rock-Paper-Scissors Zakum
+     - Other New Events: Jewel Crafting
+     - Other New Events: Hunt Acceleration Haste Event
+     - Other New Events: Arcane Attendance Event
+     - Other New Events: Hot Weekend
+     - Other New Events: V Coin Exchange Event
+     - Other New Events: Black Friday Big Spender Event
+     - Other New Events: Black Friday Hot Week
 </details>
 
 <details>
-     <summary>
-            v176 (Sep 07, 2016)
-     </summary>
-     
+  <summary>
+            v176 (Sep 7, 2016) - Mushroom Shrine Tales
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/14057/updated-v-176-mushroom-shrine-tales-patch-notes
+
      - New Content: Mushroom Shrine
-     - Reboot World Events
-     - Water Wars
-     - Futuroid Event
-     - New & Returning Players Event
-     - Mystic Gate
-     - Homecoming: Sports Day
-     - Homecoming: Queen Bee
-     - Spell Trace Fever Time
-     - Maple Music Festival
-     - Maple Bonfire
-     - Absolute Belt
-     - Rainbow Festival
-     - 2x EXP & Drop Weekends
-     - Hot Week
-     
+     - Reboot World Events: Reboot Link Event
+     - Reboot World Events: Reboot New Character Event
+     - Other New Events: Water Wars
+     - Other New Events: Futuroid Event
+     - Other New Events: New & Returning Players Event
+     - Other New Events: Mystic Gate
+     - Other New Events: Homecoming: Sports Day
+     - Other New Events: Homecoming: Queen Bee
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Maple Music Festival
+     - Other New Events: Maple Bonfire
+     - Other New Events: Absolute Belt
+     - Other New Events: Rainbow Festival
+     - Other New Events: 2x EXP & Drop Weekends
+     - Other New Events: Hot Week
 </details>
 
 <details>
-     <summary>
-            v175 (Jul 19, 2016)
-     </summary>
-     
-     - New Playable Character: Blaster
-     - New Content: Heroes of Maple
-     - Additional Updates
-     - Heroes of Maple Events
-     - Hot Time
-     - Burning Project
-     - Heroes of Reboot
-     - Ursus Heroes Coin Event
-     - Maplehood Watch Event
-     
+  <summary>
+            v175.1 (Aug 2, 2016) - Heroes of Maple: Damien
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/14030/update-v-175-heroes-of-maple-damien-patch-notes
+
+     - New Content: Heroes of Maple: Act 4: Dark World Tree
+     - New Content: Heroes of Maple: New Boss: Damien
+     - New Content: Heroes of Maple: New Area: Dark World Tree
+     - Heroes of Maple Events: Heroes of Maple Clear Event
+     - Heroes of Maple Events: Heroes Ring Event
+     - Heroes of Maple Events: Heroes Box
+     - Heroes of Maple Events: Heroes Coin Shop
+     - Other New Events: Hot Time
+     - Other New Events: Beast Tamer Character Creation
+     - Other New Events: Nihal Desert Trade Tycoon
+     - Other New Events: 2x EXP & Drop Weekends
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Burning Project
 </details>
 
 <details>
-     <summary>
-            v174 (Jun 22, 2016)
-     </summary>
- 
-     - New Content: Heroes of Maple
-     - Heroes of Maple Act 1: Slumbering Dragon Island
-     - Heroes of Maple Act 1.5: Reunion
-     - Heroes of Maple Act 2: Abraxas
-     - Job Revamps 
-     - Job Revamps Balance Changes
-     - Job Revamps Aran
-     - Job Revamps Evan
-     - Job Revamps Explorer
-     - Job Revamps Explorer Warrior
-     - Job Revamps Hero
-     - Job Revamps Paladin
-     - Job Revamps Dark Knight
-     - Job Revamps Explorer Magician
-     - Job Revamps Arch Mage (Fire, Poison)
-     - Job Revamps Arch Mage (Ice, Lightning)
-     - Job Revamps Bishop
-     - Job Revamps Bowmaster
-     - Job Revamps Marksman
-     - Job Revamps Night Lord
-     - Job Revamps Shadower
-     - Job Revamps Dual Blade
-     - Job Revamps Explorer Pirate
-     - Job Revamps Buccaneer
-     - Job Revamps Corsair
-     - Job Revamps Cannoneer
-     - Job Revamps Cygnus Knight
-     - Job Revamps Dawn Warrior
-     - Job Revamps Wind Archer
-     - Job Revamps Night Walker
-     - Job Revamps Thunder Breaker
-     - Job Revamps Hero
-     - Job Revamps Mercedes
-     - Job Revamps Phantom
-     - Job Revamps Shade
-     - Job Revamps Luminous
-     - Job Revamps Demon Slayer
-     - Job Revamps Demon Avenger
-     - Job Revamps Resistance
-     - Job Revamps Battle Mage
-     - Job Revamps Wild Hunter
-     - Job Revamps Mechanic
-     - Job Revamps Xenon
-     - Job Revamps Mihile
-     - Job Revamps Kaiser
-     - Job Revamps Angelic Buster
-     - Job Revamps Zero
-     - Job Revamps Kinesis
-     - Bug Fixes
-     - Black Heaven Reborn
-     - Monster Park Reborn
-     - Monster Collection
-     - Premium Surprise Style Box Stamp Exchange
-     - Bounty Hunter Brothers Additions
-     - Maple Runner
-     - Heroes of Maple Events
-     - Heroes Box
-     - Heroes Coin Shop
-     - Aran Level-Up Event
-     - Evan Level-Up Event
-     - Luminous Level-Up Event
-     - Mercedes Level-Up Event
-     - Phantom Level-Up Event
-     - Shade Level-Up Event
-     - Heroes of Maple Clear Event
-     - Heroes Ring Event
-     - Other New Events
-     - Hot Time
-     - Black Heaven Reborn Event
-     - 2x EXP & Drop Weekends
-     - Burning Project
-     - Zero Character Creation
-     - Spiegelmann Express
-     - Spell Trace Fever Time
-     - Maple Runner Ranking Event
-     - Tinkerer’s Chest
-     - Hot Week
-     - Hot Week 2
-     - Hot Week 3
-     
+  <summary>
+            v175 (Jul 19, 2016) - Heroes of Maple: Blaster
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/14015/updated-v-175-heroes-of-maple-blaster-patch-notes
+
+     - New Playable Character: Blaster: Overview
+     - New Playable Character: Blaster: Skills
+     - New Content: Heroes of Maple: Act 3: Unfamiliar World
+     - Additional Updates: Bug Fixes
+     - Additional Updates: Dawnveil Revamp
+     - Heroes of Maple Events: Heroes of Maple Clear Event
+     - Heroes of Maple Events: Heroes Ring Event
+     - Heroes of Maple Events: Blaster Level-Up Event
+     - Other New Events: Hot Time
+     - Other New Events: Burning Project
+     - Other New Events: Heroes of Reboot
+     - Other New Events: Ursus Heroes Coin Event
+     - Other New Events: 2x EXP & Drop Weekends
+     - Other New Events: Maplehood Watch Event
 </details>
 
 <details>
-     <summary>
-            v173 (May 17, 2016)
-     </summary>
- 
-     - Stellar Detectives quest line has been added
-     - Hyperspace Cube has been added
+  <summary>
+            v174 (Jun 22, 2016) - Heroes of Maple: Reborn
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13981/updated-v-174-heroes-of-maple-reborn-patch-notes
+
+     - New Content: Heroes of Maple: Act 1: Slumbering Dragon Island
+     - New Content: Heroes of Maple: Act 1.5: Reunion
+     - New Content: Heroes of Maple: Act 2: Abraxas
+     - Job Revamps: Balance Changes
+     - Job Revamps: Aran
+     - Job Revamps: Evan
+     - Job Revamps: Explorer
+     - Job Revamps: Explorer Warrior
+     - Job Revamps: Hero
+     - Job Revamps: Paladin
+     - Job Revamps: Dark Knight
+     - Job Revamps: Explorer Magician
+     - Job Revamps: Arch Mage (Fire, Poison)
+     - Job Revamps: Arch Mage (Ice, Lightning)
+     - Job Revamps: Bishop
+     - Job Revamps: Bowmaster
+     - Job Revamps: Marksman
+     - Job Revamps: Night Lord
+     - Job Revamps: Shadower
+     - Job Revamps: Dual Blade
+     - Job Revamps: Explorer Pirate
+     - Job Revamps: Buccaneer
+     - Job Revamps: Corsair
+     - Job Revamps: Cannoneer
+     - Job Revamps: Cygnus Knight
+     - Job Revamps: Dawn Warrior
+     - Job Revamps: Wind Archer
+     - Job Revamps: Night Walker
+     - Job Revamps: Thunder Breaker
+     - Job Revamps: Hero
+     - Job Revamps: Mercedes
+     - Job Revamps: Phantom
+     - Job Revamps: Shade
+     - Job Revamps: Luminous
+     - Job Revamps: Demon Slayer
+     - Job Revamps: Demon Avenger
+     - Job Revamps: Resistance
+     - Job Revamps: Battle Mage
+     - Job Revamps: Wild Hunter
+     - Job Revamps: Mechanic
+     - Job Revamps: Xenon
+     - Job Revamps: Mihile
+     - Job Revamps: Kaiser
+     - Job Revamps: Angelic Buster
+     - Job Revamps: Zero
+     - Job Revamps: Kinesis
+     - Additional Updates: Bug Fixes
+     - Additional Updates: Black Heaven Reborn
+     - Additional Updates: Monster Park Reborn
+     - Additional Updates: Monster Collection
+     - Additional Updates: Premium Surprise Style Box Stamp Exchange
+     - Additional Updates: Bounty Hunter Brothers Additions
+     - Additional Updates: Maple Runner
+     - Additional Updates: Additional Changes
+     - Heroes of Maple Events: Heroes Box
+     - Heroes of Maple Events: Heroes Coin Shop
+     - Heroes of Maple Events: Aran Level-Up Event
+     - Heroes of Maple Events: Evan Level-Up Event
+     - Heroes of Maple Events: Luminous Level-Up Event
+     - Heroes of Maple Events: Mercedes Level-Up Event
+     - Heroes of Maple Events: Phantom Level-Up Event
+     - Heroes of Maple Events: Shade Level-Up Event
+     - Heroes of Maple Events: Heroes of Maple Clear Event
+     - Heroes of Maple Events: Heroes Ring Event
+     - Other New Events: Hot Time
+     - Other New Events: Black Heaven Reborn Event
+     - Other New Events: 2x EXP & Drop Weekends
+     - Other New Events: Burning Project
+     - Other New Events: Zero Character Creation
+     - Other New Events: Spiegelmann Express
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Maple Runner Ranking Event
+     - Other New Events: Tinkerer’s Chest
+     - Other New Events: Hot Week
+     - Other New Events: Hot Week 2
+     - Other New Events: Hot Week 3
 </details>
 
 <details>
-     <summary>
-            v172 (Apr 19, 2016)
-     </summary>
- 
-     - Many classes have received skill changes to balance them
-     - Zakum has been revamped
-     - Easy mode Empress has been added
-     - Bounty Hunter Portals have been added
-     - Rune of Hordes, Skill, and Barrage have been added
-     - Rune of Decay has been removed
-     - Transfer hammer has been updated
-     - Combo orbs now give more EXP
-     - Sudden missions now give more exp and spell traces
-     - Mu Lung Dojo has been updated
-     - Dimensional Mirror has been removed from Ellinia, Period, Kerning City, and Lith Harbor
-     - Final damage has been removed from the calculation of damage stat
+  <summary>
+            v173 (May 17, 2016) - Detectives
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13957/v-173-detectives-patch-notes
+
+     - New Content: Stellar Detectives: Stellar Detectives
+     - New Content: Stellar Detectives: Boss Rewards
+     - New Content: Stellar Detectives: Hyperspace Box Contents
+     - New Content: Stellar Detectives: Random Badge Box Contents
+     - New Content: Stellar Detectives: Achievements
+     - New Content: Stellar Detectives: NPC Shops
+     - Additional Updates: Bug Fixes
+     - New Events: Monster Picnic
+     - New Events: Time Capsule
+     - New Events: 2x EXP & Drop Weekend
+     - New Events: World Tour
+     - New Events: Otherworld Clover
+     - New Events: Three Bowl Brothers
+     - New Events: June Attendance Event
+     - New Events: Dark Decree
+     - New Events: Spell Trace Fever Time
+     - New Events: [Updated 6/7] Sengoku High
 </details>
 
 <details>
-     <summary>
-            v171 (Mar 09, 2016)
-     </summary>
- 
-     - Mastera Through Time parts 1 and 2 have been added
-     - Masteria quests now give new equipment
-     - Masteria has been revamped
-     - Beasts of Fury 2 has been added
-     - Shaolin Temple Theme Dungeon has been added
-     - Shanghai has been added
+  <summary>
+            v172 (Apr 19, 2016) - Maple’s Eleven
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13926/v-172-maple-s-eleven-patch-notes
+
+     - Job Rebalancing: Ultimate Explorer
+     - Job Rebalancing: Hero
+     - Job Rebalancing: Paladin
+     - Job Rebalancing: Dark Knight
+     - Job Rebalancing: Explorer Magician
+     - Job Rebalancing: Arch Mage (Fire, Posion)
+     - Job Rebalancing: Arch Mage (Thunder, Ice)
+     - Job Rebalancing: Bishop
+     - Job Rebalancing: Bowmaster
+     - Job Rebalancing: Marksman
+     - Job Rebalancing: Explorer Thief
+     - Job Rebalancing: Night Lord
+     - Job Rebalancing: Shadower
+     - Job Rebalancing: Dual Blade
+     - Job Rebalancing: Buccaneer
+     - Job Rebalancing: Corsair
+     - Job Rebalancing: Cannoneer
+     - Job Rebalancing: Cygnus Knight
+     - Job Rebalancing: Dawn Warrior
+     - Job Rebalancing: Blaze Wizard
+     - Job Rebalancing: Wind Archer
+     - Job Rebalancing: Night Walker
+     - Job Rebalancing: Thunder Breaker
+     - Job Rebalancing: Aran
+     - Job Rebalancing: Evan
+     - Job Rebalancing: Mercedes
+     - Job Rebalancing: Phantom
+     - Job Rebalancing: Shade
+     - Job Rebalancing: Luminous
+     - Job Rebalancing: Demon Slayer
+     - Job Rebalancing: Demon Avenger
+     - Job Rebalancing: Resistance
+     - Job Rebalancing: Battle Mage
+     - Job Rebalancing: Wild Hunter
+     - Job Rebalancing: Mechanic
+     - Job Rebalancing: Xenon
+     - Job Rebalancing: Mihile
+     - Job Rebalancing: Kaiser
+     - Job Rebalancing: Angelic Buster
+     - Job Rebalancing: Zero
+     - Boss Updates: Zakum: The Newborn
+     - Boss Updates: Boss Reward Changes
+     - Boss Updates: Easy Mode: Empress Cygnus
+     - Additional Updates: Bounty Hunter Brothers
+     - Additional Updates: Rune Revamp
+     - Additional Updates: Transfer Hammer Update
+     - Additional Updates: Combo Update
+     - Additional Updates: Surprise Mission Update
+     - Additional Updates: Mu Lung Dojo Update
+     - Additional Updates: Dimensional Mirror Removal
+     - Additional Updates: Bug Fixes
+     - Additional Updates: [Updated 5/17] Cooldown Reduction Potentials
+     - Additional Updates: [Updated 5/17] Star Planet Changes
+     - Additional Updates: [Updated 5/17] Other Skill Changes
+     - Additional Updates: [Updated 5/17] Event List
+     - 11th Anniversary Events: Monster Tales
+     - 11th Anniversary Events: 11th Anniversary Hot Day
+     - 11th Anniversary Events: Rob the Monster’s Treasure Storage
+     - 11th Anniversary Events: Rob the Mesopreso Storage
+     - 11th Anniversary Events: Searching Our Long Lost Storage
+     - 11th Anniversary Events: Random Portal Sweepaway
+     - 11th Anniversary Events: Weekend Coin Shop Smash
+     - 11th Anniversary Events: 11th Anniversary Commemorative Box
+     - 11th Anniversary Events: Developer’s Letter
+     - 11th Anniversary Events: The Grateful Bellflower
+     - 11th Anniversary Events: Hot Air Balloon
+     - 11th Anniversary Events: Meso Shower
+     - 11th Anniversary Events: Anniversary Attendance Check
+     - 11th Anniversary Events: Maple Anniversary Museum
+     - 11th Anniversary Events: 11th Anniversary Coin Shop
+     - 11th Anniversary Events: Sweet Maple Ice Cream Pop
+     - 11th Anniversary Events: Surprise Chance
+     - 11th Anniversary Events: Share That Festive Feeling
+     - 11th Anniversary Events: Commemorative Photo Cutout
+     - Other New Events: Magnificent Soul Event
+     - Other New Events: Murgoth Dungeon
+     - Other New Events: Zakum Crush
+     - Other New Events: Tuner’s Three Quests
+     - Other New Events: Mu Lung Dojo's Unity Training Center Event
+     - Other New Events: 2x EXP & Drop Weekends
+     - Other New Events: Spell Trace Fever Time
+     - Other New Events: Burning Project
+     - Other New Events: Spring Valley Expedition
+     - Other New Events: Maple Holiday Board Game
 </details>
 
 <details>
-     <summary>
-            v170 (Jan 13, 2016)
-     </summary>
- 
-     - Ursus the Mighty has been added to the game
-     - Korean Folk Town has been revamped
-     - Spiegelmann's Ghost Park has been added to the game
-     - MapleTV has been removed from the Free Market
+  <summary>
+            v171 (Mar 9, 2016) - Masteria Through Time
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13885/v-171-masteria-through-time-patch-notes
+
+     - Masteria Through Time: Part 1
+     - Masteria Through Time: Part 2
+     - Masteria Through Time: New Masteria Equipment
+     - Masteria Through Time: Masteria Revamp
+     - New Dungeons: Beasts of Fury 2
+     - New Dungeons: Shaolin Temple Theme Dungeon
+     - New Area: Shanghai
+     - Additional Updates: Bug Fixes
+     - New Events: Masteria Time Traveler’s Pack
+     - New Events: Masteria Expansion Celebratory Event
+     - New Events: Masteria Through Time Clear Event
+     - New Events: Tinkerer’s Chest
+     - New Events: Attendance: Check in to Win!
+     - New Events: Spring Break 2x EXP & Drop Weekends
+     - New Events: Hot Week
+     - New Events: Weekly Cube Mission
+     - New Events: Cash Inventory Transfer Event
+     - New Events: Spell Trace Fever Time
+     - New Events: Special Beauty Coupon Event
+     - New Events: Maple Leaf High
+     - New Events: Pink Zakum
+     - New Events: Hot Week 2
+     - Easter Events: The Great Easter Egg Hunt
+     - Easter Events: Golden Egg Coloring
+     - Easter Events: The Mad Bunny
+     - Spring Events: Of Mice and Bunnies
+     - Spring Events: Operation - Return the Spring Bunny Family Home!
+     - Spring Events: Spring Event Achievement
+     - Spring Events: Spring Gift Set
+     - Spring Events: Spring Coin Shop
 </details>
 
 <details>
-     <summary>
-            v169 (Dec 15, 2015)
-     </summary>
- 
-     - Kinesis has been added to the game
-     - Mu Lung Dojo has been revamped
+  <summary>
+            v170 (Jan 13, 2016) - Ursus
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13836/v-170-ursus-patch-notes
+
+     - New Boss: Ursus The Mighty
+     - Additional Updates: Korean Folk Town
+     - Additional Updates: Spiegelmann's Ghost Park
+     - Additional Updates: MapleTV Removal
+     - New Events: Beast Tamer Character Creation
+     - New Events: White Monkey Attendance Check Season 1
+     - New Events: Burning Project
+     - New Events: 2x EXP & Drop Weekends
+     - New Events: Spell Trace Fever Time
+     - New Events: Absolute Belt Event
+     - New Events: White Monkey Attendance Check Season 2
+     - New Events: Hunter's Club
+     - New Events: Spiegelmann's Ghost Park Opening Event
+     - New Events: Special Beauty Coupon Week
+     - New Events: Hot Week
+     - New Events: Love Your Pet Hot Day
+     - New Events: Hot Week 2
+     - New Events: Leap Year Hot Day
+     - New Events: Spring Break Hot Days
+     - Lunar New Year World of Divination Events: Henesys's Lucky Pig Fortune Telling
+     - Lunar New Year World of Divination Events: Edelstein Bleigiessen
+     - Lunar New Year World of Divination Events: Shanghai's Yu Rang Fortune Telling
+     - Lunar New Year World of Divination Events: Rien's Glacial Fortune Telling
+     - Valentine's Day Events: Sweet in the Center
+     - Valentine's Day Events: Cassandra's Special Candy
+     - Valentine's Day Events: Blackheart Day
+     - Valentine's Day Events: Cassandra's Dating Advice
+     - Valentine's Day Events: Valentine's Day Heart-Shaped Box
+     - Valentine's Day Events: Maple World’s Sweet Valentine's Day
+     - Mardi Gras Events: Mardi Gras Throw
+     - Mardi Gras Events: Mardi Gras Masks
 </details>
 
 <details>
-     <summary>
-            v168 (Dec 01, 2015)
-     </summary>
- 
-     - Most jobs have a skill change of some sort
-     - Reboot Server added to the list of current worlds
-     - Battle Analysis system has been added to the game
-     - Hyper Stat system has been revamped
-     - Transfer hammer has been added to the game
-     - More Star Force maps have been added to the game
-     - Theme dungeons below level 100 now have new rewards
-     - Mastery books can now be acquired more easily
-     - Owl on Minerva can now search for tradable cash shop items
+  <summary>
+            v169 (Dec 15, 2015) - Kinesis
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13808/v-169-kinesis-patch-notes
+
+     - New Playable Character: Kinesis: Overview
+     - New Playable Character: Kinesis: Skills
+     - Additional Updates: Beasts of Mu Lung
+     - New Events: Kinesis Level-Up Support Event
+     - New Events: Catch a Snowflake
+     - New Events: December Big Spender Event
+     - New Events: Star World Event Dungeon
+     - New Events: Winter 2x EXP & Drop Weekends
+     - New Events: Winter Solstice 2x EXP & Drop Marathon
+     - New Events: Cassandra's Christmas Present
+     - New Events: Hot Time
+     - New Events: Hot Week
+     - New Year's Events: New Year's Countdown
+     - New Year's Events: The Kiterunner
+     - New Year's Events: Get the Glowing Ghost
+     - New Year's Events: Glowing Ghostbusters
 </details>
 
 <details>
-     <summary>
-            v167 (Oct 28, 2015)
-     </summary>
- 
-     - Alishan has been added to the game
-     - Hackshield is no longer integrated with MapleStory(removed)
+  <summary>
+            v168 (Dec 1, 2015) - Reboot
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13793/v-168-reboot-patch-notes
+
+     - New World: Reboot
+     - Job Revamps: Explorer
+     - Job Revamps: Warrior
+     - Job Revamps: Hero
+     - Job Revamps: Paladin
+     - Job Revamps: Dark Knight
+     - Job Revamps: Magician
+     - Job Revamps: Arch Mage (Fire, Posion)
+     - Job Revamps: Arch Mage (Ice, Lightning)
+     - Job Revamps: Bishop
+     - Job Revamps: Bowman
+     - Job Revamps: Bowmaster
+     - Job Revamps: Marksman
+     - Job Revamps: Thief
+     - Job Revamps: Night Lord
+     - Job Revamps: Shadower
+     - Job Revamps: Buccaneer
+     - Job Revamps: Corsair
+     - Job Revamps: Dual Blade
+     - Job Revamps: Cannoneer
+     - Job Revamps: Mihile
+     - Job Revamps: Cygnus Knight
+     - Job Revamps: Dawn Warrior
+     - Job Revamps: Blaze Wizard
+     - Job Revamps: Wind Archer
+     - Job Revamps: Night Walker
+     - Job Revamps: Thunder Breaker
+     - Job Revamps: Aran
+     - Job Revamps: Evan
+     - Job Revamps: Mercedes
+     - Job Revamps: Phantom
+     - Job Revamps: Shade
+     - Job Revamps: Luminous
+     - Job Revamps: Demon Slayer
+     - Job Revamps: Demon Avenger
+     - Job Revamps: Battle Mage
+     - Job Revamps: Wild Hunter
+     - Job Revamps: Mechanic
+     - Job Revamps: Xenon
+     - Job Revamps: Kaiser
+     - Job Revamps: Angelic Buster
+     - Job Revamps: Zero
+     - Additional Updates: Battle Analysis System
+     - Additional Updates: Hyper Stat System
+     - Additional Updates: Transfer Hammer
+     - Additional Updates: ’A Better Maple’ Update
+     - Additional Updates: New Star Force Hunting Grounds
+     - Additional Updates: Theme Dungeon Rewards
+     - Additional Updates: Mastery Books
+     - Additional Updates: Content Changes
+     - Additional Updates: Mu Lung Dojo Restriction
+     - Reboot Events: Reboot Attendance Check
+     - Reboot Events: Reboot Coin Shop
+     - Holiday Events: Sizzling Santa
+     - Holiday Events: Happyville
+     - Holiday Events: Christmas Everywhere
+     - Holiday Events: The Grand Christmas Tree
+     - Holiday Events: Santa’s Shining Gift
+     - Holiday Events: Christmas Stocking
+     - Holiday Events: Beat the Bad Rudolph
+     - Other New Events: Zero Character Creation
+     - Other New Events: Kinesis Reservation Event
+     - Other New Events: Hot Time
+     - Other New Events: Hot Days
 </details>
 
 <details>
-     <summary>
-            v166 (Oct 06, 2015)
-     </summary>
- 
-     - Kanna received a minor revamp
-     - Hayato received a minor revamp
-     - You can hide visual effects for items in the equipment tab (equip effects)
-     - Tot's Know-how has been revamped
-     - Feedback Survey System has been added to the game on log out
+  <summary>
+            v167 (Oct 28, 2015) - Welcome to Alishan
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13741/v-167-welcome-to-alishan-patch-notes
+
+     - New Content: Alishan
+     - Additional Updates: HackShield Removal
+     - Halloween Weekend Events: Madhouse: Epilogue
+     - Halloween Weekend Events: Halloween Monster Invasion
+     - Halloween Weekend Events: Halloween Hot Weekend
+     - Thanksgiving Events: Thanksgiving!
+     - Thanksgiving Events: Food Fight!
+     - Thanksgiving Events: Wish Bone
+     - Thanksgiving Events: Cody and the Cyberturkeys
+     - Thanksgiving Events: Pumpkin Pie
+     - Thanksgiving Events: Turkey Egg Hunt
+     - Mustache Events: Everyone Needs One Good Mustache
+     - Mustache Events: Mustache Shop
+     - Other New Events: Maple Leaf High
+     - Other New Events: World Leap Event
+     - Other New Events: Cash Inventory Transfer Event
+     - Other New Events: Junk Food
+     - Other New Events: Return of the Time Capsule Event
+     - Other New Events: Double Maple Rewards
+     - Other New Events: Tinkerer's Chest
+     - Other New Events: Hot Week
+</details>
+
+<details>
+  <summary>
+            v166 (Oct 6, 2015) - Asylum
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/13720/v-166-asylum-patch-notes
+
+     - Halloween Events: Madhouse
+     - Halloween Events: Halloween Star Planet
+     - Halloween Events: Witch Malady's Secret Mission
+     - Halloween Events: Olivia and the Haunted Mansion
+     - Halloween Events: The Kid Gamsper
+     - Halloween Events: Dark Lords of Darkness
+     - Halloween Events: Zombie Survival
+     - Halloween Events: Pre-Halloween Hot Weekend
+     - Kanna and Hayato Update: Kanna and Hayato Creation Opens
+     - Kanna and Hayato Update: Kanna
+     - Kanna and Hayato Update: Hayato
+     - A Better Maple: Equipment Effect System
+     - Additional Updates: Tot's Know-How
+     - Additional Updates: Feedback Survey System
+     - Kanna and Hayato Events: A Stronger Sengoku - Spirit of Sengoku (Existing Characters)
+     - Kanna and Hayato Events: A Stronger Sengoku - Promise of Progress (New Characters)
+     - Other New Events: Character Name Change Event
+     - Other New Events: Pink Bean's Gift Box
+     - Other New Events: Futuroid Event
+</details>
+
+<details>
+  <summary>
+            v165 (Aug 18, 2015) - Pink Bean: Superstar
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/13674/v-165-pink-bean-superstar-patch-notes
+
+     - New Playable Character Event: Pink Bean: Pink Bean
+     - New Playable Character Event: Pink Bean: Pink Bean's Secret Diary
+     - New Playable Character Event: Pink Bean: Pink Bean's Gift Box
+     - Additional Updates: Party Quest Revamp
+     - Additional Updates: Chryse PQ Revamp
+     - Additional Updates: Tower of Oz Revamp
+     - Additional Updates: Burning Field System
+     - Additional Updates: Maple Guide
+     - Additional Updates: Mu Lung Dojo Ranking
+     - Additional Updates: Elite Boss Revamp
+     - Additional Updates: Sudden Mission System
+     - Additional Updates: Star Planet Changes
+     - Additional Updates: Character Creation Restrictions
+     - Additional Updates: Intro Video
+     - Additional Updates: Soul Weapon UI
+     - New Events: Lemonade Stand Event
+     - New Events: Murgoth Dungeon
+     - New Events: Pink Bean Hot Weekends
+     - New Events: Spell Trace Fever Time
+     - New Events: 2x EXP/Drop Weekends
+     - New Events: Cube Mission Event
+     - New Events: Maple Bonfire
+     - New Events: Time Capsule Event
+     - New Events: Mystic Gate Reopening
+     - New Events: Burning Character
+     - New Events: Back to School Attendance Check In
+     - New Events: Maple Sports Day Event
+     - New Events: Homecoming Queen Bee Event
+     - New Events: Freud's Journal Season 2
+     - New Events: Hot Weeks
 </details>
 
 <details>
