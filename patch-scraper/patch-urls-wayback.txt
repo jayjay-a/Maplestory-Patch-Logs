@@ -22,11 +22,12 @@ https://web.archive.org/web/20130103082619/http://maplestory.nexon.net/news/upda
 https://web.archive.org/web/20121219111606/http://maplestory.nexon.net/news/updates/update-notes/00FHC/v-118-champions-update-notes
 https://web.archive.org/web/20121217020700/http://maplestory.nexon.net/news/updates/update-notes/00FCK/v-117-new-dawn-update-notes
 https://web.archive.org/web/20121120063153/http://maplestory.nexon.net/news/updates/update-notes/00F5s/v-115-mutiny-update-notes
-https://web.archive.org/web/20130103082614/http://maplestory.nexon.net/news/updates/update-notes/00F1s/v-114-renegades-fight-for-azwan-update-notes
 https://web.archive.org/web/20121027005119/http://maplestory.nexon.net/news/updates/update-notes/00Exj/v-112-renegades-phantom-update-notes
 https://web.archive.org/web/20121027005110/http://maplestory.nexon.net/news/updates/update-notes/00Eu1/v-112-renegades-jett-update-notes
 https://web.archive.org/web/20121026235051/http://maplestory.nexon.net/news/updates/update-notes/00Etn/v-111-maple-class-reunion-update-notes
 https://web.archive.org/web/20121018004241/http://maplestory.nexon.net:80/news/updates/update-notes/00Et3/v-109-alliance-eternal-update-notes
+https://web.archive.org/web/20130103082614/http://maplestory.nexon.net/news/updates/update-notes/00F1s/v-114-renegades-fight-for-azwan-update-notes
+https://web.archive.org/web/20121027005119/http://maplestory.nexon.net/news/updates/update-notes/00Exj/v-112-renegades-phantom-update-notes
 https://web.archive.org/web/20121022103439/http://maplestory.nexon.net:80/news/updates/update-notes/00Est
 https://web.archive.org/web/20121110214115/http://maplestory.nexon.net:80/news/updates/update-notes/00Eqv/v-106-alliance-rising-update-notes
 https://web.archive.org/web/20121027005049/http://maplestory.nexon.net:80/news/updates/update-notes/00Epd/v-105-year-of-the-dragon-update-notes
@@ -41,3 +42,10 @@ https://web.archive.org/web/20121127013802/http://maplestory.nexon.net:80/news/u
 https://web.archive.org/web/20121210175950/http://maplestory.nexon.net:80/news/updates/update-notes/00Em8/v-93-big-bang-update-notes
 https://web.archive.org/web/20130727064421/http://maplestory.nexon.net:80/news/updates/update-notes/00EmA/v-90-update-notes
 https://web.archive.org/web/20130729040711/http://maplestory.nexon.net:80/news/updates/update-notes/00Eli
+https://web.archive.org/web/20130114024331/http://maplestory.nexon.net:80/news/updates/update-notes/00Ei0/winter-wonder-update-v-81-update-notes
+https://web.archive.org/web/20121028084348/http://maplestory.nexon.net:80/news/updates/update-notes/00Egw/aran-update-v-80-update-notes
+https://web.archive.org/web/20121029091648/http://maplestory.nexon.net:80/news/updates/update-notes/00EiP
+https://web.archive.org/web/20130114054632/http://maplestory.nexon.net:80/news/updates/update-notes/00Ei1/halloween-update-v-77-update-notes
+https://web.archive.org/web/20150313211853/http://maplestory.nexon.net:80/news/updates/update-notes/00EeE
+https://web.archive.org/web/20150710061654/http://maplestory.nexon.net:80/news/updates/update-notes/00Eey/content-patch-ver-0-60
+https://web.archive.org/web/20150313210117/http://maplestory.nexon.net:80/news/updates/update-notes/00EaJ

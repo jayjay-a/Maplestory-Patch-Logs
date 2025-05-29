@@ -56,41 +56,80 @@ def date_from(soup: BeautifulSoup, url: str) -> str:
 # ───────────────────── TOC scraper ─────────────────────
 def parse_wayback_toc(soup: BeautifulSoup) -> dict:
     """
-    Tries to build a structured ToC by detecting heading -> list relationships,
-    falling back to h2/h3 + li/p for older layouts.
+    Handles legacy TOCs with either:
+    - <p><b>Header</b></p><ul>…</ul>
+    - or <p><b>Header</b><ul>…</ul></p>
+    Stops parsing when layout changes (e.g. hits a <div class="hr">).
     """
-    toc_root = (
-        soup.find("div", class_="margin-bottom")
-        or soup.find("div", class_="content-article")
-        or soup.body
-    )
+    toc_start = soup.find("h1", string=re.compile("Table of Contents", re.I))
+    if not toc_start:
+        raise RuntimeError("Couldn't find Table of Contents heading.")
 
-    sections: Dict[str, List[str]] = {}
-    current_header = None
+    result = {}
+    el = toc_start
 
-    for tag in toc_root.find_all(["h2", "h3", "p", "ul", "ol"]):
-        if tag.name in ["h2", "h3"]:
-            current_header = tag.get_text(strip=True)
-            if current_header:
-                sections[current_header] = []
-        elif current_header:
-            if tag.name in ["ul", "ol"]:
-                for li in tag.find_all("li"):
-                    txt = li.get_text(strip=True)
-                    if txt:
-                        sections[current_header].append(txt)
-            elif tag.name == "p":
-                txt = tag.get_text(strip=True)
-                if txt:
-                    sections[current_header].append(txt)
+    while el:
+        el = el.find_next_sibling()
+        if not el or el.name == "h1":
+            break
+        if isinstance(el, Tag) and el.name == "div" and "hr" in el.get("class", []):
+            break  # Stop after ToC section
 
-    return {k: v for k, v in sections.items() if v}
+        if el.name == "p":
+            b = el.find("b")
+            if not b:
+                continue
+            section = b.get_text(strip=True)
+
+            # Option 1: inline <ul> inside <p>
+            inline_ul = el.find("ul")
+            if inline_ul:
+                items = [li.get_text(strip=True) for li in inline_ul.find_all("li")]
+                if items:
+                    result[section] = items
+                continue
+
+            # Option 2: next sibling <ul>
+            next_ul = el.find_next_sibling()
+            while next_ul and next_ul.name != "ul":
+                if next_ul.name and next_ul.name.startswith("h"):
+                    break
+                next_ul = next_ul.find_next_sibling()
+
+            if next_ul and next_ul.name == "ul":
+                items = [li.get_text(strip=True) for li in next_ul.find_all("li")]
+                if items:
+                    result[section] = items
+
+    if not result:
+        raise RuntimeError("No TOC sections found.")
+
+    return result
+
+def parse_headings_as_toc(soup: BeautifulSoup) -> dict:
+    """
+    Fallback if no ToC found: use top-level <h1> headings as sections.
+    """
+    headers = soup.find_all("h1")
+    if not headers or len(headers) < 2:
+        raise RuntimeError("Not enough headings to infer TOC.")
+
+    result = {}
+    for h in headers[1:]:  # skip the first title h1
+        text = h.get_text(strip=True)
+        if text and len(text) < 80:
+            result[text] = []
+    return result
 
 
 # ───────────────────── scrape & write ─────────────────────
 def scrape(url: str, out_dir: Path, overwrite: bool):
     soup = fetch(url)
-    toc = parse_wayback_toc(soup)
+    try:
+        toc = parse_wayback_toc(soup)
+    except RuntimeError:
+        toc = parse_headings_as_toc(soup)
+
     if not toc:
         raise RuntimeError("No TOC sections found")
 
