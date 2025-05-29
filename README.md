@@ -145,7 +145,7 @@
      - Other Events: Frenzy of the Source
      - Other Events: New Name Auction
      - Other Events: The Dark Ride: Ride or Die
-     - Other Events: Sunny Sunday
+     - Other Events: Sunny Sunday (2x Shining Star Force Time)
      - Other Events: Spell Trace Fever Time
      - Other Events: Miracle Time
      - Bug Fixes: Bug Fixes
@@ -199,7 +199,7 @@
      - Burning Events: Tera Blink
      - Burning Events: Burning World
      - Burning Events: Burning World Leap
-     - Other Events: Sunny Sunday
+     - Other Events: Sunny Sunday (Shining Star Force Time)
      - Other Events: Spell Trace Fever Time
 </details>
 
@@ -575,7 +575,7 @@
      - New Age Events: Instanced Sacred Power Hunting Zones
      - Other Events: Jett Job Advancement
      - Other Events: Journey Toward the Sixth Star Rewards
-     - Other Events: Sunny Sunday
+     - Other Events: Sunny Sunday (Shining Star Force Time)
      - Other Events: Spell Trace Fever Time
      - Bug Fixes & Known Issues: Bug Fixes
 </details>
@@ -724,7 +724,7 @@
      - Other Events: Khali’s Journey
      - Other Events: Khali’s Wish
      - Other Events: Miracle Time
-     - Other Events: Sunny Sunday
+     - Other Events: Sunny Sunday (Shining Star Force Time)
      - Other Events: Spell Trace Fever Time
      - Bug Fixes: Bug Fixes
 </details>
@@ -996,7 +996,7 @@
      - Other Events: Beast Tamer Creation
      - Other Events: Zero Creation
      - Other Events: New Journey
-     - Other Events: Sunny Sunday
+     - Other Events: Sunny Sunday (Shining Star Force Time)
      - Other Events: Spell Trace Fever Event
 </details>
 
@@ -2548,7 +2548,7 @@
      - New Content: Bug Fixes
      - New Events: Dice Master
      - New Events: Recruiting New Members
-     - New Events: Sunny Sunday Perk
+     - New Events: Sunny Sunday Perk (First Sunny Sunday)
      - New Events: September Attendance Check
      - New Events: Challenge! Rainbow Spectrum
      - New Events: Absolute Taste
