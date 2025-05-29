@@ -1,18 +1,36 @@
 {
-  "__url__": "https://web.archive.org/web/20121027005119/http://maplestory.nexon.net/news/updates/update-notes/00Exj/v-112-renegades-phantom-update-notes",
-  "__date__": "Jul 06, 2012",
-  "__title__": "Renegades: Phantom",
-  "New Playable Class: Phantom": [
-    "Intro",
-    "Overview",
-    "Notable Information",
-    "Skills"
+  "__url__": "https://web.archive.org/web/20121027005110/http://maplestory.nexon.net/news/updates/update-notes/00Eu1/v-112-renegades-jett-update-notes",
+  "__date__": "Jun 26, 2012",
+  "__title__": "Renegades: Jett",
+  "New Content": [
+    "Jett",
+    "Phantom (7/9)",
+    "Part-Time Job",
+    "Character Card System",
+    "Navigation System",
+    "Level-Up Guide",
+    "New Weapons"
   ],
-  "New Events": [
-    "Phantom Celebration Day (7/9 - 7/14)",
-    "Phantom Welcome Event: Free Character Slot (7/9 - 8/8)",
-    "Renegades Coin Shop Update",
-    "New World Events: Renegades (7/9 - 7/31)",
-    "Renegades: Jett ongoing events"
+  "Updated Content": [
+    "Thief Class Rebalance",
+    "Other Class Rebalances",
+    "Boss Content",
+    "Party Quests/Competitive Content",
+    "Monster Park",
+    "Neo City",
+    "Battle Square",
+    "NPCs",
+    "Monsters",
+    "Quests",
+    "Miscellaneous"
+  ],
+  "Resolved and Known Issues": [
+    "Fixes",
+    "Known Issues"
+  ],
+  "Appendix": [
+    "Skill Changes",
+    "Event Notes Part 1",
+    "Event Notes Part 2"
   ]
 }
