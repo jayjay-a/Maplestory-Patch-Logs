@@ -11,9 +11,10 @@ def extract_version_num(version: str) -> int:
     m = re.search(r"\d+", version)
     return int(m.group()) if m else 0
 
-def format_patch_summary(version: str, date: Optional[str], url: Optional[str], sections: Dict[str, List[str]]) -> str:
+def format_patch_summary(version: str, date: Optional[str], url: Optional[str], title: Optional[str], sections: Dict[str, List[str]]) -> str:
     date_part = f" ({date})" if date else ""
-    summary = f"{version}{date_part}"
+    title_part = f" - {title}" if title else ""
+    summary = f"{version}{date_part}{title_part}"
     md = [f"<details>\n  <summary>\n            {summary}\n  </summary>"]
     if url:
         md.append(f"\n  URL: {url}\n")
@@ -32,12 +33,14 @@ def load_patches(dir_path: pathlib.Path) -> List[Dict]:
             data = json.loads(file.read_text(encoding="utf-8"))
             url = data.get("__url__", None)
             date = data.get("__date__", None)
+            title = data.get("__title__", None)
             sections = {k: v for k, v in data.items() if not k.startswith("__")}
             version = file.stem
             patches.append({
                 "version": version,
                 "date": date,
                 "url": url,
+                "title": title,
                 "sections": sections
             })
         except Exception as e:
@@ -66,7 +69,7 @@ def main():
     # Sort new patches descending
     new_patches.sort(key=lambda p: extract_version_num(p["version"]), reverse=True)
 
-    new_md_blocks = [format_patch_summary(p["version"], p["date"], p["url"], p["sections"]) for p in new_patches]
+    new_md_blocks = [format_patch_summary(p["version"], p["date"], p["url"], p["title"], p["sections"]) for p in new_patches]
     new_content = "\n".join(new_md_blocks) + "\n"
 
     if OUTPUT_FILE.exists():
@@ -80,3 +83,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
