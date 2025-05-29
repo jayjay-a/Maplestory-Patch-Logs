@@ -5236,7 +5236,7 @@
 
 <details>
      <summary>
-            v0.98 (May 25, 2011) - Cake vs Pie2: Winter Bake
+            v98 (May 25, 2011) - Cake vs Pie2: Winter Bake
      </summary>
  
      - Cake vs. Pie Town Battles Event
@@ -5249,7 +5249,7 @@
 
 <details>
      <summary>
-            v0.97 (Apr 27, 2011) - Jubilation
+            v97 (Apr 27, 2011) - Jubilation
      </summary>
  
      - Anniversary
@@ -5364,7 +5364,7 @@
 
 <details>
      <summary>
-            v0.92 (Nov 23, 2010)
+            v92 (Nov 23, 2010)
      </summary>
  
      - Improve compatibility with modern Windows operating systems
@@ -5398,7 +5398,7 @@
 
 <details>
      <summary>
-            v0.91 (Oct 27, 2010)
+            v91 (Oct 27, 2010)
      </summary>
  
      - Introducing eTracer
@@ -5447,7 +5447,7 @@
 
 <details>
      <summary>
-            v0.88 (Jul 21, 2010)
+            v88 (Jul 21, 2010)
      </summary>
  
      - Dual Blade Class
@@ -5466,7 +5466,7 @@
 
 <details>
      <summary>
-            v0.87 (Jun 23, 2010)
+            v87 (Jun 23, 2010)
      </summary>
  
      - Bug Fix
@@ -5477,7 +5477,7 @@
 
 <details>
      <summary>
-            v0.86 (Jun 16, 2010)
+            v86 (Jun 16, 2010)
      </summary>
  
      - Friend Finder
@@ -5496,7 +5496,7 @@
 
 <details>
      <summary>
-            v0.85 (May 05, 2010) Maple Story 5th Anniversary
+            v85 (May 05, 2010) Maple Story 5th Anniversary
      </summary>
  
      - Birthday Patch
@@ -5519,7 +5519,7 @@
 
 <details>
      <summary>
-            v0.84 (Mar 31, 2010)
+            v84 (Mar 31, 2010)
      </summary>
  
      - Evan Class
@@ -5540,7 +5540,7 @@
 
 <details>
      <summary>
-            v0.83 (Feb 22, 2010)
+            v83 (Feb 22, 2010)
      </summary>
  
      - Kerning Square Mall
@@ -5556,7 +5556,7 @@
 
 <details>
      <summary>
-            v0.82 (Feb 10, 2010)
+            v82 (Feb 10, 2010)
      </summary>
  
      - Mardi Gras Event
@@ -5626,7 +5626,7 @@
 
   URL: https://web.archive.org/web/20121029091648/http://maplestory.nexon.net:80/news/updates/update-notes/00EiP
 
-     - New Content: Episode 1 (Storyline for Adventurers
+     - New Content: Episode 1 (Storyline for Adventurers)
      - New Content: New Quests
      - New Content: New Items
      - New Content: New Maps/Zones
@@ -5639,7 +5639,7 @@
 
 <details>
      <summary>
-            v0.78 (Oct 22, 2009)
+            v78 (Oct 22, 2009)
      </summary>
  
      - Emergency Patch
@@ -5678,7 +5678,7 @@
 
 <details>
      <summary>
-            v0.76 (Sep 24, 2009)
+            v076 (Sep 24, 2009)
      </summary>
  
      - Spirit Week Event
@@ -5690,7 +5690,7 @@
 
 <details>
      <summary>
-            v0.75 (Aug 26, 2009) - Back-to-School
+            v075 (Aug 26, 2009) - Back-to-School
      </summary>
  
      - New Nexon Logo in Game
@@ -5705,7 +5705,7 @@
 
 <details>
      <summary>
-            v0.74 (Aug 12, 2009)
+            v074 (Aug 12, 2009)
      </summary>
  
      - Bug Fix
@@ -5714,7 +5714,7 @@
 
 <details>
      <summary>
-            v0.73 (Jul 29, 2009) - Cygnus Summer Knights
+            v073 (Jul 29, 2009) - Cygnus Summer Knights
      </summary>
  
      - Cygnus Knights Class
@@ -5731,7 +5731,7 @@
 
 <details>
      <summary>
-            v0.72 (Jun 24, 2009) - MapleStory Summer Warm Up
+            v072 (Jun 24, 2009) - MapleStory Summer Warm Up
      </summary>
  
      - Temple of Time (Pink Bean)
@@ -5746,7 +5746,7 @@
 
 <details>
      <summary>
-            v0.71 (Jun 17, 2009)
+            v071 (Jun 17, 2009)
      </summary>
  
      - Bug Fix
