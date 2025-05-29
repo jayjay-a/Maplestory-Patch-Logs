@@ -5690,7 +5690,7 @@
 
 <details>
      <summary>
-            v0.75 (Aug 26, 2009)
+            v0.75 (Aug 26, 2009) - Back-to-School
      </summary>
  
      - New Nexon Logo in Game
@@ -5714,7 +5714,7 @@
 
 <details>
      <summary>
-            v0.73 (Jul 29, 2009)
+            v0.73 (Jul 29, 2009) - Cygnus Summer Knights
      </summary>
  
      - Cygnus Knights Class
@@ -5731,7 +5731,7 @@
 
 <details>
      <summary>
-            v0.72 (Jun 24, 2009)
+            v0.72 (Jun 24, 2009) - MapleStory Summer Warm Up
      </summary>
  
      - Temple of Time (Pink Bean)
@@ -5756,7 +5756,7 @@
 
 <details>
      <summary>
-            v0.70 (May 07, 2009) Maple Story 4th Anniversary
+            v0.70 (May 07, 2009) - MapleStory 4th Anniversary
      </summary>
  
      - Birthday Patch
@@ -5786,7 +5786,7 @@
 
 <details>
      <summary>
-            v0.67 (Apr 08, 2009)
+            v0.67 (Apr 08, 2009) - New Creatures, New Features
      </summary>
  
      - New Party Quest features
