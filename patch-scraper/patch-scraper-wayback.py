@@ -54,32 +54,38 @@ def date_from(soup: BeautifulSoup, url: str) -> str:
     return datetime.strptime(m.group(1), "%Y%m%d%H%M%S").strftime("%b %d, %Y") if m else "Unknown"
 
 # ───────────────────── TOC scraper ─────────────────────
-def parse_wayback_toc(soup: BeautifulSoup) -> Dict[str, List[str]]:
-    toc_start = soup.find("h1", string=re.compile("Table of Contents", re.I))
-    if not toc_start:
-        raise RuntimeError("Couldn't find <h1>Table of Contents</h1>")
+def parse_wayback_toc(soup: BeautifulSoup) -> dict:
+    """
+    Tries to build a structured ToC by detecting heading -> list relationships,
+    falling back to h2/h3 + li/p for older layouts.
+    """
+    toc_root = (
+        soup.find("div", class_="margin-bottom")
+        or soup.find("div", class_="content-article")
+        or soup.body
+    )
 
-    result: Dict[str, List[str]] = {}
-    current_section = None
-    node = toc_start
+    sections: Dict[str, List[str]] = {}
+    current_header = None
 
-    while node := node.find_next_sibling():
-        if isinstance(node, Tag):
-            if node.name == "h1":
-                break  # end of TOC
-            elif node.name == "b":
-                current_section = node.get_text(strip=True)
-                if current_section:
-                    result[current_section] = []
-            elif node.name == "ul" and current_section:
-                for li in node.find_all("li"):
-                    a = li.find("a")
-                    if a:
-                        text = a.get_text(strip=True)
-                        if text:
-                            result[current_section].append(text)
+    for tag in toc_root.find_all(["h2", "h3", "p", "ul", "ol"]):
+        if tag.name in ["h2", "h3"]:
+            current_header = tag.get_text(strip=True)
+            if current_header:
+                sections[current_header] = []
+        elif current_header:
+            if tag.name in ["ul", "ol"]:
+                for li in tag.find_all("li"):
+                    txt = li.get_text(strip=True)
+                    if txt:
+                        sections[current_header].append(txt)
+            elif tag.name == "p":
+                txt = tag.get_text(strip=True)
+                if txt:
+                    sections[current_header].append(txt)
 
-    return {k: v for k, v in result.items() if v}
+    return {k: v for k, v in sections.items() if v}
+
 
 # ───────────────────── scrape & write ─────────────────────
 def scrape(url: str, out_dir: Path, overwrite: bool):
