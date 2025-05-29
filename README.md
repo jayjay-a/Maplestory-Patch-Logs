@@ -3091,7 +3091,7 @@
 
 <details>
   <summary>
-            v163 (Jul 7, 2015)
+            v163 (Jul 7, 2015) - FIREPOWER
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/13627/v-163-firepower-patch-notes
@@ -3148,7 +3148,7 @@
 
 <details>
   <summary>
-            v162 (May 18, 2015)
+            v162 (May 18, 2015) - Spring into Summer Patch Notes
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/13590/v-162-spring-into-summer-patch-notes
@@ -3175,7 +3175,7 @@
 
 <details>
   <summary>
-            v161 (Apr 19, 2015)
+            v161 (Apr 19, 2015) - Black Heaven: Final Chapter
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/13545/v-161-black-heaven-final-chapter-patch-notes
@@ -3207,7 +3207,7 @@
 
 <details>
   <summary>
-            v160 (Mar 8, 2015)
+            v160 (Mar 8, 2015) - Black Heaven: First Chapter
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/13518/v-160-black-heaven-first-chapter-patch-notes
@@ -3254,7 +3254,7 @@
 
 <details>
   <summary>
-            v158 (Dec 14, 2014)
+            v158 (Dec 14, 2014) - Shining Star Part II
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/13513/v-158-shining-star-part-ii-patch-notes
@@ -3294,7 +3294,7 @@
 
 <details>
   <summary>
-            v157 (Nov 30, 2014)
+            v157 (Nov 30, 2014) - Shining Star Part I
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/13510/v-157-shining-star-part-i-patch-notes
@@ -3353,7 +3353,7 @@
 
 <details>
   <summary>
-            v156 (Oct 27, 2014)
+            v156 (Oct 27, 2014) - Cygnus Awakening: Night Walker
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/13507/v-156-cygnus-awakening-night-walker-patch-notes
@@ -3400,7 +3400,7 @@
 
 <details>
   <summary>
-            v152 (Aug 10, 2014)
+            v152 (Aug 10, 2014) - Mark of Honor: Hieizan Temple
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/13504/v-152-mark-of-honor-hieizan-temple-patch-notes
@@ -3440,7 +3440,7 @@
 
 <details>
   <summary>
-            v151 (Jul 20, 2014)
+            v151 (Jul 20, 2014) - Rising Heroes: Tower of Oz
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/13501/v-151-rising-heroes-tower-of-oz-patch-notes
@@ -3468,7 +3468,7 @@
 
 <details>
   <summary>
-            v150 (Jun 23, 2014)
+            v150 (Jun 23, 2014) - Rising Heroes: Elite
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/13495/v-150-rising-heroes-elite-patch-notes
@@ -3539,7 +3539,7 @@
 
 <details>
   <summary>
-            v149 (May 11, 2014)
+            v149 (May 11, 2014) - Legacy of Nine
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/13492/v-149-legacy-of-nine-patch-notes
@@ -3603,33 +3603,67 @@
 </details>
 
 <details>
-     <summary>
-            v148 (Mar 20, 2014)
-     </summary>
- 
-     - Cannoneer is revamped
-     - Dual Blade is revamped
-     - Battle Mage has skill changes
-     - Evan has skill changes
-     - Luminous has skill changes
-     - Mechanic has skill changes
-     - Mercedes has skill changes
-     - Phantom has a skill changes
-     - Wild Hunter has a new Jaguar + skill changes
-     - Boss arena has been added
-     - Cross World Party Quests have been added
-     - Grand Athenaeum dungeon has been added
-     - Item inventory is reverted to its old form, but with 2 different sizes
-     - Equipment inventory has been revamped completely
-     - Storage inventory has been expanded to show multiple items
-     - Character stats have been made more compact
-     - Skill inventory is reverted for all classes excluding Beast Tamers and Evans
+  <summary>
+            v148 (Mar 19, 2014) - Grand Athenaeum
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13489/v-148-grand-athenaeum-patch-notes
+
+     - New Dungeon: Grand Athenaeum
+     - Boss Arena: Boss Arena
+     - Cross World Party Quests: Cross World Party Quests
+     - Class Revamps: Cannoneer Skill Changes
+     - Class Revamps: Dual Blade Skill Changes
+     - Class Revamps: Additional Class Revamps
+     - Class Revamps: Battle Mage
+     - Class Revamps: Evan
+     - Class Revamps: Luminous
+     - Class Revamps: Mechanic
+     - Class Revamps: Mercedes
+     - Class Revamps: Phantom
+     - Class Revamps: Wild Hunter
+     - User Interface Updates: UI Revamp
+     - Additional Updates: Azwan Shop
+     - Additional Updates: Ninja Castle Shop
+     - Additional Updates: Krexel Boss Drops
+     - Spring Events: Spring Coin Shop
+     - Spring Events: Of Mice and Bunnies
+     - Spring Events: Operation - Return the Spring Bunny Family Home!
+     - Spring Events: Yut Wars
+     - Spring Events: Spring Event Achievement
+     - Spring Events: Spring Attendance Check
+     - Easter Events: Easter Events
+     - Easter Events: The Great Easter Egg Hunt
+     - Easter Events: Golden Egg Coloring! 1-4
+     - Easter Events: Easter Basket
+     - Easter Events: Mad Bunny Yellow/Green/Red Easter Egg Hunt
+     - [Updated 4/28] 9th Anniversary Events: 9th Anniversary Event
+     - [Updated 4/28] 9th Anniversary Events: 9th Anniversary Coin Shop
+     - [Updated 4/28] 9th Anniversary Events: Bursting Word Bubbles
+     - [Updated 4/28] 9th Anniversary Events: Monsteropoly
+     - [Updated 4/28] 9th Anniversary Events: 9th Anniversary Attendance
+     - [Updated 4/28] 9th Anniversary Events: Maple Leaf Just for You
+     - [Updated 4/28] 9th Anniversary Events: 9th Anniversary - Endurance Road
+     - [Updated 4/28] 9th Anniversary Events: 9th Anniversary Event - 9 Year Old Maple Tree
+     - [Updated 4/28] 9th Anniversary Events: 9th Anniversary Levitating Admin
+     - [Updated 4/28] 9th Anniversary Events: 9th Anniversary Rally
+     - [Updated 4/28] 9th Anniversary Events: 9th Anniversary Party Prep Event
+     - [Updated 4/28] 9th Anniversary Events: 9th Anniversary Achievements
+     - [Updated 4/28] 9th Anniversary Events: 9th Anniversary Planetary Chairs [Updated 4/29]
+     - [Updated 4/28] 9th Anniversary Events: [Updated 5/8] 9th Anniversary Hot Day
+     - Other New Events: Job Support
+     - Other New Events: Sky's the Limit Event
+     - Other New Events: Museum Master Event
+     - Other New Events: Spring has Sprung Gift
+     - Other New Events: Monster Purge
+     - Other New Events: Golden Goose Egg
+     - Other New Events: [Updated 4/2] Sengoku High
+     - Ongoing Events: Lucky Lucky Monstory
 </details>
 
 <details>
   <summary>
-            v146 (Feb 10, 2014)
+            v146 (Feb 10, 2014) - Return to Masteria
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/13486/v-146-return-to-masteria-patch-notes
@@ -3667,320 +3701,881 @@
 </details>
 
 <details>
-     <summary>
-            v145 (Jan 21, 2014)
-     </summary>
- 
-     - Beast Tamer is added
-     - Ninja Castle has been updated
-     - Malaysia quest line has been updated
-     - Singapore quest line has been updated
+  <summary>
+            v145 (Jan 20, 2014) - Beast Tamer
+  </summary>
 
+  URL: https://www.nexon.com/maplestory/news/update/13483/v-145-beast-tamer-patch-notes
+
+     - New Playable Character: Beast Tamer: Overview
+     - Chinese New Year Events: Collect Golden Horse Points!
+     - Chinese New Year Events: Complete 2.0.1.4.!
+     - Chinese New Year Events: Dawn of the New Year
+     - Chinese New Year Events: Fortune Telling
+     - Valentine’s Day Events: A Dangerous Wager
+     - Valentine’s Day Events: Quite a Sweetie
+     - Valentine’s Day Events: Candy Score Achievement
+     - Valentine’s Day Events: Gift Shop Grand Opening
+     - Valentine’s Day Events: Recycling the Love Away
+     - Other New Events: Beast Tamer Events
+     - Other New Events: RED Appreciation Event
+     - Other New Events: RED Achievement Season 4
+     - Other New Events: RED Winter Attendance Check Season 4
+     - Other New Events: Mysterious Ice Box Season 4 RED
+     - Other New Events: Mesorangers!
+     - Other New Events: Hot Days
+     - Other New Events: Tinkerer’s Set Event
+     - Ongoing Events: New Year’s Coin Shop
+     - Ongoing Events: Yut Wars
+     - Ongoing Events: The Kiterunner
+     - Ongoing Events: Cassandra's New Shoes
+     - Ongoing Events: Get the Glowing Ghost
+     - Ongoing Events: Glowing Ghostbusters
+     - Ongoing Events: Maple Bingo
+     - Ongoing Events: Winter Event
+     - Ongoing Events: Most Purchases Event
+     - Ongoing Events: December Fun Event
+     - Ongoing Events: All 4 One Event
+     - Ongoing Events: RED Coin
 </details>
 
 <details>
-     <summary>
-            v144 (Dec 16, 2013)
-     </summary>
- 
-     - Zero has been added
-     - Commerci has been added
+  <summary>
+            v144 (Dec 16, 2013) - RED: Zero
+  </summary>
 
+  URL: https://web.archive.org/web/20140113080535/http://maplestory.nexon.net/news/updates/update-notes/00HPX/v-144-red-zero-update-notes
+
+     - New Playable Character: Zero: Overview
+     - New Playable Character: Zero: Child of the Goddess
+     - New Playable Character: Zero: Mirror World
+     - New Playable Character: Zero: Zero’s Temple
+     - New Playable Character: Zero: Equipment
+     - New Playable Character: Zero: Skills
+     - New Area: New Region: Commerci
+     - Returning Area: Ariant Coliseum
+     - New Systems: Trade Voyage
+     - New Systems: Item Upgrade
+     - New Systems: Returning Warrior Tutorial
+     - Additional Updates: Shop Updates
+     - Additional Updates: Gollux Coin Shop
+     - New Year’s Events: New Year’s Coin Shop
+     - New Year’s Events: Yut Wars
+     - New Year’s Events: The Kiterunner
+     - New Year’s Events: Cassandra's New Shoes
+     - New Year’s Events: Get the Glowing Ghost
+     - New Year’s Events: Glowing Ghostbusters
+     - Other New Events: Dawnveil Episode Event
+     - Other New Events: Zero’s Journey
+     - Other New Events: Maple Bingo
+     - Other New Events: Winter Event
+     - Other New Events: Cool Day Event
+     - Other New Events: Hot Days
+     - Other New Events: Most Purchases Event
+     - Other New Events: Winter Attendance Season 2
+     - Other New Events: Winter Attendance Season 3
+     - Other New Events: RED Revolution Achievement Season 2
+     - Other New Events: RED Revolution Achievement Season 3
+     - Other New Events: Random Beauty Coupon Event
+     - Other New Events: Mysterious Ice Box Season 2 E
+     - Other New Events: Mysterious Ice Box Season 3 D
+     - Other New Events: Red Leaf High
+     - Ongoing Events: Happyville
+     - Ongoing Events: Get Your Bread On
+     - Ongoing Events: Christmas Everywhere
+     - Ongoing Events: The Grand Christmas Tree
+     - Ongoing Events: Magic Christmas Stocking
+     - Ongoing Events: Merry Maple Christmas
+     - Ongoing Events: Limited Time Job and Character Release
+     - Ongoing Events: 100% Chance of Winning Every Day Quiz Event
+     - Ongoing Events: December Fun Event
+     - Ongoing Events: Everybody In Event
+     - Ongoing Events: All 4 One Event
+     - Ongoing Events: RED Pets
+     - Ongoing Events: RED Ticket
+     - Ongoing Events: RED Coin Shop
+     - Ongoing Events: Winter Event
 </details>
 
 <details>
-     <summary>
-            v143 (Dec 04, 2013)
-     </summary>
- 
-     - Explorer classes have been revamped
-     - Explorers can job change to another job of the same time starting at level 101
-     - Professions have been revamped
-     - Mastery books have been revamped
-     - Several NPCs have been removed from towns and are now located in the event hall
-     - Occult cubes no longer drop from bosses
-     - An episode book has been added to keep a log of events and quests
-     - Monster Life has received a minor update
-     - A new potential tier has been added for 151+ items
-     - Smart Mounts have been added into the game
-     - Certain UI features have been changed
+  <summary>
+            v143 (Dec 02, 2013) - RED: First Impact Update Notes - Part 2
+  </summary>
 
+  URL: https://web.archive.org/web/20131226115744/http://maplestory.nexon.net/news/updates/update-notes/00HMP/v-143-red-first-impact-update-notes-part-2
+
+     - Character Revamps: Explorer Job Revamp
+     - Character Revamps: Warrior Skill Revamp
+     - Character Revamps: Magician Skill Revamp
+     - Character Revamps: Bowman Skill Revamp
+     - Character Revamps: Thief Skill Revamp
+     - Character Revamps: Pirate Skill Revamp
+     - Character Revamps: Jett Hyper Skills
+     - Character Revamps: Open Job Advancement
+     - Additional Updates: Profession Revamp
+     - Additional Updates: Mastery Book Revamp
+     - Additional Updates: A Better Maple Improvements
+     - Additional Updates: Episode Book
+     - Additional Updates: Monster Life Update
+     - Additional Updates: Tot’s Know How
+     - Additional Updates: Von Leon Coin Shop Update
+     - Additional Updates: New Potential Tier
+     - Additional Updates: Smart Mount
+     - Additional Updates: UI Renewal
+     - Additional Updates: Character Slot Expansion
+     - Holiday Events: Happyville
+     - Holiday Events: Get Your Bread On
+     - Holiday Events: Christmas Everywhere
+     - Holiday Events: The Grand Christmas Tree
+     - Holiday Events: Magic Christmas Stocking
+     - Holiday Events: Merry Maple Christmas
+     - Other New Events: Explorer Event
+     - Other New Events: 1 Meso Wedding
+     - Other New Events: Hot Time
+     - Other New Events: 100% Chance of Winning Every Day Quiz Event
+     - Other New Events: December Fun Event
+     - Other New Events: Everybody In Event
+     - Other New Events: All 4 One Event
+     - Other New Events: RED Pets
+     - Other New Events: RED Ticket
+     - Other New Events: Cool Day Event
+     - Other New Events: Mysterious Ice Box Season 1 R
+     - Other New Events: Move to the Beat
+     - Other New Events: RED Coin Shop
+     - Other New Events: RED Revolution Achievement Event
+     - Other New Events: Winter Attendance Season 1
+     - Other New Events: Winter Event
+     - Ongoing Events: Limited Time Job and Character Release
+     - Ongoing Events: Absolute Belt
+     - Ongoing Events: Red Leaf High 2 - Sengoku High
+     - Ongoing Events: Black Friday Maid Coin Shop
 </details>
 
 <details>
-     <summary>
-            v142 (Oct 16, 2013)
-     </summary>
- 
-     - Battle Mage, Wild Hunter, Phantom, Mercedes, Kaiser, Angelic Buster, Aran, Evan, Demon Avenger, and Xenon have skill revamps
-     - Kanna and Hayato receive hyper skills
-     - Von Leon, Zakum, Arkarium, and Magnus all receive easy mode versions
-     - Occult cubes now drop from multiple bosses
-     - Tynerum(region) has been added
-     - Gollux(boss) has been added and is now fightable
+  <summary>
+            v142 (Oct 15, 2013) - [Updated] v.142 - Dawnveil: Demons of Tynerum
+  </summary>
 
+  URL: https://web.archive.org/web/20140110195609/http://maplestory.nexon.net/news/updates/update-notes/00HDW/updated-v-142-dawnveil-demons-of-tynerum-update-notes
+
+     - New Areas: New Region: Tynerum
+     - New Areas: New Boss: Gollux
+     - New Areas: Theme Dungeon: Colossus
+     - Boss Updates: Boss Easy Mode
+     - Boss Updates: Occult Cube Drops
+     - Character Revamps: Battle Mage Skill Revamp
+     - Character Revamps: Wild Hunter Skill Revamp
+     - Character Revamps: Phantom Skill Revamp
+     - Character Revamps: Mercedes Skill Revamp
+     - Character Revamps: Kaiser Skill Revamp
+     - Character Revamps: Angelic Buster Skill Revamp
+     - Character Revamps: Aran Skill Revamp
+     - Character Revamps: Evan Skill Revamp
+     - Character Revamps: Demon Avenger Skill Revamp
+     - Character Revamps: Xenon Skill Revamp
+     - Character Revamps: Kanna Hyper Skills
+     - Character Revamps: Hayato Hyper Skills
+     - Halloween Events: Malady's Secret Mission
+     - Halloween Events: Olivia's Haunted House
+     - Halloween Events: A Fine, Fine Costume
+     - Halloween Events: Maple Castle
+     - Halloween Events: Prank or Treat!
+     - Halloween Events: Maple Action Hero!
+     - Halloween Events: Cassandra, Lord of Candy
+     - Halloween Events: Mega Creamy Ghost Expedition
+     - Thanksgiving Events: Thanksgiving!
+     - Thanksgiving Events: Cody and the Cyberturkeys
+     - Thanksgiving Events: Turkey Egg Hunt
+     - Thanksgiving Events: Pumpkin Pie
+     - Black Friday Events: Black Friday Big Spender Event
+     - Black Friday Events: Daily Coin Event
+     - Black Friday Events: Black Friday Coin Drops
+     - Black Friday Events: Black Friday Maid Coin Shop
+     - Black Friday Events: 90% Cash Shop Discount
+     - Other New Events: Limited Time Job and Character Release
+     - Other New Events: Job Revamp Events
+     - Other New Events: Festival Effect
+     - Other New Events: Hot Days and Hot Weeks
+     - Other New Events: Survivalism
+     - Other New Events: Power Growth
+     - Other New Events: Maple Museum Master 2
+     - Other New Events: Absolute Belt
+     - Other New Events: RED Monsters
+     - Other New Events: 3!6!9! Event
+     - Other New Events: Pink Zakum Event
+     - Other New Events: Red Leaf High 2 - Sengoku High
+     - Ongoing Event: Futuroid
 </details>
 
 <details>
-     <summary>
-            v141 (Sep 04, 2013)
-     </summary>
- 
-     - Cygnus Classes have had some general changes
-     - Thunder Breaker has been revamped
-     - Wind Archer has been revamped
-     - Dawn Warrior has been revamped
-     - Theme Dungeon: Crimsonwood Keep has been added
-     - Theme Dungeon: Ellinel Fairy Academy has been added
-     - Theme Dungeon: Riena Strait has been added
-     - Widescreen Resolution (1366x768) has been added and will display more quickslots
-     - Maple chat has been added to improve maple messanger
-     - Link skills management has improved, maximum of 12 link skills
-     - EXP penalty for hunting lower level monsters removed
-     - Party exp will not be rewarded is there is a 41+ level difference between the lowest and highest party member
-     - Monster Life has been updated
-     - Party Quests have been revamped
-     - Monster Park has been revamped
-     - Fafnir weapons have been added for Hayato and Kanna
-     - Krexel has had his skills and drops changed
+  <summary>
+            v141 (Sep 04, 2013) - Cygnus Awakening
+  </summary>
 
+  URL: https://web.archive.org/web/20131031020907/http://maplestory.nexon.net/news/updates/update-notes/00H6x/v-141-cygnus-awakening-update-notes
+
+     - Character Updates: Cygnus Knights - General Changes
+     - Character Updates: Revamped Character: Thunder Breaker
+     - Character Updates: Revamped Character: Wind Archer
+     - Character Updates: Revamped Character: Dawn Warrior
+     - New Areas: Theme Dungeon: Crimsonwood Keep
+     - New Areas: Theme Dungeon: Ellinel Fairy Academy
+     - New Areas: Theme Dungeon: Riena Strait
+     - New Areas: Party Quest: Crimsonwood Altar
+     - User Interface Updates: Widescreen Resolution
+     - User Interface Updates: Maple Chat
+     - User Interface Updates: Link Skill Manager
+     - User Interface Updates: Short Tooltips
+     - Other Content Updates: EXP Penalty Change
+     - Other Content Updates: Monster Life Update
+     - Other Content Updates: Monster Park Revamp
+     - Other Content Updates: Party Quest Revamp
+     - Other Content Updates: Fafnir Sengoku Weapons
+     - Other Content Updates: Krexel Updates
+     - New Events: Limited Time Job and Character Release
+     - New Events: 2x EXP/Drop
+     - New Events: NPC Yulia
+     - New Events: Anniversary Gift - Levant Day
+     - New Events: Anniversary Gift - Mexican Independence Day
+     - New Events: Cygnus Revamp Event
+     - New Events: Hot Days
+     - New Events: Mabinogi Crossover Event
+     - New Events: Nao’s Resurrection Event
+     - New Events: Attendance Check Event
+     - New Events: Futuroid
+     - New Events: Maple Chat Event
+     - New Events: Maple Special Week
+     - New Events: Crown Stacking
+     - New Events: Spiegelmann's Artifact Hunt
+     - New Events: Picnic Days
+     - New Events: Crimson Maple Equipment Drop
+     - New Events: Crimson Maple Hot Day
 </details>
 
 <details>
-     <summary>
-            v139 (Jul 22, 2013)
-     </summary>
+  <summary>
+            v140 (Aug 06, 2013) - Unleashed: Makeover Month and More
+  </summary>
 
-     - Demon Avenger is added:
-     - EXP Coupons can no longer be bought above level 201
+  URL: https://web.archive.org/web/20131201121327/http://maplestory.nexon.net/news/updates/update-notes/00H1Y/v-140-unleashed-makeover-month-and-more-update-notes
 
+     - New Events: Cassandra's Makeover Mission
+     - New Events: August Makeover Event
+     - New Events: Pink Zakum
+     - New Events: Random Beauty Coupon
+     - New Events: Login and Win Event
+     - Ongoing Events: Unleashed Events
+     - Ongoing Events: Kaleido-Spinner Madness
+     - Ongoing Events: Attendance Check Event
+     - Ongoing Events: Returning Player Event
+     - Ongoing Events: Evolving Ring 2013 and Absolute Ring Event
+     - Ongoing Events: Limited Time Job and Character Release
+     - Ongoing Events: Peruvian Independence Day
+     - Ongoing Events: Hot Days
+     - Ongoing Events: Demon Avenger Events
 </details>
 
 <details>
-     <summary>
-            v138 (Jul 01, 2013)
-     </summary>
- 
-     - Xenon is added:
-     - Terminus, Sovereign, Fairy, and Snowstorm gears are added
+  <summary>
+            v139 (Jul 22, 2013) - Unleashed: Demon Avenger
+  </summary>
 
+  URL: https://web.archive.org/web/20131105013456/http://maplestory.nexon.net/news/updates/update-notes/00GyZ/v-139-unleashed-demon-avenger-update-notes
+
+     - New Playable Character: Demon Avenger: Overview
+     - New Playable Character: Demon Avenger: Skills
+     - Misc Changes: Root Abyss Changes
+     - Misc Changes: EXP Coupon Changes
+     - Misc Changes: Twilight Perion Golem Changes
+     - Misc Changes: Changes to Terminus Equipment
+     - New Events: Demon Avenger Events
+     - New Events: Pink Zakum
+     - New Events: Random Beauty Coupon
+     - New Events: Login and Win Event
+     - New Events: Limited Time Job and Character Release
+     - New Events: 2x EXP/Drop
+     - New Events: Peruvian Independence Day
+     - New Events: Hot Days
+     - Ongoing Events: Unleashed Events
+     - Ongoing Events: Kaleido-Spinner Madness
+     - Ongoing Events: Attendance Check Event
+     - Ongoing Events: Returning Player Event
+     - Ongoing Events: Evolving Ring 2013 and Absolute Ring Event
+     - Ongoing Events: Magic Harp
 </details>
 
 <details>
-     <summary>
-            v137 (Jun 19, 2013)
-     </summary>
+  <summary>
+            v138 (Jul 01, 2013) - Unleashed: Xenon
+  </summary>
 
-     - Many classes have minor hyper skill changes
-     - Level 3 Link Skills are added
-     - Max level cap is increased from 200 to 250:
-     - Damage cap is increased from 999,999 to 50,000,000
-     - HP and MP cap have been increased
-     - Avoid cap has been lowered from 100% to 90%
-     - Inner Ability lines now unlock at levels 30, 50, and 70 through a lightbulb quest
-     - Twilight Perion is added
-     - Alien Visitor Party Quest is added
-     - Monster Park: Spirit Valley is added
-     - Theme Dungeon: Twisted Aqua Road is added
-     - Theme Dungeon: Fantasy Theme World is added
-     - Party Quest: Cooking with Tangyoon is added
-     - Guild Party Quest is added
-     - Skill Tab has been changed
-     - Equip and Item Inventories have been changed
-     - Character Stat Window has been changed
-     - Equipment Scrolling and Enhancement has been changed
-     - Magnifying Glasses are no longer needed forrevealing potentials
-     - Bits are added into the game
-     - World map has been redesigned
-     - Damage increase or decrease from equiping an item will now be displayed
-     - Cygnus, Hilla(Hard), Chaos Horntail, Magnus(Hard), Pink Bean, Chaos Pink Bean, Root Abyss Bosses, Von Leon, Zakum, and Chaos Zakum all receive minor changes:
-     - Singapore and Malaysia have their target level ranges changed
-     - Korean Folk Town monsters now give increased exp
-     - Masteria monster levels have been adjusted (Rotting Skeletons, Scarecrows, and Jesters nerfed)
-     - Lion King Castle has party play removed, as well as some other changes
-     - Many Party Quests have their daily entry restrictions removed
-     - Many Party Quest rewards now have lower requirements
-     - Victoria Island Special Bosses no longer have a level and job restriction
+  URL: https://web.archive.org/web/20131016185410/http://maplestory.nexon.net/news/updates/update-notes/00GuT/v-138-unleashed-xenon-update-notes
 
+     - New Playable Character: Xenon: Backstory
+     - New Playable Character: Xenon: Overview
+     - New Playable Character: Xenon: Skills
+     - New Equipment: Terminus, Sovereign, Fairy, Snowstorm
+     - Temporarily Closed: Root Abyss
+     - New Events: Xenon Events
+     - New Events: Evolving Ring 2013 and Absolute Ring Event
+     - New Events: Limited Time Job and Character Release
+     - New Events: 2x EXP/Drop
+     - New Events: American Independence Day
+     - New Events: Peruvian Independence Day
+     - New Events: Hot Days
+     - New Events: Tinkerer’s Event
+     - New Events: Magic Harp
+     - Ongoing Events: Unleashed Events
+     - Ongoing Events: Kaleido-Spinner Madness
+     - Ongoing Events: Attendance Check Event
+     - Ongoing Events: Returning Player Event
+     - Ongoing Events: EXTENDED: 8th Anniversary Coin Shop
+     - Ongoing Events: REOPENED: Town Decorations, Three-Toed Jellyjammers, and Town Gift Boxes
+     - Ongoing Events: REOPENED: 8th Anniversary Maple Leaf Exchange
 </details>
 
 <details>
-     <summary>
-            v135 (May 21, 2013)
-     </summary>
- 
-     - Monster Life is added:
+  <summary>
+            v137 (Jun 19, 2013) - Unleashed
+  </summary>
 
+  URL: https://web.archive.org/web/20131104093807/http://maplestory.nexon.net/news/updates/update-notes/00G7W/v-137-unleashed-update-notes
+
+     - Character Updates: Character Stat Changes
+     - New Areas: Twilight Perion
+     - New Areas: Monster Park: Spirit Valley
+     - New Areas: Battle Content: Alien Visitors
+     - New Areas: Theme Dungeon: Twisted Aqua Road
+     - New Areas: Theme Dungeon: Fantasy Theme World
+     - New Areas: Party Quest: Cooking with Tangyoon
+     - Back from Hiatus: Sharenian Guild Party Quest
+     - Skill Changes: Level 3 Link Skills
+     - Skill Changes: Hyper Skills
+     - User Interface Updates: Skill Inventory
+     - User Interface Updates: Equip and Item Inventories and the Character Stat window
+     - User Interface Updates: Strengthen: Equipment Scrolling and Enhancement
+     - User Interface Updates: Appraisal: Revealing Hidden Potential
+     - User Interface Updates: Bits
+     - User Interface Updates: World Map
+     - User Interface Updates: Root Abyss Set Item Tooltips
+     - User Interface Updates: Miscellaneous UI Updates
+     - Updated Content: Expedition Boss Changes
+     - Updated Content: Mu Lung Dojo: Ranked Mode
+     - Updated Content: Singapore and Malaysia
+     - Updated Content: Korean Folk Town
+     - Updated Content: Masteria
+     - Updated Content: Lion King's Castle
+     - Updated Content: Monster Park Extreme
+     - Updated Content: Daily PQ Entry Restriction Removal
+     - Updated Content: Party Quests
+     - Updated Content: Victoria Island Special Bosses
+     - New Events: Limited Time Job and Character Release
+     - New Events: Unleashed Events
+     - New Events: Kaleido-Spinner Madness
+     - New Events: 2x EXP/Drop
+     - New Events: Hot Days
+     - New Events: Canada Day
+     - New Events: Attendance Check Event
+     - New Events: Returning Player Event
+     - New Events: 90% Discount Event
 </details>
 
 <details>
-     <summary>
-            v132 (Apr 30, 2013)
-     </summary>
+  <summary>
+            v135 (May 21, 2013) - Monster Life
+  </summary>
 
-     - Paladin, Bowmaster, Marksman, Night Lord, Shadower, Cannon Shooter, Demon Slayer, Luminous, Kaiser, and Angelic Buster receive minor skill changes:
-     - Hero, Paladin, Dark Knight, Mihile, Archmage (f/p), Archmage (i/l), Bishop, Bowmaster, Marksman, Night Lord, Shadower, Dual Blade, Buccaneer, Corsair, Cannoneer, Battle Mage, Wild Hunter, Mechanic, and Demon  - Slayer receive hyper skill changes:
-     - Dimension Invasion is added:
-     - Secondary Equipment is added:
-     - Evolution System is added
-     - Theme Dungeon: Gold Beach is added
-     - Monster Park Extreme is added
-     - Bonus Potentials are revamped
-     - Rock Paper Scissors is added
+  URL: https://web.archive.org/web/20131016210554/http://maplestory.nexon.net/news/updates/update-notes/00G39/v-135-monster-life-update-notes
 
+     - New Content: Monster Life
+     - New Events: Limited Time Release: Nova and Sengoku
+     - New Events: 2x EXP/Drop
+     - New Events: Hot Day
+     - New Events: Monster Life Hot Day
+     - New Events: It’s Time for Monster Life!
+     - New Events: New Player Event: Blue Dragon Adventure Pack
+     - New Events: Game of Yut
+     - New Events: Appearance of the Mammoth Moon Bunny
+     - New Events: [Springtime] Moony-Eyed Portrait
+     - New Events: [Springtime] Weaving Contest
+     - New Events: [Springtime] Grillsgiving
+     - New Events: [Springtime] Cornucopia of Color
+     - New Events: Red Leaf High Returns
+     - Ongoing Events: 8th Anniversary Celebration Boxes
+     - Ongoing Events: 8th Anniversary Coin Shop
+     - Ongoing Events: Coins Every Day!
+     - Ongoing Events: 8th Anniversary Coin Challenges
+     - Ongoing Events: Maple Leaves Keep Falling On My Head
+     - Ongoing Events: Mini Maple Seedling
+     - Ongoing Events: 8th Anniversary Maple Board Game
+     - Ongoing Events: Town Decorations, Three-Toed Jellyjammers, and Town Gift Boxes
+     - Ongoing Events: Reaching for the Sky
+     - Ongoing Events: 8th Anniversary Maple Leaf Exchange
 </details>
 
 <details>
-     <summary>
-            v131 (Mar 12, 2013)
-     </summary>
- 
-     - Hayato is added
+  <summary>
+            v134 (Apr 30, 2013) - Super 8th Anniversary
+  </summary>
 
+  URL: https://web.archive.org/web/20131003024626/http://maplestory.nexon.net/news/updates/update-notes/00Fyg/v-134-super-8th-anniversary-update-notes
+
+     - New Events: 8th Anniversary Celebration Boxes
+     - New Events: 8th Anniversary Coin Shop
+     - New Events: Coins Every Day!
+     - New Events: 8th Anniversary Coin Challenges
+     - New Events: Maple Leaves Keep Falling On My Head
+     - New Events: Mini Maple Seedling
+     - New Events: 8th Anniversary Maple Board Game
+     - New Events: Town Decorations, Three-Toed Jellyjammers, and Town Gift Boxes
+     - New Events: Reaching for the Sky
+     - New Events: 8th Anniversary Maple Leaf Exchange
+     - New Events: Limited Time Release: Heroes Return
+     - New Events: 8th Anniversary 2x EXP/Drop
+     - New Events: Hot Days
 </details>
 
 <details>
-     <summary>
-            v129 (Feb 26, 2013)
-     </summary>
+  <summary>
+            v132 (Apr 03, 2013) - Hyper Evolution
+  </summary>
 
-     - Kanna is added
-     - Level 150 Fafnir set added to Chaos Root Abyss drop list.
+  URL: https://web.archive.org/web/20130516052240/http://maplestory.nexon.net:80/news/updates/update-notes/00FuU/v-132-hyper-evolution-update-notes
 
+     - New and Updated Content: Hyper Skills
+     - New and Updated Content: Other Skill Updates
+     - New and Updated Content: New: Secondary Equipment
+     - New and Updated Content: New: Evolution System
+     - New and Updated Content: New: Dimension Invasion
+     - New and Updated Content: New Theme Dungeon: Gold Beach
+     - New and Updated Content: New: Monster Park Extreme
+     - New and Updated Content: Kerning Square Renovation
+     - New and Updated Content: Party Quest Updates
+     - New and Updated Content: Bonus Potential Revamp
+     - New and Updated Content: Rock-Paper-Scissors
+     - New and Updated Content: Other Updates
+     - New Events: Limited Class/Character Release
+     - New Events: Hyper Evolution 2x EXP/Drop
+     - New Events: Hot Days
+     - New Events: Hyper Events
+     - New Events: Weapon of Choice
+     - New Events: Dungeon Fighter Pilgrimage
+     - New Events: Ultimate Explorer Creation Event
+     - New Events: Miwok Events
+     - New Events: Jewel Crafting
+     - New Events: Stepping Pop
+     - New Events: Happy Time
+     - New Events: Golden Dream Pig
+     - New Events: Sweetiepie Gift Box
+     - New Events: Purty Good Gift
+     - New Events: Secret Box
+     - New Events: Philosopher's Book
+     - Ongoing Events: Sengoku Festival
 </details>
 
 <details>
-     <summary>
-            v127 (Jan 15, 2013)
-     </summary>
- 
-     - Root Abyss is added
+  <summary>
+            v131 (Mar 12, 2013) - Mark of Honor: Hayato
+  </summary>
 
+  URL: https://web.archive.org/web/20131005231357/http://maplestory.nexon.net:80/news/updates/update-notes/00Fos/v-131-mark-of-honor-hayato-update-notes
+
+     - New Playable Character: Hayato: Background
+     - New Playable Character: Hayato: Overview
+     - New Playable Character: Hayato: Details
+     - New Playable Character: Hayato: Skills
+     - Events: Hayato Equipment Support and Class Training
+     - Events: Sengoku Festival
+     - Events: Sengoku Double Time
+     - Events: Hot Days
+     - Events: Tinkerer’s Event
+     - Events: Happy Little Paints
+</details>
+
+
+<details>
+  <summary>
+            v129 (Feb 26, 2013) - Mark of Honor: Kanna
+  </summary>
+
+  URL: https://web.archive.org/web/20131016184413/http://maplestory.nexon.net:80/news/updates/update-notes/00FmM/v-129-mark-of-honor-kanna-update-notes
+
+     - New Playable Character: Kanna: Background
+     - New Playable Character: Kanna: Overview
+     - New Playable Character: Kanna: Details
+     - New Playable Character: Kanna: Skills
+     - More New Content: New Area: Momijigaoka
+     - More New Content: New Equipment: Lv.150 Root Abyss set equips
+     - Events: Limited Time Release
+     - Events: Mark of Honor Login Event 1
+     - Events: Kanna Equipment Support and Class Training
+     - Events: Sengoku Festival
+     - Events: Sengoku Double Time
+     - Events: Hot Days
 </details>
 
 <details>
-     <summary>
-            v126 (Jan 08, 2013)
-     </summary>
- 
-     - Angelic Buster is added
+  <summary>
+            v128 (Feb 04, 2013) - Year of the Snake
+  </summary>
 
+  URL: https://web.archive.org/web/20130603062719/http://maplestory.nexon.net:80/news/updates/update-notes/00FiB/v-128-year-of-the-snake-update-notes
+
+     - New Content: New Guide System: Tot's Know How
+     - General Events: All Classes Open
+     - General Events: Red Leaf High Returns
+     - General Events: Potion Pot: Rust Remover Giveaway
+     - General Events: Winter Attendance Check
+     - General Events: Everyday Happytime
+     - New and Returning Player Events: Cowboy Newbie
+     - New and Returning Player Events: Nobler Mapler
+     - New and Returning Player Events: Return of the Maple Warrior
+     - Holiday Events: Lunar New Year
+     - Holiday Events: Mardi Gras
+     - Holiday Events: Special Wedding Present
+     - Holiday Events: Heart Balloon Giveaway
+     - Holiday Events: Valentine's Day Quests
 </details>
 
 <details>
-     <summary>
-            v125 (Dec 14, 2012)
-     </summary>
+  <summary>
+            v127 (Jan 15, 2013) - Tempest: Root Abyss
+  </summary>
 
-     - Kaiser is added
-     - Hyper skills are added for Mercedes, Aran, Phantom, Luminous, Evan, and Kaiser
-     - Heliseum is added
-     - Tyrant's Castle is added
-     - Magnus is added
+  URL: https://web.archive.org/web/20130725033506/http://maplestory.nexon.net:80/news/updates/update-notes/00Fe9/v-127-tempest-root-abyss-update-notes
 
+     - New Content: Root AbyssColossal RootNew QuestsThe Seal GuardiansNew Items
+     - New Content: Colossal Root
+     - New Content: New Quests
+     - New Content: The Seal Guardians
+     - New Content: New Items
+     - New Events: 90% Discount Event (01/16 - 01/29)
+     - New Events: 3!6!9! Event (01/16 - 02/04)
+     - New Events: Maple Board Game (01/09 - 02/04)
+     - New Events: Maple Museum Master (01/16 - 02/04)
+     - New Events: Mystic Fields Event (01/16 - 02/04)
+     - New Events: Everyday Hot Day (01/21 - 01/27)
+     - New Events: Continuing events from Tempest: Angelic Buster
 </details>
 
 <details>
-     <summary>
-            v124 (Dec 04, 2012)
-     </summary>
- 
-     - Luminous is added
+  <summary>
+            v126 (Jan 08, 2013) - Tempest: Angelic Buster
+  </summary>
 
+  URL: https://web.archive.org/web/20130529212226/http://maplestory.nexon.net:80/news/updates/update-notes/00Fcq/v-126-tempest-angelic-buster-update-notes
+
+     - New Content: New Playable Character: Angelic Buster
+     - New Content: Overview
+     - New Content: Soul Recharge
+     - New Content: Skills
+     - New Events: Free Character Slot Expansion Coupon (01/09 - 01/15)
+     - New Events: Angelic Buster Launch Events (01/09 - 02/27)
+     - New Events: Storm Growth Event (01/09 - 02/05)
+     - New Events: Potion Pot Event (01/09)
+     - New Events: Tempest Level-up Supplies (01/09 - 02/05)
+     - New Events: Continuing events from Tempest: Kaiser
 </details>
 
 <details>
-     <summary>
-            v123 (Nov 28, 2012)
-     </summary>
- 
-     - Many classes have minor skill changes
-     - Job Advancement is changed
-     - 3rd job is now 60 (was 70)
-     - 4th job is now 100 (was 120)
-     - EXP required to level up from 60-75 and 100-125 has been adjusted
+  <summary>
+            v125 (Dec 14, 2012) - Tempest: Kaiser
+  </summary>
 
+  URL: https://web.archive.org/web/20130817093856/http://maplestory.nexon.net:80/news/updates/update-notes/00FZs/v-125-tempest-kaiser-update-notes
+
+     - New Content: New Playable Character: KaiserOverview
+     - New Content: Overview
+     - New Content: Morph Gauge & Dragon Link UI
+     - New Content: Skills
+     - New Content: New Region: Heliseum
+     - New Content: Tyrant's Castle - Boss Fight: Magnus
+     - New Content: Boss Fight: Magnus
+     - New Content: Hyper SkillsMercedesAranPhantomLuminousEvanKaiser
+     - New Content: Mercedes
+     - New Content: Aran
+     - New Content: Phantom
+     - New Content: Luminous
+     - New Content: Evan
+     - New Content: Kaiser
+     - New Content: Miscellaneous
+     - New Events: Free Character Slot Expansion Coupon (12/17 - 12/23)
+     - New Events: 2012 - Year of the Black Dragon (12/17 - 12/31)
+     - New Events: Treasure Island (12/17 - 1/9)
+     - New Events: Smashing Magnus (12/17 - 1/17)
+     - New Events: Completion of 5 Heroes (12/17 - 1/21)
+     - New Events: Class Warfare (12/17 - 1/29)
+     - New Events: Kaiser Launch Events (12/17 - 2/4)
+     - New Events: New Year: Magic Die (1/1 - 1/19)
+     - New Events: Continuing events from Tempest: Luminous
 </details>
 
 <details>
-     <summary>
-            v121 (Nov 12, 2012)
-     </summary>
- 
-     - Battle Mage has been revamped
-     - Mechanic has been revamped
-     - Wild Hunter has been revamped
-     - Chaos Pink Bean has been added
+  <summary>
+            v124 (Dec 04, 2012) - Tempest: Luminous
+  </summary>
 
+  URL: https://web.archive.org/web/20130407125208/http://maplestory.nexon.net:80/news/updates/update-notes/00FWs/v-124-tempest-luminous-update-notes
+
+     - New Content: New Playable Character: Luminous
+     - New Content: Overview
+     - New Content: Light vs. Dark Attributes
+     - New Content: Skills
+     - New Events: Free Character Slot Expansion Coupon (12/5 - 12/11)
+     - New Events: Holiday Events (12/5 - 12/31)HappyvilleFestival of LightsMissing SantaChristmas Events
+     - New Events: Happyville
+     - New Events: Festival of Lights
+     - New Events: Missing Santa
+     - New Events: Christmas Events
+     - New Events: Luminous Launch Events (12/5 - 1/23)
+     - New Events: Ice Chests (12/5 - 1/30)
+     - New Events: Tempest Events (12/5 - 2/12)
+     - New Events: Snowboard Drop (12/5 - 1/6)
+     - New Events: Continuing events from Into the Storm
 </details>
 
 <details>
-     <summary>
-            v118 (Sep 21, 2012)
-     </summary>
- 
-     - Warrior, Magician, Bowman, Cannoneer, Mercedes, and Demon Slayer are all revamped
-     - Gachapon has been revamped
+  <summary>
+            v123 (Nov 28, 2012) - Tempest: Into the Storm
+  </summary>
 
+  URL: https://web.archive.org/web/20130312111755/http://maplestory.nexon.net:80/news/updates/update-notes/00FW0/v-123-tempest-into-the-storm-update-notes
+
+     - Updated Content: Job Advancement Levels
+     - Updated Content: Azwan Revamp
+     - Updated Content: Miscellaneous
+     - Updated Content: EXP required to level up from 60-75 and 100-125 has been adjusted
+     - Updated Content: 3rd job is now 60 (was 70)
+     - Updated Content: 4th job is now 100 (was 120)
+     - New Events: Azwan Revamp Event (11/29 - 12/19)
+     - New Events: Cold That Came with the Tempest(11/29 - 1/29)
+     - New Events: Continuing events from Rise Against
 </details>
 
 <details>
-     <summary>
-            v117 (Aug 31, 2012)
-     </summary>
+  <summary>
+            v121 (Nov 12, 2012) - Rise Against
+  </summary>
 
-     - Mihile is released
+  URL: https://web.archive.org/web/20130603063145/http://maplestory.nexon.net:80/news/updates/update-notes/00FSl/v-121-rise-against-update-notes
 
+     - New Content: Chaos Pink Bean
+     - New Content: Sakura Castle
+     - Updated Content: Cash Shop Revamp
+     - Updated Content: Battle Square
+     - Updated Content: Battle Mage
+     - Updated Content: Mechanic
+     - Updated Content: Wild Hunter
+     - Updated Content: Hilla Expedition
+     - New Events: Resistance Revamp Events (11/14 - 12/5)
+     - New Events: Mesoranger Entrance Exam (11/14 - 12/5)
+     - New Events: Thanksgiving Events (11/14 - 11/28)
+     - New Events: Red Leaf High Returns (11/14 - 11/28)
+     - New Events: Magic Wheel Tokens (11/14 - 11/28)
+     - New Events: Cash Shop Revamp Events (11/14 - 11/20)
 </details>
 
 <details>
-     <summary>
-            v115 (Aug 07, 2012)
-     </summary>
-     
-     - Dual Blade gets revamped
-     - Corsair and Buccaneer get revamped
-     - Golden Temple: Theme Dungeon is added
-     - Silent Crusade gets revamped to last until level 160, can now fight Arkarium
-     - Mu Lung gloves now last 7 days instead of 1
-     - Temple of Time now has shortcut options when you enter Gate to the Past (assuming you have progressed):
+  <summary>
+            v120 (Oct 19, 2012) - Masquerade
+  </summary>
 
+  URL: https://web.archive.org/web/20130103082619/http://maplestory.nexon.net/news/updates/update-notes/00FO1/v-120-masquerade-update-notes
+
+     - New Content: New House Wedding Hall
+     - New Events: Presidential Election Events (10/24 - 11/6)
+     - New Events: Olivia's Haunted House (10/24 - 11/20)
+     - New Events: Malady's Secret Mission (10/24 - 11/20)
+     - New Events: Attack of the Zombies (10/24 - 11/20)
+     - New Events: Random Beauty Coupon Event (10/24 - 11/6)*
+     - New Events: New Player Gifts (10/24 - 11/20)
+</details>
+
+
+
+<details>
+  <summary>
+            v118 (Sep 21, 2012) - Champions
+  </summary>
+
+  URL: https://web.archive.org/web/20121219111606/http://maplestory.nexon.net/news/updates/update-notes/00FHC/v-118-champions-update-notes
+
+     - New Content: Grand Battle
+     - New Content: Bonus Potential
+     - Updated Content: Warrior Revamp
+     - Updated Content: Magician Revamp
+     - Updated Content: Bowman Revamp
+     - Updated Content: Legends Revamp
+     - Updated Content: Gachapon Revamp
+     - Updated Content: Misc. Changes
 </details>
 
 <details>
-     <summary>
-            v112-1.14 (Jul 23, 2012)
-     </summary>
+  <summary>
+            v117 (Aug 31, 2012) - New Dawn
+  </summary>
 
-     - Phantom is released
-     - Jett is released
-     - Fight for Azwan is released
-     - Hilla is now available to fight
-     - Inner ability is added (May be wrong)
-     - Character cards are released (May be wrong)
+  URL: https://web.archive.org/web/20121217020700/http://maplestory.nexon.net/news/updates/update-notes/00FCK/v-117-new-dawn-update-notes
 
+     - New Content: New Playable Character: Mihile
+     - New Content: Overview of Mihile
+     - New Content: Skills1st Job2nd Job3rd Job4th Job
+     - New Content: 1st Job
+     - New Content: 2nd Job
+     - New Content: 3rd Job
+     - New Content: 4th Job
+     - New Events: Renegades Festival - Extended! (8/8 - 9/19)
+     - New Events: Lucky 3!3!3! EventLucky 3!3!3! Census (9/5 - 9/18)Lucky 3!3!3! Monster Mop-up (9/5 - 9/18)Lucky 3!3!3! Daily Gifts (9/5 - 9/24)
+     - New Events: Lucky 3!3!3! Census (9/5 - 9/18)
+     - New Events: Lucky 3!3!3! Monster Mop-up (9/5 - 9/18)
+     - New Events: Lucky 3!3!3! Daily Gifts (9/5 - 9/24)
+     - New Events: Mihile Events (9/5 - 9/24)Righteous GiftKnight of Light RingLuminous EdgeThe Greatest Chief KnightBlinded by the Light
+     - New Events: Righteous Gift
+     - New Events: Knight of Light Ring
+     - New Events: Luminous Edge
+     - New Events: The Greatest Chief Knight
+     - New Events: Blinded by the Light
+     - New Events: Free Character Slot Coupon (9/5 - 9/24)
+     - New Events: Ongoing Events from Mutiny Update
 </details>
 
 <details>
-     <summary>
-            v109 (Apr 12, 2012)
-     </summary>
- 
-     - Alliance Eternal game update
-     - Limited-time Legends classes creation, for accounts that haven't logged in since before March 14, 2012.
-     - Lion King's Castle revamp
-     - Explorer skill rebalances: Warrior, Magician, Bowman
-     - Cygnus Knights skill rebalances
-     - Cygnus Knights quest line expansion and modifications
-     - Ultimate Explorer skill rebalances and quest additions
-     - Nett's Pyramid Modifications
-     - Evolving Belt II Event
-     - Log in Gift Event
-     - Rescue The Miwok Boys Event
-     - Spring Flower Event
-     - Pendant Of The Spirit Event
-     - Alliance Congratulatory Events Updated For Alliance Eternal
+  <summary>
+            v115 (Aug 06, 2012) - Mutiny
+  </summary>
 
+  URL: https://web.archive.org/web/20121120063153/http://maplestory.nexon.net/news/updates/update-notes/00F5s/v-115-mutiny-update-notes
+
+     - New Content: Boss Expedition: Hilla
+     - New Content: Spiegelmann's Gonzo Gallery
+     - Updated Content: Pirates' RevengeSkill Changes
+     - Updated Content: Skill Changes
+     - Updated Content: Dual Blades RebornSkill Changes
+     - Updated Content: Skill Changes
+     - Updated Content: The Golden Temple
+     - Updated Content: Silent Crusade
+     - Updated Content: Monster Park
+     - Updated Content: Mu Lung Dojo
+     - Updated Content: Temple of Time
+     - Updated Content: Miscellaneous
+     - Resolved & Known Issues: Resolved Issues
+     - Resolved & Known Issues: Known Issues
+</details>
+
+<details>
+  <summary>
+            v114 (Jul 23, 2012) - Renegades: Fight for Azwan
+  </summary>
+
+  URL: https://web.archive.org/web/20130103082614/http://maplestory.nexon.net/news/updates/update-notes/00F1s/v-114-renegades-fight-for-azwan-update-notes
+
+     - New Content: Azwan
+     - New Content: General Info
+     - New Content: Modes: Occupy & Attack
+     - New Content: Mode: Defense
+     - New Content: Mode: Supply
+     - New Content: Coins and Shops
+     - New Content: Honor EXP & Inner Ability
+     - New Content: Maple BigWigs
+     - Updated Content: Misc
+     - New Events: Summer Event: It's Time to Take Back the Cold! (7/25 - 8/8)
+     - New Events: Summer Event: Super Summer Surfboards (7/25 - 8/8)
+     - Resolved & Known Issues: Resolved Issues
+     - Resolved & Known Issues: Known Issues
+</details>
+
+<details>
+  <summary>
+            v112.1 (Jul 06, 2012) - Renegades: Phantom
+  </summary>
+
+  URL: https://web.archive.org/web/20121027005119/http://maplestory.nexon.net/news/updates/update-notes/00Exj/v-112-renegades-phantom-update-notes
+
+     - New Playable Class: Phantom: Intro
+     - New Playable Class: Phantom: Overview
+     - New Playable Class: Phantom: Notable Information
+     - New Playable Class: Phantom: Skills
+     - New Events: Phantom Celebration Day (7/9 - 7/14)
+     - New Events: Phantom Welcome Event: Free Character Slot (7/9 - 8/8)
+     - New Events: Renegades Coin Shop Update
+     - New Events: New World Events: Renegades (7/9 - 7/31)
+     - New Events: Renegades: Jett ongoing events
+</details>
+
+<details>
+  <summary>
+            v112 (Jun 26, 2012) - Renegades: Jett
+  </summary>
+
+  URL: https://web.archive.org/web/20121027005110/http://maplestory.nexon.net/news/updates/update-notes/00Eu1/v-112-renegades-jett-update-notes
+
+     - New Content: Jett
+     - New Content: Phantom (7/9)
+     - New Content: Part-Time Job
+     - New Content: Character Card System
+     - New Content: Navigation System
+     - New Content: Level-Up Guide
+     - New Content: New Weapons
+     - Updated Content: Thief Class Rebalance
+     - Updated Content: Other Class Rebalances
+     - Updated Content: Boss Content
+     - Updated Content: Party Quests/Competitive Content
+     - Updated Content: Monster Park
+     - Updated Content: Neo City
+     - Updated Content: Battle Square
+     - Updated Content: NPCs
+     - Updated Content: Monsters
+     - Updated Content: Quests
+     - Updated Content: Miscellaneous
+     - Resolved and Known Issues: Fixes
+     - Resolved and Known Issues: Known Issues
+     - Appendix: Skill Changes
+     - Appendix: Event Notes Part 1
+     - Appendix: Event Notes Part 2
+</details>
+
+<details>
+  <summary>
+            v111 (May 29, 2012) - Maple Class Reunion
+  </summary>
+
+  URL: https://web.archive.org/web/20121026235051/http://maplestory.nexon.net/news/updates/update-notes/00Etn/v-111-maple-class-reunion-update-notes
+
+     - New Content: Back to the Old Maple (6/1 - 6/26)
+     - New Content: Legends Character Creation (6/1 - 6/13)
+     - New Content: Bounty Hunter Event (6/6 - 6/26)
+     - New Content: Tracking the Outlaw (6/20 - 6/26)
+     - Revised Content: Maple Trading System Shutdown
+     - Resolved and Known Issues: Fixes
+     - Resolved and Known Issues: Known Issues
+</details>
+
+<details>
+  <summary>
+            v109 (Apr 10, 2012) - Alliance Eternal
+  </summary>
+
+  URL: https://web.archive.org/web/20121018004241/http://maplestory.nexon.net:80/news/updates/update-notes/00Et3/v-109-alliance-eternal-update-notes
+
+     - New Contents: Awakening Quests: Explorers and Cygnus Knights
+     - New Contents: Return of Legend Characters, and free Maple Points
+     - New Contents: New Level 110 and Max Level quests for Cygnus Knights
+     - Revised Contents:: General Explorer Revamp
+     - Revised Contents:: Warrior Class Revamp
+     - Revised Contents:: Magician Class Revamp
+     - Revised Contents:: Bowman Class Revamp
+     - Revised Contents:: Ultimate Explorer Class Revamp
+     - Revised Contents:: General Cygnus Knight Revamp
+     - Revised Contents:: Dawn Warrior Class Revamp
+     - Revised Contents:: Blaze Wizard Class Revamp
+     - Revised Contents:: Wind Archer Class Revamp
+     - Revised Contents:: Night Walker Class Revamp
+     - Revised Contents:: Thunder Breaker Class Revamp
+     - Revised Contents:: Lion King's Castle Revamp
+     - Revised Contents:: Nett's Pyramid Revamp
+     - Revised Contents:: Miscellaneous Adjustments
+     - Resolved & Known Issues: Resolved Issues
+     - Resolved & Known Issues: Known Issues
 </details>
 
 <details>
@@ -3993,121 +4588,192 @@
 </details>
 
 <details>
-     <summary>
-            v107 (Mar 14, 2012)
-     </summary>
- 
-     - New Alliance Quests
-     - Ellin Forest Expansion
-     - New Leaf City and Masteria Expansion
-     - New Alien Socket System
-     - New Event Cards and Event Card Collection System
-     - Resistance Class Rebalance
-     - Aran and Evan Rebalance: Part 2
-     - Time Trial Party Quest Revamp: Mu Lung Dojo, Monster Carnival, Nett's Pyramid, Sea of Fog Ghost Ship Raid
-     - The Danger Zone Taxi Revised In Ossyria.
-     - The Free Market Update
-     - Graphic Quality Of Skill Can Be Modified.
-     - Dual Blades, Cannoneer, Mercedes, Demon Slayer No Longer In Character Selection Screen
+  <summary>
+            v107 (Mar 12, 2012) - Alliance Unbound
+  </summary>
 
+  URL: https://web.archive.org/web/20121022103439/http://maplestory.nexon.net:80/news/updates/update-notes/00Est
+
+     - New Content: New Alliance Quests
+     - New Content: Ellin Forest Expansion
+     - New Content: New Leaf City and Masteria Expansion
+     - New Content: New Alien Socket System
+     - New Content: Nebulite Fusion
+     - New Content: New Event Cards and Event Card Collection System
+     - Revised Content: Resistance Class Rebalance
+     - Revised Content: Battle Mage
+     - Revised Content: Wild Hunter
+     - Revised Content: Mechanic
+     - Revised Content: Aran and Evan Rebalance: Part 2
+     - Revised Content: Aran
+     - Revised Content: Evan
+     - Revised Content: Time Trial Party Quest Revamp - Mu Lung Dojo, Monster Carnival, Nett's Pyramid, Sea of Fog Ghost Ship Raid
+     - Revised Content: Mu Lung Dojo
+     - Revised Content: Monster Carnival
+     - Revised Content: Nett's Pyramid
+     - Revised Content: Sea of Fog Ghost Ship Raid
+     - Revised Content: Limited Time Character Cut-off - Dual Blades, Cannoneer, Mercedes, Demon Slayer No Longer In Character Selection Screen
+     - Resolved & Known Issues: Resolved Issues
+     - Resolved & Known Issues: Known Issues
 </details>
 
 <details>
-     <summary>
-            v106 (Feb 03, 2012)
-     </summary>
+  <summary>
+            v106 (Jan 31, 2012) - Alliance Rising
+  </summary>
 
-     - Crimsonwood Keep PQ returns.
-     - Aran and Evan revamps
-     - Silent Crusade revamp, with the new Arkarium expedition
-     - Mushking Castle, Chryse, and Kerning Square revamps
-     - Legends Memories and Legends Thank You events
-     - Protect the Fireworks Festival (Ended on Feb. 28)
-     - Legends of Happiness!
-     - Legends I'm the Legendary Hero!
-     - A Golden Maple Leaf A Day!
-     - Valentine's Day events
-     - Raise a Maple Coin Tree (Ended on Feb 14)
-     - From Golden Leaves to Mushrooms? (Started on Feb 11)
-     - Monsters and the Golden Maple Leaf! (Started on Feb 14)
-     - Legendary Memories Events (Feb 22 - Mar 7)
-     - New Legends Shop (Ended on March 8)
+  URL: https://web.archive.org/web/20121110214115/http://maplestory.nexon.net:80/news/updates/update-notes/00Eqv/v-106-alliance-rising-update-notes
 
-
+     - New Contents: New Skills - Willpower of Alliance
+     - New Contents: Silent Crusade Reloaded
+     - New Contents: New Boss Expedition: Arkarium
+     - New Contents: New Quests
+     - New Contents: New and Revised Mini Dungeons
+     - New Contents: New Hidden Streets
+     - Revised Contents: Hero Revamp: Aran and Evan
+     - Revised Contents: General Skill Changes
+     - Revised Contents: General Themed Dungeon Revamps
+     - Revised Contents: Dungeon Specific Changes
+     - Revised Contents: Pet Speed Revision
+     - Revised Contents: Crimsonwood Keep Party Quest Revamp: Part 1
+     - Events: New Legends Shop
+     - Events: Legendary Thank You Events
+     - Events: Valentine's Day Events
+     - Events: Legendary Memories Events
+     - Cash Shop Update: New Pet: Storm Dragon and More
+     - Cash Shop Update: New Legendary Booster Pack
+     - Cash Shop Update: AP and SP Reset Bundle Sale
+     - Cash Shop Update: New Functional Item: Portable Storage
+     - Cash Shop Update: New Functional Item: Sharing Tag
+     - Cash Shop Update: New Permanent Decorative Items
+     - Cash Shop Update: Limited-time Permanent Weapon Covers
+     - Cash Shop Update: Continuing Sale: All Stars Hair Coupon
+     - Resolved and Known Issues: Fixes
+     - Resolved and Known Issues: Known Issues
 </details>
 
 <details>
-     <summary>
-            v105 (Jan 19, 2012)
-     </summary>
- 
-     - Pink Zakum raid Event
-     - Evolving Ring III Event
-     - Daily Gear Giveaway Event
-     - New Year's Gift Boxes Event
+  <summary>
+            v105 (Jan 18, 2012) - Year of the Dragon
+  </summary>
 
+  URL: https://web.archive.org/web/20121027005049/http://maplestory.nexon.net:80/news/updates/update-notes/00Epd/v-105-year-of-the-dragon-update-notes
+
+     - New Events: Pink Zakum Raid
+     - New Events: Evolving Ring III
+     - New Events: Daily Gear Giveaway
+     - New Events: New Year's Gift Boxes
+     - Ongoing Events: Welcome Back Gift
+     - Ongoing Events: New Player Welcome Gifts
+     - Ongoing Events: Legends Support Events
+     - Ongoing Events: 2x Drop
+     - Ongoing Events: Equipment Support
+     - Ongoing Events: Legends Space Rock
+     - Ongoing Events: Legends 1+1
+     - Ongoing Events: Legends Never Give Up!
+     - Ongoing Events: Legends Awards
+     - Ongoing Events: Hero of the Legends: New Class Creation Event
+     - Ongoing Events: Legendary Black Dragon
+     - Ongoing Events: Rock-Paper-Scissors
+     - Ongoing Events: Can You Resist?
+     - Gachapon Update: Gachapon Grand Prize
+     - Gachapon Update: Chair King
+     - Cash Shop Update: Random Meso Sacks
+     - Cash Shop Update: Chair Gachapon Tickets
+     - Cash Shop Update: Vega's Spell
+     - Cash Shop Update: Scissors of Karma SaleTEM
+     - Cash Shop Update: 2x EXP Coupons Sale - Extended!
+     - Known Issues: Known Issues
 </details>
 
 <details>
-     <summary>
-            v104 (Dec 08, 2011)
-     </summary>
- 
-     - New Job: Cannoneer
-     - New Job: Mercedes
-     - New Job: Demon Slayer
-     - Quick Move System
-     - NPC Button
-     - Normal Potion: Increased to stack up to 300 per slot.
-     - Alchemy Potion: Increased to stack up to 400 per slot.
-     - Pill: Increased to stack up to 600 per slot.
-     - Alchemy Pill: Increased to stack up to 800 per slot.
-     - Explorer Job Advancements Revamped
-     - Quests for Lv. 30 or below on Victoria Island have been changed.
-     - The Wandering Alchemist Eurek's New Skill" quest has been changed
-     - Professions Changes
-     - Battle Mode : New maps, New way of scoring, HP/MP Changes, BP Changes
-     - Nautilus Harbor and Florina Beach Map Changes
-     - New Monsters Added (Victoria Island)
-     - Few Monsters Level Changes (Henesys)
-     - Speed Increase 20%
-     - Danger Zone Taxi In Omega Sector Now Goes To Ludibrium
-     - INT No Longers Increase max MP To Non-Mage Classes
-     - Passive skills Shows on Stat Window
-     - Tablets Revamped
-     - Menu UI: Coin Shop
-     - Menu UI: Trophy List
-     - Menu UI: My Trophies
-     - Menu UI: Mission
-     - Cannoneer Welcome Party Event (Dec 9 to Dec 11)
-     - Equipment Support Event (Ended on : Jan 31)
-     - Legends Space Rock Event (Ended on : Jan 31)
-     - Legends 1+1 Event (Ended on : Jan 31)
-     - Legends Never Give Up! Event (Ended on : Jan 31)
-     - Invitation to the Legends Awards Event (Ended on : Jan 31)
-     - Box of Tomorrow Event (Ended on : Jan 31)
-     - Hero of the Legends: New Class Creation Event (Ended on : Jan 31)
-     - Professions Revamp Celebration Event (Ended on : Dec 28)
-     - Magic Music Box Event (Ended on Jan 4)
-     - Maple Claws Wants to be Famous Event (Started on Dec 19) (Ended on : Jan 31)
-     - Cultivate a Christmas Tree Event (Started on Dec 19) (Ended on : Jan 31)
-     - Rudolph, All Grown Up Event? (Started on Dec 19) (Ended on : Jan 31)
-     - Command Emblems Event (Dec 27 to Jan 10)
-     - Path of the Great Protector Event (Dec 29 to Jan 18)
-     - Monitoring the Vibrations Event (Dec 29 to Jan 18)
-     - Legendary Ore Event (Dec 29 to Jan 18)
-     - Happy New Year Event! (Jan 1 to Jan 18)
-     - Maple World Winter Preparations Event (Jan 1 to Jan 18)
-     - Warm Thermometer Event (Jan 1 to Jan 18)
-     - Lucky Cakes Event (Jan 1 to Jan 18)
-     - Coin Cakes Event (Jan 1 to Jan 18)
-     - The Party Quest Five Event (Jan 11 to Jan 18)
-     - The Monster Park Five Event (Jan 11 to Jan 18)
-     - The Battle Mode Five Event (Jan 11 to Jan 18)
-     - Legendary Black Dragon Event (Jan 18 to Jan 31)
-     - Rock-Paper-Scissors Event (Jan 19 to Jan 31)
-     - Can You Resist Event? (Jan 19 to Jan 31)
+  <summary>
+            v104.2 (Jan 10, 2012) - Legends: Demon Slayer
+  </summary>
 
+  URL: https://web.archive.org/web/20121027005100/http://maplestory.nexon.net:80/news/updates/update-notes/00Eqn/v-104-legends-update-notes-demon-slayer
+
+     - New Content: New Playable Character: Demon Slayer
+     - Events: Free Character Slot Coupon
+     - Events: Welcome Back Gift
+     - Events: New Player Welcome Gifts
+     - Events: Legends Support Events
+     - Events: Hero of the Legends: New Class Creation Event
+     - Events: Legends Awards
+     - Events: Path of the Great Protector
+     - Events: Monitoring the Vibrations
+     - Events: Legendary Ore
+     - Events: Happy New Year!
+     - Events: Maple World Winter Preparations
+     - Events: Warm Thermometer
+     - Events: Lucky Cakes
+     - Events: Coin Cakes
+     - Events: The Party Quest Five
+     - Events: The Battle Mode Five
+     - Events: Legendary Black Dragon
+     - Events: Rock-Paper-Scissors
+     - Events: Can You Resist?
+     - Cash Shop Updates: Gachapon
+     - Cash Shop Updates: Cash Shop
+     - Known Issues: Known Issues
+</details>
+
+<details>
+  <summary>
+            v104.1 (Dec 16, 2011) - Legends: Mercedes
+  </summary>
+
+  URL: https://web.archive.org/web/20121027005105/http://maplestory.nexon.net:80/news/updates/update-notes/00Erx/v-104-legends-update-notes-mercedes
+
+     - New Content: New Playable Character: Mercedes
+     - New Events: Free Character Slot Coupon
+     - New Events: Welcome Back Gift
+     - New Events: New Player Welcome Gifts
+</details>
+
+<details>
+  <summary>
+            v104 (Dec 06, 2011) - Legends: Cannoneer
+  </summary>
+
+  URL: https://web.archive.org/web/20121027005054/http://maplestory.nexon.net:80/news/updates/update-notes/00EqL/v-104-legends-update-notes-cannoneer-and-more
+
+     - New Content: New Job: Cannoneer
+     - Events: Cannoneer Welcome Party, Part 2
+     - Events: Legends Support Events
+     - Events: Legends Awards
+     - Events: Invitation to the Legends Awards
+     - Events: Box of Tomorrow
+     - Events: Professions Revamp Celebration
+     - Events: Hero of the Legends: New Class Creation Event
+     - Events: Magic Music Box
+     - Events: Maple Claws Wants to be Famous
+     - Events: Cultivate a Christmas Tree
+     - Events: Rudolph, All Grown Up?
+     - Events: Command Emblems
+     - Events: Path of the Great Protector
+     - Events: Monitoring the Vibrations
+     - Events: Legendary Ore
+     - Events: Happy New Year!
+     - Events: Maple World Winter Preparations
+     - Events: Warm Thermometer
+     - Events: Lucky Cakes
+     - Events: Coin Cakes
+     - Events: The Party Quest Five
+     - Events: The Battle Mode Five
+     - Events: Legendary Black Dragon
+     - Events: Rock-Paper-Scissors
+     - Events: Can You Resist?
+     - Changes: UI
+     - Changes: Explorer job advancements
+     - Changes: Quests
+     - Changes: Professions
+     - Changes: Battle Mode
+     - Changes: Map
+     - Changes: Other
+     - Cash Shop Updates: Gachapon
+     - Cash Shop Updates: Cash Shop
+     - Known Issues: Known Issues
 </details>
 
 <details>
@@ -4128,7 +4794,7 @@
 
 <details>
      <summary>
-            v102 (Oct 27, 2011)
+            v102 (Oct 27, 2011) - Rise of Fellowship
      </summary>
  
      - Monster Familiar
@@ -4143,75 +4809,98 @@
 </details>
 
 <details>
-     <summary>
-            v101 (Sep 28, 2011)
-     </summary>
-     
-     - Warrior, Magicians and Archer Skill Changes
-     - Monster Park
-     - Wedding Revamp
-     - Bigger Dimensional Mirror
-     - 3 New Party Quest (Kenta in Danger, Escape, The Ice Knight's Curse)
-     - Old Party Quest Revamp
-     - In-Game Event Calender
-     - SP Reset Scroll Giveaway Event (Provided to: Warriors, Magicians, Bowmans, Dawn Warrior, Blaze Wizard, Wind Archer)
-     - Elite Warrior/Magician/Bowman Blessing
-     - Warrior/Magician/Bowman Level Up/Job Advancement Event
-     - Explorer's Gratias Ring
-     - Monster Park Event Quests
-     - Knights of Virtue Event (Ended on : Oct 19)
-     - Lion King Castle/Knight Stronghold Monsters Revamp
-     - EXP Bar User Interface Change
-     - Notice on Left side of Screen
-     - AP/SP now [!] on Bottom of Screen (SP will stop notifying at level 70+)
-     - Evolving Belt Event (Started on : Oct 5)
-     - Random Beauty Coupon (Started on : Oct 5)
-     - Beating the Heat (Started on : Oct 12)
+  <summary>
+            v101 (Sep 27, 2011) - Ascension
+  </summary>
 
+  URL: https://web.archive.org/web/20140325110904/http://maplestory.nexon.net:80/news/updates/update-notes/00EqW/v-101-ascension-update-notes
+
+     - New Content: New Party Quests - Ice Knight's Curse, Kenta in Danger, Escape
+     - New Content: Airplane Mount Skills
+     - New Content: Treasure Monsters
+     - New Content: Event List - in game event calendar
+     - New Content: Re-buy
+     - New Events: SP Reset Scroll Giveaway
+     - New Events: Elite Warrior/Magician/Bowman Blessing
+     - New Events: Warrior/Magician/Bowman 1st Job Advancement Event
+     - New Events: Warrior/Magician/Bowman 2nd-4th Job Advancement Event
+     - New Events: Warrior/Magician/Bowman Level Up Event
+     - New Events: Explorer's Gratias Ring
+     - New Events: Monster Park Event Quests
+     - New Events: Knights of Virtue
+     - New Events: Evolving Belt
+     - New Events: Random Beauty Coupon
+     - New Events: Beating the Heat
+     - Changes/Updates: Skills
+     - Changes/Updates: UI - EXP Bar Changed, AP/SP Notification
+     - Changes/Updates: Party Quests
+     - Changes/Updates: Neo City
+     - Changes/Updates: Gate to the Future
+     - Changes/Updates: Wedding Revamp
+     - Cash Shop Updates: Gachapon
+     - Cash Shop Updates: Cash Shop
+     - Known Issues: Known Issues
+</details>
+
+<details>
+  <summary>
+            v100 (Aug 11, 2011) - Chaos: Age of Triumph
+  </summary>
+
+  URL: https://web.archive.org/web/20111006150630/http://maplestory.nexon.net/News/News.aspx?boardNo=103&contentNo=00CfP&pageIndex=1
+
+     - New Content: Battle Mode - Capture the Flag
+     - New Content: Silent Crusade
+     - New Content: Crusader Codex 
+     - New Content: Soaring Mount 
+     - New Content: Four Passenger Mount
+     - New Content: EXP Booster Preview
+     - Events: Chaos Warrior Challenge
+     - Events: Battle Mode Boom Up Event
+     - Events: Battle Mode Support Event
+     - Events: Nova New World Events
+     - Events: Returned Friend Event
+     - Changes/Updates: Skills
+     - Changes/Updates: UI
+     - Changes/Updates: Party Quests
+     - Changes/Updates: Neo City
+     - Changes/Updates: Gate to the Future
+     - Changes/Updates: Wedding Revamp
+     - Cash Shop Updates: Gachapon
+     - Cash Shop Updates: Cash Shop
+     - Known Issues: Known Issues
+</details>
+
+<details>
+  <summary>
+            v99 (Jun 28, 2011) - Chaos: Age of Heroes
+  </summary>
+
+  URL: https://web.archive.org/web/20150711163149/http://maplestory.nexon.net/news/updates/update-notes/00EoH/v-99-chaos-age-of-heroes-update-notes
+
+     - New Content: Gate to the Future
+     - New Content: Cygnus Expedition
+     - New Content: Voiceovers
+     - New Content: Mystery Mastery Books
+     - New Content: Age of Artisans - Traits (11 July 2011)
+     - New Content: Age of Artisans - Professions (11 July 2011)
+     - New Content: New World - Chaos
+     - New Content: Age of Battle - Player-vs-player (PVP) (20 July 2011)
+     - Events: Hyper Teleport Rock Preview
+     - Events: New World Events
+     - Events: New Character Gift Sets
+     - Events: Peacekeeper's Aid
+     - Events: 2011 Summer Boom Up Event
+     - Events: Returned Friend Event
+     - Events: Chaos Warrior Challenge
+     - Cash Shop Updates: Gachapon
+     - Cash Shop Updates: Cash Shop
+     - Known Issues: Known Issues
 </details>
 
 <details>
      <summary>
-            v100 (Aug 11, 2011)
-     </summary>
-
-     - Age of Triumph
-     - Capture the Flag
-     - Silent Crusade
-     - Crusader Codex (Monster Card)
-
-</details>
-
-<details>
-     <summary>
-            v0.99 (Jun 29, 2011)
-     </summary>
- 
-     - Age of Heros
-     - Aran, Evan and Dual Blade Skill Changes
-     - New World - Chaos
-     - Gate to the Future
-     - Talking NPC (Lion King Castle/Gate to the Future)
-     - Hyper Teleport Rock preview
-     - Jumpstart Character (Ended on July 26)
-     - New Character Gift Sets
-     - Peacekeeper's Aid (Ended on : July 19)
-     - 2011 Summer Boom Up Event (Ended on : July 26)
-     - Returned Friend Event (Ended on : Aug 31)
-     - Chaos Warrior Challenge (Ended on : Aug 14)
-     - Age of Artisans (11 July 2011)
-     - New Crafting System
-     - All New Character Traits
-     - Age of Battle (20 July 2011)
-     - New World - Nova
-     - Player-vs-Player
-     - Ice Knight (Added on July 27)
-
-</details>
-
-<details>
-     <summary>
-            v0.98 (May 25, 2011)
+            v0.98 (May 25, 2011) - Cake vs Pie2: Winter Bake
      </summary>
  
      - Cake vs. Pie Town Battles Event
@@ -4224,7 +4913,7 @@
 
 <details>
      <summary>
-            v0.97 (Apr 27, 2011)
+            v0.97 (Apr 27, 2011) - Jubilation
      </summary>
  
      - Anniversary
@@ -4240,92 +4929,101 @@
 </details>
 
 <details>
-     <summary>
-            v0.96 (Mar 10, 2011)
-     </summary>
- 
-     - Ultimate Explorer
-     - Cygnus Knights Buff
-     - Guild Revamped
-     - Blessing of Empress
-     - Lion King's Castle/Castle of Von Leon
-     - Ani Raid
-     - Elemental Wands and Staffs Update
-     - New World Map Features
-     - 7th Day Market Removed
-     - Ores Drop Removed
-     - More channels for Zakum, Horntail, and Targa/Scarlion
-     - Evolving Ring II
-     - Golden Temple (Ended on : March 22)
-     - Mardi Gras (Ended on : March 15)
-     - Chryse (Added on : April 6)
-     - Bug Fix
+  <summary>
+            v96 (Mar 9, 2011)
+  </summary>
 
+  URL: https://web.archive.org/web/20150313205724/http://maplestory.nexon.net:80/news/updates/update-notes/00EnF
+
+     - New Content: Ultimate Explorer
+     - New Content: Cygnus Knights update
+     - New Content: Explorer update
+     - New Content: Lion King’s Castle
+     - New Content: Von Leon Expedition
+     - New Content: Master Monsters
+     - New Content: Guild Revamp
+     - New Events: Evolving Ring II
+     - New Events: Golden Temple
+     - New Events: Mardis Gras
+     - New Events: SUBITEM
+     - New Events: SUBITEM
+     - New Events: SUBITEM
+     - New Events: SUBITEM
+     - New Events: SUBITEM
+     - New Events: SUBITEM
+     - Bug Fixes and Known Issues: Bug Fixes
+     - Bug Fixes and Known Issues: Known Issues
 </details>
 
 <details>
-     <summary>
-            v0.95 (Jan 19, 2011)
-     </summary>
- 
-     - Mechanics
-     - NPC Duey removed NPC Donald added
-     - Resistance characters can get Episode 1 hats
-     - Chinese New Year [Jan. 26 - Feb.08]
-     - Valentine's Day [Feb.09 - Feb.22]
-     - Golden Temple [Feb. 23 - Mar.22]
-     - Mardi Gras [Mar.02 - Mar.15]
-     - Bug Fixes
+  <summary>
+            v95 (Jan 14, 2011) - Birth of the Mechanic
+  </summary>
 
+  URL: https://web.archive.org/web/20121029091924/http://maplestory.nexon.net:80/news/updates/update-notes/00En2
+
+     - New Content: Mechanic
+     - New Events: Gachapon Corsage
+     - New Events: Chinese New Year
+     - New Events: Valentine's Day
+     - New Events: Mardi Gras
+     - New Events: Mechanic
+     - New Events: Mechanic
+     - New Events: Mechanic
+     - Cash Shop Updates: Cash Shop
+     - Bug Fixes: Bug Fixes
+</details>
+
+
+<details>
+  <summary>
+            v94 (Dec 17, 2010) - The Resistance
+  </summary>
+
+  URL: https://web.archive.org/web/20121127013802/http://maplestory.nexon.net:80/news/updates/update-notes/00Emi/v-94-the-resistance-update-notes
+
+     - New Content: New Faction: Resistance
+     - New Content: New World: Arcania
+     - New Events: Support for Resistance
+     - New Events: Resistance Leveling
+     - New Events: Happyville
+     - New Events: White Christmas Tree
+     - New Events: New World Event
+     - Bug Fixes and Known Issues: Bug Fixes
+     - Bug Fixes and Known Issues: Known Issues
 </details>
 
 <details>
-     <summary>
-            v0.94 (Dec 20, 2010)
-     </summary>
- 
-     - Resistance Class
-     - New World - Arcania
-     - Support for Resistance Event
-     - Resistance Leveling Event
-     - Happyville (It ended on: Jan 5th)
-     - White Christmas Tree Event (It ended on: Jan 5th)
-     - New World Event
-     - Singapore Monsters Adjustments
-     - Bug Fixes
+  <summary>
+            v93 (Dec 7, 2010) - Big Bang
+  </summary>
 
-</details>
+  URL: https://web.archive.org/web/20121210175950/http://maplestory.nexon.net:80/news/updates/update-notes/00Em8/v-93-big-bang-update-notes
 
-<details>
-     <summary>
-            v0.93 (Dec 07, 2010)
-     </summary>
-
-     - Big Bang
-     - New World – El Nido
-     - New World – Zenith
-     - EXP change
-     - New Formulas
-     - Map changes
-     - Item Drops increased (Use and Etc.)
-     - Party Quest Level updated
-     - Astaroth Been Added To Dimensional Mirror
-     - Quest Has Been Retooled
-     - Monster Adjustments
-     - Skill Adjustments
-     - Evolving Ring Event
-     - Eve of Resistance Event
-     - New User Event
-     - Returned Friend Event
-     - New World Event
-     - 1024x768 Resolution
-     - Higher Resolution
-     - User Interface Change
-     - World Map Change
-     - Ariant Coliseum and Ludibrium Maze Removed
-     - Episode 1 Quest Remodivied
-     - Big Fix
-
+     - New Content: New World – El Nido
+     - New Content: New World – Zenith
+     - New Feature: 1024x768 Support
+     - New Feature: UI streamlined
+     - New Feature: Simple mini map mode
+     - New Feature: Consolidated hair/eye coupons
+     - Changes / Updates: EXP Change
+     - Changes / Updates: New Damage Forumlas
+     - Changes / Updates: Map Updates
+     - Changes / Updates: Item Drops increased (Use and Etc.) 
+     - Changes / Updates: Party Quest Level updated
+     - Changes / Updates: Astaroth Been Added To Dimensional Mirror
+     - Changes / Updates: Quest Has Been Retooled
+     - Changes / Updates: Monster Adjustments
+     - Changes / Updates: Skill Adjustments
+     - Events: Evolving Ring
+     - Events: Eve of Resistance
+     - Events: New User Event
+     - Events: Returned Friend
+     - Events: New World Event
+     - Events: Hot Time Event
+     - Cash Shop Updates: Cash Shop
+     - Bug Fixes and Known Issues: Bug Fixes
+     - Bug Fixes and Known Issues: Known Issues
 </details>
 
 <details>
@@ -4377,28 +5075,38 @@
 </details>
 
 <details>
-     <summary>
-            v0.90 (Sep 29, 2010)
-     </summary>
- 
-     - Ice Gorge PQ
-     - Spacecraft PQ lv 30+ and 60+ removed (120+ only and no need for visitors gear to enter)
-     - Halloween Event (Started on Oct. 20)
-     - Ghost Ship (Added on Oct. 20)
+  <summary>
+            v90 (Sep 27, 2010) - The Fall Effect
+  </summary>
 
+  URL: https://web.archive.org/web/20130727064421/http://maplestory.nexon.net:80/news/updates/update-notes/00EmA/v-90-update-notes
+
+     - New Content: The Resurrection of the Hoblin King (Hoblin King PQ)
+     - New Feature: Gamepad support
+     - New Events: Roll Call
+     - New Events: Monster of the Day
+     - Cash Shop Updates: Cash Shop
+     - Bug Fixes and Known Issues: Bug Fixes
+     - Bug Fixes and Known Issues: Known Issues
 </details>
 
 <details>
-     <summary>
-            v0.89 (Aug 19, 2010) [R1]
-     </summary>
- 
-     - OSSS Secret Base
-     - Visitor Gear
-     - Unwelcome Guest Weapons and VIP Weapons
-     - Spacecraft PQ (lv 30+/60+/120+)
+  <summary>
+            v89 (Aug 17, 2010) - The Visitors
+  </summary>
 
+  URL: https://web.archive.org/web/20130729040711/http://maplestory.nexon.net:80/news/updates/update-notes/00Eli
 
+     - New Content: The Visitors Episodic Event
+     - New Content: Visitors Equipment - VIP & Unwelcomed Guest
+     - New Content: OSSS Secret Base
+     - New Content: Spacecraft PQ (lv 30+/60+/120+)
+     - New Events!: Dual Blade Level Up
+     - New Events!: 369 Event
+     - New Events!: Spirit Week
+     - Cash Shop Updates: Cash Shop
+     - Bug Fixes and Known Issues: Bug Fixes
+     - Bug Fixes and Known Issues: Known Issues
 </details>
 
 <details>
@@ -4523,49 +5231,74 @@
 </details>
 
 <details>
-     <summary>
-            v0.81 (Jan 20, 2010)
-     </summary>
- 
-     - Version Up: Monster Survival and New Medal
-     - Valentine's Day Event (Started on Feb. 3)
+  <summary>
+            v81 (Jan 19, 2010) - Winter Wonder
+  </summary>
 
+  URL: https://web.archive.org/web/20130114024331/http://maplestory.nexon.net:80/news/updates/update-notes/00Ei0/winter-wonder-update-v-81-update-notes
+
+     - New Content: Monster Survival - Abandoned Subway
+     - New Content: Monster Survival - Nett’s Pyramid
+     - Events: Royal Roll Call
+     - Events: Gachapon Stamp
+     - Events: Valentine's Day Events
+     - Events: Mardi Gras Events
+     - Events: GM Events – Frantic Fridays
+     - Events: Galicia 2x EXP Days
+     - Events: Aran’s Gift – Reward’s have arrived!
+     - Cash Shop: Cash Shop Updates
+     - Cash Shop: MTS Updates
+     - Cash Shop Updates: Cash Shop
+     - Bug Fixes: Bug Fixes
 </details>
 
 <details>
-     <summary>
-            v0.80 (Dec 10, 2009)
-     </summary>
- 
-     - Aran Class
-     - New World : Galicia
-     - Maple Trading System (MTS) available on Yellonde and Demethos
-     - New Tutorial for Explorers
-     - Mushroom Castle
-     - Water of Life : Redesigned Functionality
-     - Party EXP Share formula change (From 60:40 to 80:20)
-     - Aran Events
-     - Holiday Events
-     - New User Events
-     - New Quests Added
-     - New Items/Maps/Zones
-     - Bug Fixes
+  <summary>
+            v80 (Dec 09, 2009) - Aran
+  </summary>
 
+  URL: https://web.archive.org/web/20121028084348/http://maplestory.nexon.net:80/news/updates/update-notes/00Egw/aran-update-v-80-update-notes
+
+     - New Content: New Class: Aran
+     - New Content: New Tutorial for Explorers
+     - New Content: Mushroom Castle
+     - New Content: Water of Life – Redesigned Functionality
+     - New Content: Vega’s Spell
+     - New Content: New World – Galicia
+     - New Content: New Quests
+     - New Content: New Items
+     - New Content: New Maps/Zones
+     - New Content: New NPCs
+     - New Content: New Monsters
+     - Events: Aran Events
+     - Events: Holiday Events
+     - Events: Gachapon Box Event
+     - Events: 2x EXP/Drop Events
+     - Events: New User Events
+     - Events: SUBITEM
+     - Events: SUBITEM
+     - Events: SUBITEM
+     - Events: SUBITEM
+     - Cash Shop Updates: Cash Shop
+     - Bug Fixes: Bug Fixes
 </details>
 
 <details>
-     <summary>
-            v0.79 (Nov 11, 2009)
-     </summary>
- 
-     - A November to Remember Events
-     - Episode 1 (Storyline for Adventures)
-     - Pre Aran Quests
-     - Turkey Event
-     - Black Scooter Mount
-     - Pink Scooter Mount
-     - Hot Air Balloon Mount
+  <summary>
+            v79 (Nov 11, 2009) - November Update
+  </summary>
 
+  URL: https://web.archive.org/web/20121029091648/http://maplestory.nexon.net:80/news/updates/update-notes/00EiP
+
+     - New Content: Episode 1 (Storyline for Adventurers
+     - New Content: New Quests
+     - New Content: New Items
+     - New Content: New Maps/Zones
+     - New Content: New NPCs
+     - New Content: New Monsters
+     - Events: Thanksgiving Events
+     - Cash Shop Updates: Cash Shop
+     - Bug Fixes: Bug Fixes
 </details>
 
 <details>
@@ -4584,26 +5317,27 @@
 </details>
 
 <details>
-     <summary>
-            v0.77 (Oct 22, 2009)
-     </summary>
- 
-     - Halloween Events
-     - Level Up Event
-     - Gold Richie Event
-     - Witch's Tower Event
-     - Version Up Content
-     - New Create a Character menu
-     - Updated Find Party Member window
-     - Balrog Boss Monster (Easy Mode/Normal Mode)
-     - More Medals
-     - Medal interface
-     - More Mini Dungeons (Drake's and Pirates)
-     - Malaysia
-     - New PQ - Boss Targa and Scarlion
-     - Haunted House II
-     - To add HP and MP you must be level 20
+  <summary>
+            v77 (Oct 22, 2009) - Halloween
+  </summary>
 
+  URL: https://web.archive.org/web/20130114054632/http://maplestory.nexon.net:80/news/updates/update-notes/00Ei1/halloween-update-v-77-update-notes
+
+     - New Content: Cygnus Knights Character Creation - no longer requires high level character
+     - New Content: New Balrog PQ
+     - New Content: Boss Mob Talk
+     - New Content: Malaysia Area
+     - New Content: New Quests
+     - New Content: New Items
+     - New Content: New Maps/Zones
+     - New Content: New NPCs
+     - New Content: New Monsters
+     - Events: Haunted House 2
+     - Events: Witch Malady's Secret Mission
+     - Events: Cassandra's Trick or Treat
+     - Events: Premium Gachapon Box Event
+     - Events: Gold Richie
+     - Events: Witch's Tower
 </details>
 
 <details>
@@ -4795,16 +5529,17 @@
 </details>
 
 <details>
-     <summary>
-            v0.61 (Oct 15, 2008)
-     </summary>
- 
-     - Pre Pirate Quests
-     - Guest Login Working
-     - Event Mini Dungeon
-     - Singapore Map
-     - Halloween Updates
+  <summary>
+            v61 (Oct 14, 2008)
+  </summary>
 
+  URL: https://web.archive.org/web/20150313211853/http://maplestory.nexon.net:80/news/updates/update-notes/00EeE
+
+     - New Content: Guest Login Working
+     - New Content: Singapore Map
+     - Event: Event Mini Dungeon
+     - Event: Pre Pirate Quests
+     - Event: Halloween Updates
 </details>
 
 <details>
