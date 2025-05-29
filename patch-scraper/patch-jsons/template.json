@@ -2,7 +2,7 @@
   "__url__": "URL",
   "__date__": "DATE",
   "__title__": "TITLE",
-  "CATEGORY": [
+  "New Content": [
     "SUBITEM",
     "SUBITEM",
     "SUBITEM",
@@ -57,5 +57,12 @@
     "SUBITEM",
     "SUBITEM"
   ],
-  
+
+  "Cash Shop Updates": [
+    "Cash Shop"
+  ],
+  "Bug Fixes and Known Issues": [
+    "Bug Fixes",
+    "Known Issues"
+  ]   
 }
