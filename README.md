@@ -5281,12 +5281,6 @@
      - New Events: Evolving Ring II
      - New Events: Golden Temple
      - New Events: Mardis Gras
-     - New Events: SUBITEM
-     - New Events: SUBITEM
-     - New Events: SUBITEM
-     - New Events: SUBITEM
-     - New Events: SUBITEM
-     - New Events: SUBITEM
      - Bug Fixes and Known Issues: Bug Fixes
      - Bug Fixes and Known Issues: Known Issues
 </details>
@@ -5611,10 +5605,6 @@
      - Events: Gachapon Box Event
      - Events: 2x EXP/Drop Events
      - Events: New User Events
-     - Events: SUBITEM
-     - Events: SUBITEM
-     - Events: SUBITEM
-     - Events: SUBITEM
      - Cash Shop Updates: Cash Shop
      - Bug Fixes: Bug Fixes
 </details>
