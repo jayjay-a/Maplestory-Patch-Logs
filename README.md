@@ -1,5 +1,84 @@
 <details>
   <summary>
+            v260 (Jun 10, 2025) - Stargazer
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/27513/v-260-stargazer-patch-notes
+
+     - New Content: New Job: Sia Astelle
+     - New Content: Equipment
+     - New Content: Skills
+     - New Content: New Area: Oort
+     - New Content: Erda Link
+     - New Content: Wish Upon a Shooting Star
+     - New Updates: Skill Sequence System
+     - New Updates: Skill Improvements and Changes
+     - New Updates: Common Skills
+     - New Updates: Job Skills
+     - New Updates: Cross World Auction House
+     - New Updates: Cross World Meso Market
+     - New Updates: Genesis Weapon Awakening Changes
+     - New Updates: Monster Park Improvements
+     - New Updates: Epic Dungeon Changes
+     - New Updates: Sol Erda Conversion
+     - New Updates: Auto-Harvest Profession System Improvements
+     - New Updates: Link Skill Revamp
+     - New Updates: Quest Improvements and Changes
+     - New Updates: Story Quest
+     - New Updates: Symbol Quest
+     - New Updates: Arcane River Quest
+     - New Updates: Common Quest
+     - New Updates: UI Improvements and Changes
+     - New Updates: Legion Placement UI
+     - New Updates: Medal/Title Appearance UI
+     - New Updates: Medal UI
+     - New Updates: Quest UI
+     - New Updates: Key Binding UI
+     - New Updates: Emoticon UI
+     - New Updates: Chat Window UI
+     - New Updates: Common UI
+     - New Updates: Map/Movement Improvements and Changes
+     - New Updates: Town Portal
+     - New Updates: Teleport Rock Revamp
+     - New Updates: World Map Revamp
+     - New Updates: Mini-Map Revamp
+     - New Updates: Common Map
+     - New Updates: Boss/Mob Improvements and Changes
+     - New Updates: Boss Reward Party Distribution System
+     - New Updates: Common Boss/Mob
+     - New Updates: Map/Movement Improvements and Changes
+     - New Updates: Town Portal
+     - New Updates: Teleport Rock Revamp
+     - New Updates: World Map Revamp
+     - New Updates: Mini-Map Revamp
+     - New Updates: Common Map
+     - New Updates: NPC Improvements and Changes
+     - New Updates: Item Improvements and Changes
+     - New Updates: Smart AI Correction
+     - New Updates: DirectX 11
+     - Morning Star Banquet Events: Morning Star Banquet
+     - Morning Star Banquet Events: Morning Starlight Harvest
+     - Morning Star Banquet Events: Memento Coin Exchange
+     - Morning Star Banquet Events: Victory Badge Exchange
+     - Morning Star Banquet Events: Meso Shop
+     - Morning Star Banquet Events: Story of Servants
+     - Morning Star Banquet Events: Banquet’s Blessing
+     - Morning Star Banquet Events: Breumi’s Clean Up
+     - Burning Events: Hyper Burning MAX
+     - Burning Events: Tera Blink
+     - Burning Events: Item Burning
+     - Burning Events: Challenger World
+     - Other Events: Hyperion World Leap
+     - Other Events: Summer's Guide
+     - Other Events: Luxe Sauna
+     - Other Events: Hit the Road
+     - Other Events: Miracle Time
+     - Other Events: Sunny Sunday
+     - Other Events: Steam Community Market (BETA) Refund Process
+</details>
+
+<details>
+  <summary>
             v259 (Apr 28, 2025) - Victoria Cup: 20th Anniversary
   </summary>
 
