@@ -120,11 +120,14 @@ def extract_title(soup: BeautifulSoup) -> str:
         return ""
     raw = h1.get_text(strip=True)
 
-    # Clean: remove [Updated …], version prefix, trailing words
-    raw = re.sub(r"^\s*\[.*?\]\s*", "", raw)  # remove [Updated …]
-    raw = re.sub(r"^\s*[Vv][.\s]?\d{1,3}\s*[–-]\s*", "", raw)  # remove vXXX -
+    # Remove [Updated …]
+    raw = re.sub(r"^\s*\[.*?\]\s*", "", raw)
+    # Remove version prefix with optional hyphen/dash
+    raw = re.sub(r"^\s*[Vv][.\s]?\d{1,3}\s*[-–]?\s*", "", raw)
+    # Remove trailing words like "Patch Notes" or "Update Highlights"
     raw = re.sub(r"\s*(Patch\s*Notes|Update\s*Highlights)\s*$", "", raw, flags=re.I)
     return raw.strip(" –-")
+
 
 # ───────────────────── page parser ─────────────────────
 def parse_page(soup: BeautifulSoup) -> Dict[str, List[str]]:
