@@ -1,5 +1,51 @@
 <details>
   <summary>
+            v261 (Jul 15, 2025) - v.261 MapleStory x DAVE THE DIVER
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/28137/v-261-maple-story-x-dave-the-diver-patch-notes
+
+     - New Updates: New Mastery Nodes
+     - New Updates: Skill Improvements and Changes
+     - New Updates: Sol Erda Conversion Update
+     - DAVE THE DIVER Events: Save the Diver!
+     - DAVE THE DIVER Events: Blue Hole Exploration
+     - DAVE THE DIVER Events: Blue Hole Codex
+     - DAVE THE DIVER Events: Bancho Sushi
+     - DAVE THE DIVER Events: Token Shop
+     - Ride or Die Events: Ride or Die: Boss Difficulty and Challenges
+     - Ride or Die Events: Ride or Die: Althea's Support
+     - Ride or Die Events: Ride or Die: Kazax's Interference
+     - Ride or Die Events: Ride or Die: Weekly Total Score Rewards
+     - Ride or Die Events: Ride or Die: Participation Rewards
+     - Ride or Die Events: Coin Shop
+     - Morning Star Banquet Events: Morning Star Banquet
+     - Morning Star Banquet Events: Morning Star Fountain
+     - Morning Star Banquet Events: Breumi’s Exciting Clean Up and Breumi's Clean Up Finale
+     - Morning Star Banquet Events: Morning Starlight Harvest
+     - Morning Star Banquet Events: Memento Coin Exchange
+     - Morning Star Banquet Events: Victory Badge Exchange
+     - Morning Star Banquet Events: Meso Shop
+     - Morning Star Banquet Events: Story of Servants
+     - Morning Star Banquet Events: Banquet’s Blessing
+     - Burning Events: Burning Express
+     - Burning Events: Hyper Burning MAX
+     - Burning Events: Tera Blink
+     - Burning Events: Item Burning
+     - Burning Events: Challenger World: 2x Event
+     - Other Events: Tinkerer's Chest (Interactive and Challenger-Interactive Worlds)
+     - Other Events: [Victoria Cup] The Legends Return! Ranking Reward
+     - Other Events: Extended Ursus Golden Time (EU Challenger-World)
+     - Other Events: Hyperion World Leap
+     - Other Events: Summer's Guide
+     - Other Events: Luxe Sauna
+     - Other Events: Sunny Sunday
+</details>
+
+
+
+<details>
+  <summary>
             v260 (Jun 10, 2025) - Stargazer
   </summary>
 
@@ -37,12 +83,6 @@
      - New Updates: Emoticon UI
      - New Updates: Chat Window UI
      - New Updates: Common UI
-     - New Updates: Map/Movement Improvements and Changes
-     - New Updates: Town Portal
-     - New Updates: Teleport Rock Revamp
-     - New Updates: World Map Revamp
-     - New Updates: Mini-Map Revamp
-     - New Updates: Common Map
      - New Updates: Boss/Mob Improvements and Changes
      - New Updates: Boss Reward Party Distribution System
      - New Updates: Common Boss/Mob
