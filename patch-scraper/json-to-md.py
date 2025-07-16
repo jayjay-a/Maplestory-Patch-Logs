@@ -16,24 +16,36 @@ def extract_version_num(version: str) -> Tuple[int, int]:
     minor = int(m.group(2)) if m.group(2) else 0
     return (major, minor)
 
-def format_patch_summary(version: str, date: Optional[str], url: Optional[str], title: Optional[str], sections: Dict[str, List[str]]) -> str:
+def format_patch_summary(version: str, date: Optional[str], url: Optional[str], title: Optional[str], sections: Dict[str, List]) -> str:
     date_part = f" ({date})" if date else ""
     title_part = f" - {title}" if title and title.upper() != "TITLE" else ""
     summary = f"{version}{date_part}{title_part}"
     md = [f"<details>\n  <summary>\n            {summary}\n  </summary>"]
     if url:
         md.append(f"\n  URL: {url}\n")
+
+    def flatten_items(prefix: str, items):
+        for item in items:
+            if isinstance(item, dict):
+                for k, v in item.items():
+                    flatten_items(f"{prefix}: {k}", v)
+            else:
+                md.append(f"     - {prefix}: {item}")
+
     for section, items in sections.items():
         if section.startswith("__"):
             continue
-        for item in items:
-            md.append(f"     - {section}: {item}")
+        flatten_items(section, items)
+
     md.append("</details>\n")
     return "\n".join(md)
+
 
 def load_patches(dir_path: pathlib.Path) -> List[Dict]:
     patches = []
     for file in dir_path.glob("*.json"):
+        if file.name == "template.json":
+            continue  # skip template.json
         try:
             data = json.loads(file.read_text(encoding="utf-8"))
             url = data.get("__url__", None)
@@ -51,6 +63,7 @@ def load_patches(dir_path: pathlib.Path) -> List[Dict]:
         except Exception as e:
             print(f"Warning: failed to load {file}: {e}")
     return patches
+
 
 def extract_versions_from_readme(readme_path: pathlib.Path) -> List[str]:
     if not readme_path.exists():
