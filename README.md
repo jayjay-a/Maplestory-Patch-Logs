@@ -1,6 +1,6 @@
 <details>
   <summary>
-            v261 (Jul 15, 2025) - v.261 MapleStory x DAVE THE DIVER
+            v261 (Jul 15, 2025) - MapleStory x DAVE THE DIVER
   </summary>
 
   URL: https://www.nexon.com/maplestory/news/update/28137/v-261-maple-story-x-dave-the-diver-patch-notes
@@ -41,8 +41,6 @@
      - Other Events: Luxe Sauna
      - Other Events: Sunny Sunday
 </details>
-
-
 
 <details>
   <summary>
@@ -113,7 +111,7 @@
      - Other Events: Luxe Sauna
      - Other Events: Hit the Road
      - Other Events: Miracle Time
-     - Other Events: Sunny Sunday
+     - Other Events: Sunny Sunday (Shining Star Force Time)
      - Other Events: Steam Community Market (BETA) Refund Process
 </details>
 
