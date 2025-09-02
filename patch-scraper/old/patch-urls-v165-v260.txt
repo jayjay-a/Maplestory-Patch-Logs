@@ -1,4 +1,6 @@
 # Put patch URLs here, 1 per line
+https://www.nexon.com/maplestory/news/update/29874/updated-8-27-v-262-midnight-carnival-mu-lung-patch-notes
+https://www.nexon.com/maplestory/news/update/28137/updated-8-26-v-261-maple-story-x-dave-the-diver-patch-notes
 https://www.nexon.com/maplestory/news/update/27513/v-260-stargazer-patch-notes
 https://www.nexon.com/maplestory/news/update/26290/v-259-victoria-cup-20th-anniversary-patch-notes
 https://www.nexon.com/maplestory/news/update/23927/updated-3-19-v-258-maple-story-x-demon-slayer-kimetsu-no-yaiba-patch-notes
