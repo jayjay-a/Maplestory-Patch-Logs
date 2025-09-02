@@ -1,9 +1,47 @@
 <details>
   <summary>
+            v262 (Aug 26, 2025) - Midnight Carnival: Mu Lung
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/29874/updated-8-27-v-262-midnight-carnival-mu-lung-patch-notes
+
+     - New Updates: Legion Champion
+     - New Updates: Champion Raid: Draco Isle
+     - New Updates: NA Interactive World Merge: World Merge Event
+     - New Updates: Cross World Auction House Changes
+     - Night Troupe Events: Mu Lung Garden
+     - Night Troupe Events: Festival Decorating and Designer Rank
+     - Night Troupe Events: Night Troupe Sage Tickets
+     - Night Troupe Events: Lantern Bright with Wishes
+     - Night Troupe Events: Mysterious Decoction
+     - Night Troupe Events: Do Gong’s Mystic Bond
+     - Night Troupe Events: Moonlit Mu Lung Dojo
+     - Night Troupe Events: Herb Town Boat Bash
+     - Night Troupe Events: No Gong’s Acuity Training
+     - Night Troupe Events: Mysterious Fortune Sticks
+     - Champion Burning Events: Champion Double Up
+     - Champion Burning Events: Champion Double Up Coin Shop
+     - DAVE THE DIVER Events: Save the Diver!
+     - DAVE THE DIVER Events: Blue Hole Exploration
+     - DAVE THE DIVER Events: Bancho Sushi
+     - DAVE THE DIVER Events: Token Shop
+     - Burning Events: Item Burning
+     - Burning Events: Challenger World
+     - Other Events: Tinkerer's Chest (Interactive and Challenger-Interactive Worlds)
+     - Other Events: Hyperion World Leap
+     - Other Events: Sunny Sunday
+     - Bug Fixes: Job Bug Fixes
+     - Bug Fixes: UI Bug Fixes
+     - Bug Fixes: Item Bug Fixes
+     - Bug Fixes: Map/Quest/Mob Bug Fixes
+</details>
+
+<details>
+  <summary>
             v261 (Jul 15, 2025) - MapleStory x DAVE THE DIVER
   </summary>
 
-  URL: https://www.nexon.com/maplestory/news/update/28137/v-261-maple-story-x-dave-the-diver-patch-notes
+  URL: https://www.nexon.com/maplestory/news/update/28137/updated-8-26-v-261-maple-story-x-dave-the-diver-patch-notes
 
      - New Updates: New Mastery Nodes
      - New Updates: Skill Improvements and Changes
@@ -36,6 +74,7 @@
      - Other Events: Tinkerer's Chest (Interactive and Challenger-Interactive Worlds)
      - Other Events: [Victoria Cup] The Legends Return! Ranking Reward
      - Other Events: Extended Ursus Golden Time (EU Challenger-World)
+     - Other Events: Wish Upon a Shooting Star
      - Other Events: Hyperion World Leap
      - Other Events: Summer's Guide
      - Other Events: Luxe Sauna
