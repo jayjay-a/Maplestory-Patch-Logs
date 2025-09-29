@@ -1,5 +1,59 @@
 <details>
   <summary>
+            v263 (Sep 23, 2025) - Carcion Octo Fest
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/31006/updated-9-23-v-263-carcion-octo-fest-patch-notes
+
+     - New Content: New Boss: Baldrix
+     - New Content: Charge! Apostle’s Arena
+     - New Content: Destiny Weapon
+     - New Updates: HEXA Stat Node III
+     - New Updates: Maple Value Points (MVP) Revamp
+     - New Updates: Skill Revamp: Common Skills
+     - New Updates: Skill Revamp: Job Skills
+     - New Updates: UI Improvements and Changes: Login Process UI Revamp
+     - New Updates: UI Improvements and Changes: Main In-Game UI
+     - New Updates: UI Improvements and Changes: Equipment Inventory UI
+     - New Updates: UI Improvements and Changes: Decoration Inventory UI
+     - New Updates: UI Improvements and Changes: Inventory UI
+     - New Updates: UI Improvements and Changes: Enhancement UI Revamp
+     - New Updates: UI Improvements and Changes: Quick Move & Dimensional Mirror UI
+     - New Updates: UI Improvements and Changes: Tooltip UI Revamp
+     - New Updates: UI Improvements and Changes: Custom Key Bindings UI
+     - New Updates: UI Improvements and Changes: Notification System UI
+     - New Updates: UI Improvements and Changes: Cash Shop UI Revamp
+     - New Updates: UI Improvements and Changes: Common UI Improvements
+     - New Updates: UI Improvements and Changes: UI Bug Fixes
+     - New Updates: Quest/Story Improvements and Changes: Grand Athenaeum Story Addition
+     - New Updates: Quest/Story Improvements and Changes: Quest Improvements
+     - New Updates: Quest/Story Improvements and Changes: Quest Bug Fixes
+     - New Updates: Boss/Mob Improvements and Changes: Boss Reward Improvements
+     - New Updates: Boss/Mob Improvements and Changes: Boss Patterns Improvements
+     - New Updates: Map/NPC Improvements and Changes: Grandis World Map
+     - New Updates: Item Improvements and Changes
+     - New Updates: Auction House Improvements and Changes
+     - New Updates: Inactive Character Clean-Up Process
+     - Strange Tides Events: Strange Tides
+     - Strange Tides Events: Carcion Octo Fest
+     - Strange Tides Events: Great Octopus Buffet
+     - Strange Tides Events: Raise a Golden Octopus
+     - Strange Tides Events: Coral Coin Shop
+     - Strange Tides Events: Meso Shop
+     - Champion Burning Events: Champion Double Up
+     - Champion Burning Events: Champion Double Up Coin Shop
+     - Champion Burning Events: Champion Challenge
+     - Champion Burning Events: Champion Challenge Coin Shop
+     - Other Events: Cash Shop Transfer
+     - Other Events: Challenger World End of Leap
+     - Other Events: Luxe Sauna
+     - Other Events: Haunted Mansion
+     - Other Events: Winter Countdown
+     - Other Events: Sunny Sunday
+</details>
+
+<details>
+  <summary>
             v262 (Aug 26, 2025) - Midnight Carnival: Mu Lung
   </summary>
 
