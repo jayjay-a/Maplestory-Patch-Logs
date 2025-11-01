@@ -49,7 +49,7 @@
      - Other Events: Luxe Sauna
      - Other Events: Haunted Mansion
      - Other Events: Winter Countdown
-     - Other Events: Sunny Sunday (Shining Star Force Time)
+     - Other Events: Sunny Sunday
 </details>
 
 <details>
@@ -83,7 +83,7 @@
      - Burning Events: Challenger World
      - Other Events: Tinkerer's Chest (Interactive and Challenger-Interactive Worlds)
      - Other Events: Hyperion World Leap
-     - Other Events: Sunny Sunday
+     - Other Events: Sunny Sunday (Shining Star Force Time)
      - Bug Fixes: Job Bug Fixes
      - Bug Fixes: UI Bug Fixes
      - Bug Fixes: Item Bug Fixes
