@@ -83,7 +83,7 @@
      - Burning Events: Challenger World
      - Other Events: Tinkerer's Chest (Interactive and Challenger-Interactive Worlds)
      - Other Events: Hyperion World Leap
-     - Other Events: Sunny Sunday
+     - Other Events: Sunny Sunday (Shining Star Force Time)
      - Bug Fixes: Job Bug Fixes
      - Bug Fixes: UI Bug Fixes
      - Bug Fixes: Item Bug Fixes
@@ -355,7 +355,7 @@
      - Other Events: Frenzy of the Source
      - Other Events: New Name Auction
      - Other Events: The Dark Ride: Ride or Die
-     - Other Events: Sunny Sunday (2x Shining Star Force Time)
+     - Other Events: Sunny Sunday (Shining Star Force Time)
      - Other Events: Spell Trace Fever Time
      - Other Events: Miracle Time
      - Bug Fixes: Bug Fixes
@@ -583,7 +583,7 @@
      - GO WEST! Events: [GO WEST!] MapleStory 7,000 Days
      - GO WEST! Events: [GO WEST!] Spell Trace Fever Time
      - Other Events: The [Comeback! Battleground Idol!] Event
-     - Other Events: Sunny Sunday
+     - Other Events: Sunny Sunday (Shining Star Force Time)
      - Other Events: Miracle Time
      - Bug Fixes & Known Issues: Bug Fixes
      - Bug Fixes & Known Issues: Known Issues
