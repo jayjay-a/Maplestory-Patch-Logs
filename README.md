@@ -1,5 +1,97 @@
 <details>
   <summary>
+            v264 (Nov 11, 2025) - Every Little Thing Every Precious Thing
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/32522/updated-11-14-v-264-every-little-thing-every-precious-thing-patch-notes
+
+     - New Content: New Job: Ren: Equipment
+     - New Content: New Job: Ren: Skills
+     - New Content: New Area: Vallora
+     - New Content: Wanderer’s Travelogue
+     - New Content: Tracks of the Wanderer
+     - New Content: Get a Sayaroid
+     - New Updates: Star Force Revamp
+     - New Updates: Trace Restoration System
+     - New Updates: Star Force Research
+     - New Updates: Arthur’s Equipment Rental
+     - New Updates: Genesis Pass
+     - New Updates: Frontier Pass
+     - New Updates: Special Skill Ring Swap
+     - New Updates: Buff Sequence System
+     - New Updates: Familiar Revamp
+     - New Updates: Field Content Revamp: Treasure Hunter
+     - New Updates: Field Content Revamp: Rune of Blessing
+     - New Updates: Field Content Revamp: Instanced Maps
+     - New Updates: Field Content Revamp: Bounty Hunter Content Removal
+     - New Updates: Hyper Stats Fee Removal
+     - New Updates: Weekly Reset Unification
+     - New Updates: Monster Park Improvements
+     - New Updates: Profession Improvements
+     - New Updates: Cash Shop Improvements
+     - New Updates: Skill Changes and Bug Fixes: Common Skill Changes
+     - New Updates: Skill Changes and Bug Fixes: Job Skill Changes
+     - New Updates: Skill Changes and Bug Fixes: Link Skill Changes
+     - New Updates: UI Changes and Bug Fixes: Invincibility Indicator Effect
+     - New Updates: UI Changes and Bug Fixes: Event List UI
+     - New Updates: UI Changes and Bug Fixes: Auction House Relist UI
+     - New Updates: UI Changes and Bug Fixes: Storage UI
+     - New Updates: UI Changes and Bug Fixes: Boss Reward UI
+     - New Updates: UI Changes and Bug Fixes: Beauty Salon Update
+     - New Updates: UI Changes and Bug Fixes: Common UIs
+     - New Updates: Quest/Story Changes and Bug Fixes: Sol Erda Quest Changes
+     - New Updates: Quest/Story Changes and Bug Fixes: Job Story Quest Skip
+     - New Updates: Quest/Story Changes and Bug Fixes: Arcane River and Grandis Story Quest Skip
+     - New Updates: Quest/Story Changes and Bug Fixes: Commerci Story Quest Skip
+     - New Updates: Quest/Story Changes and Bug Fixes: Express Pass Improvements
+     - New Updates: Quest/Story Changes and Bug Fixes: Grand Athenaeum Update
+     - New Updates: Quest/Story Changes and Bug Fixes: Haven Weekly Quest Changes
+     - New Updates: Quest/Story Changes and Bug Fixes: Common Quests
+     - New Updates: Boss/Mob Changes and Bug Fixes: Boss Preparation Map and Skill Cooldown Reset Feature
+     - New Updates: Boss/Mob Changes and Bug Fixes: Black Mage Entry Revamp
+     - New Updates: Boss/Mob Changes and Bug Fixes: Princess No Revamp
+     - New Updates: Boss/Mob Changes and Bug Fixes: Sharenian Culvert - Arcanus Changes
+     - New Updates: Boss/Mob Changes and Bug Fixes: Boss Reward Party Distribution System (Heroic Worlds)
+     - New Updates: Boss/Mob Changes and Bug Fixes: Boss Changes and Bug Fixes
+     - New Updates: Map Changes and Bug Fixes: Mushroom Shrine Improvements
+     - New Updates: Map Changes and Bug Fixes: Common Maps
+     - New Updates: Item Changes and Bug Fixes: Cernium Sacred Power Buff
+     - New Updates: Item Changes and Bug Fixes: Collector’s Elixir
+     - New Updates: Item Changes and Bug Fixes: Symbol 'Enhance All' Feature
+     - New Updates: Item Changes and Bug Fixes: Daily Gift Update
+     - New Updates: Item Changes and Bug Fixes: Nodestone Tradability Changes
+     - New Updates: Item Changes and Bug Fixes: AbsoLab/Arcane Umbra Equipment Tradability Update
+     - New Updates: Item Changes and Bug Fixes: Bag Quantity Limit Changes
+     - New Updates: Item Changes and Bug Fixes: MVP Reward Update
+     - New Updates: Item Changes and Bug Fixes: Common Items
+     - New Updates: Lie Detector Notice
+     - Twilight Eve Events: Twilight Eve
+     - Twilight Eve Events: Waking the Power of Time
+     - Twilight Eve Events: Evernia’s Bounty
+     - Twilight Eve Events: Evernium Exchange
+     - Twilight Eve Events: Seeking Traces of Time
+     - Twilight Eve Events: Bloom’s Herb Baskets
+     - Twilight Eve Events: Eternal Gilded Clockwork
+     - Twilight Eve Events: Lepa's Dashing Carriage
+     - Twilight Eve Events: Eve Anticipation
+     - Twilight Eve Events: Meso Shop
+     - Challenger World Events: Challenger World: Challenger World Shop
+     - Challenger World Events: Challenger Pass
+     - Challenger World Events: Arcane Seal
+     - Burning Events: Tera Blink
+     - Burning Events: Hyper Burning MAX
+     - Burning Events: Beyond Burning
+     - Burning Events: Item Burning
+     - Other Events: Character Creation Guide
+     - Other Events: Tutorial Missions
+     - Other Events: Winter Countdown
+     - Other Events: Luxe Sauna
+     - Other Events: Sunny Sunday
+</details>
+
+
+<details>
+  <summary>
             v263 (Sep 23, 2025) - Carcion Octo Fest
   </summary>
 
