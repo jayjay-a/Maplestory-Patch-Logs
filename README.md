@@ -1,5 +1,93 @@
 <details>
   <summary>
+            v266 (Feb 2, 2026) - The Sengoku Warrior Reawakening
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/35483/v-266-the-sengoku-warrior-reawakening-patch-notes
+
+     - New Updates: Ascent Skills
+     - New Updates: 4th Legion Champion Slot Unlocked
+     - New Updates: Changes and Bug Fixes: Familiar
+     - New Updates: Changes and Bug Fixes: Boss
+     - Sengoku Warrior Revamp: Kanna Revamp
+     - Sengoku Warrior Revamp: Hayato Revamp
+     - Sengoku Warrior Revamp: Princess Sakuno’s Support
+     - New Leaf Mall Events: Mart Management Log: NLM Coin Shop
+     - New Leaf Mall Events: New Leaf Mall Food Court
+     - New Leaf Mall Events: Cindy’s Special Helper
+     - New Leaf Mall Events: Victoria Adventure
+     - New Leaf Mall Events: Mall Duo
+     - New Leaf Mall Events: New Leaf Mall Guardians: NLM Token Shop
+     - New Leaf Mall Events: NLM Stamp Shop
+     - New Leaf Mall Events: NLM Meso Shop
+     - Challenger World Events: Challenger World: Challenger World Leap
+     - Challenger World Events: Challenger World: Challenger World Shop
+     - Challenger World Events: Arcane Seal
+     - Burning Events: Tera Blink
+     - Burning Events: Beyond Burning
+     - Other Events: Genesis Pass
+     - Other Events: Frontier Pass
+     - Other Events: Luxe Sauna
+     - Other Events: Sunny Sunday
+</details>
+
+<details>
+  <summary>
+            v265 (Dec 16, 2025) - Every Little Thing Every Precious Thing 2nd Update
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/33938/updated-12-17-v-265-every-little-thing-every-precious-thing-2nd-update-patch-notes
+
+     - New Content: Ascent Skills: Explorer
+     - New Content: Ascent Skills: Cygnus Knights
+     - New Content: Ascent Skills: Heroes
+     - New Content: Ascent Skills: Resistance
+     - New Content: Ascent Skills: Nova
+     - New Content: Ascent Skills: Flora
+     - New Content: Ascent Skills: Anima
+     - New Content: Ascent Skills: Other
+     - New Content: Mystic Frontier
+     - New Content: New Boss: The First Adversary
+     - New Content: Undying Purpose
+     - New Updates: Trace Restoration System Improvements
+     - New Updates: Cash Shop Improvements
+     - New Updates: Changes and Bug Fixes: Boss Reward
+     - New Updates: Changes and Bug Fixes: UI
+     - New Updates: Windows 11 Efficiency Mode
+     - Ride or Die Events: Ride or Die: Boss Difficulty and Challenges
+     - Ride or Die Events: Ride or Die: Ride or Die Rewards
+     - Ride or Die Events: Ride or Die Coin Shop
+     - Maplemas Events: [Home] Maplemas
+     - Maplemas Events: Maplemas Meso Shop
+     - Twilight Eve Events: Twilight Eve
+     - Twilight Eve Events: Shining Oasis and Sosori's Stroll
+     - Twilight Eve Events: Evernian Trade King
+     - Twilight Eve Events: Evernia in Bloom
+     - Twilight Eve Events: Waking the Power of Time
+     - Twilight Eve Events: Evernia’s Bounty
+     - Twilight Eve Events: Evernium Exchange
+     - Twilight Eve Events: Seeking Traces of Time
+     - Twilight Eve Events: Bloom’s Herb Baskets
+     - Challenger World Events: Challenger World: Challenger World Leap
+     - Challenger World Events: Challenger World: Challenger World Shop
+     - Challenger World Events: Challenger Pass
+     - Challenger World Events: Arcane Seal
+     - Burning Events: Tera Blink
+     - Burning Events: Hyper Burning MAX
+     - Burning Events: Beyond Burning
+     - Burning Events: Item Burning
+     - Other Events: Twenteena's Adventure Day
+     - Other Events: Miracle Time
+     - Other Events: Genesis Pass
+     - Other Events: Frontier Pass
+     - Other Events: Character Creation Guide
+     - Other Events: Tutorial Missions
+     - Other Events: Luxe Sauna
+     - Other Events: Sunny Sunday
+</details>
+
+<details>
+  <summary>
             v264 (Nov 11, 2025) - Every Little Thing Every Precious Thing
   </summary>
 
@@ -88,7 +176,6 @@
      - Other Events: Luxe Sauna
      - Other Events: Sunny Sunday
 </details>
-
 
 <details>
   <summary>
