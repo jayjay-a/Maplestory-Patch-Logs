@@ -1,5 +1,212 @@
 <details>
   <summary>
+            v270 (Jul 21, 2026) - Ride the Lightning
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/42415/v-270-ride-the-lightning-patch-notes
+
+     - New Content: New Boss: Jupiter: [Defeat Boss Event] God Devourer
+     - New Content: New Area: Geardock
+     - New Content: Astra Secondary Weapon
+     - New Updates: Destiny 2nd Transcendence Weapon
+     - New Updates: Weekly Portrait Commission Ticket Sale
+     - New Updates: Brazil Digital ECA Update: Social Feature Block
+     - Kinesis Redux: Kinesis
+     - Kinesis Redux: Kinetic
+     - Ride Or Die Events: Ride or Die
+     - Ride Or Die Events: Coin Shop
+     - Mystic Frontier Events: Mystic Frontier Champions
+     - Mystic Frontier Events: Familiar Adventure
+     - Operation: Dive Events: Operation: Dive
+     - Operation: Dive Events: Operation: Dive Dungeon
+     - Operation: Dive Events: Record Shop
+     - Night Of Phantasms Events: Fantasia Finale
+     - Night Of Phantasms Events: Raising Ellanos
+     - Night Of Phantasms Events: Tallahart Fantasia
+     - Night Of Phantasms Events: Phantasmal Echoes
+     - Night Of Phantasms Events: Phantasmal Echoes Record Hall
+     - Night Of Phantasms Events: Illusion Coin Shop
+     - Night Of Phantasms Events: Meso Shop
+     - Challenger World Events: Challenger World
+     - Challenger World Events: Challenger World Leap
+     - Challenger World Events: Challenger World Shop
+     - Challenger World Events: Challenger EXP Duo
+     - Challenger World Events: Challenger Partners
+     - Challenger World Events: Challenger Pass
+     - Challenger World Events: Arcane Seal
+     - Burning Events: Beyond Hasty Hunting
+     - Burning Events: Hyper Burning MAX
+     - Burning Events: Beyond Burning
+     - Burning Events: Item Burning Plus
+     - Burning Events: Burning Express
+     - Other Events: Lightning Charge
+     - Other Events: Frontier Pass
+     - Other Events: Miracle Time
+     - Other Events: [Defeat Boss Event] Kai Clear Event: Kai Clear Mission Rewards
+     - Other Events: [Defeat Boss Event] Malefic Star Additional Rewards
+     - Other Events: SHINE: The Power of Starlight
+     - Other Events: Arthur's Equipment Rental
+     - Other Events: Jump-Start Tutorial
+     - Other Events: Mechaberry Farm
+     - Other Events: Genesis Pass
+     - Other Events: Momentum Pass
+     - Other Events: Luxe Sauna
+     - Other Events: Sunny Sunday
+     - Bug Fixes and Changes: Bug Fixes
+     - Bug Fixes and Changes: General Changes
+</details>
+
+<details>
+  <summary>
+            v269 (Jun 16, 2026) - Ride the Lightning
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/41138/v-269-ride-the-lightning-patch-notes
+
+     - New Content: New Job: Erel Light: SHINE: The Power of Starlight
+     - New Content: New Boss: Malefic Star: Siren’s Song
+     - New Content: [Challenger World] New Boss: Kai: [Defeat Boss Event] Kai Clear Event
+     - New Updates: HEXA Skill: Common Node Sol Hecate
+     - New Updates: V Matrix Revamp
+     - New Updates: Star Force Enhancement Mode
+     - New Updates: Soul Collection
+     - New Updates: Familiar Changes
+     - New Updates: Voice Chat
+     - New Updates: Discord Connect
+     - New Updates: Custom Portrait
+     - New Updates: Skill Changes and Bug Fixes: Job Skills
+     - New Updates: Skill Changes and Bug Fixes: General Skills
+     - New Updates: Skill Changes and Bug Fixes: Link Skill Changes
+     - New Updates: Boss/Mob Changes and Bug Fixes
+     - New Updates: Guild Changes and Bug Fixes
+     - New Updates: Map/NPC Changes and Bug Fixes
+     - New Updates: Item Changes and Bug Fixes
+     - New Updates: UI Changes and Bug Fixes
+     - New Updates: Quest/Story Changes and Bug Fixes
+     - New Updates: Rates Changes
+     - New Updates: Content Changes
+     - Operation: Dive Events: Operation: Dive
+     - Operation: Dive Events: Record Shop
+     - Night of Phantasms Events: Raising Ellanos
+     - Night of Phantasms Events: Tallahart Fantasia
+     - Night of Phantasms Events: Phantasmal Echoes
+     - Night of Phantasms Events: Phantasmal Echoes Record Hall
+     - Night of Phantasms Events: Illusion Coin Shop
+     - Night of Phantasms Events: Meso Shop
+     - Challenger World Events: Challenger World
+     - Challenger World Events: Challenger World Shop
+     - Challenger World Events: Challenger EXP Duo
+     - Challenger World Events: Challenger Partners
+     - Challenger World Events: Challenger Pass
+     - Challenger World Events: Arcane Seal
+     - Burning Events: Hyper Burning MAX
+     - Burning Events: Beyond Burning
+     - Burning Events: Item Burning Plus
+     - Burning Events: Burning Express
+     - Other Events: Arthur’s Equipment Rental
+     - Other Events: Jump-Start Tutorial
+     - Other Events: Mechaberry Farm
+     - Other Events: Prolific Portraitist
+     - Other Events: Chroma Essence
+     - Other Events: Genesis Pass
+     - Other Events: Momentum Pass
+     - Other Events: Luxe Sauna
+     - Other Events: Miracle Time
+     - Other Events: Sunny Sunday
+</details>
+
+<details>
+  <summary>
+            v268 (Apr 21, 2026) - Maple University: 21st Anniversary
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/39235/v-268-maple-university-21st-anniversary-patch-notes
+
+     - New Updates: Quest Changes and Bug Fixes
+     - New Updates: Accented Characters Disabled
+     - New Updates: Brazil Digital ECA Update
+     - New Updates: MacOS Shortcut Guide Popup
+     - Maple University Events: Campus Life: Basic Lectures
+     - Maple University Events: Campus Life: Special Lectures
+     - Maple University Events: My Maple U Student ID
+     - Maple University Events: Rowdy Campus Life/Glorious Graduation
+     - Maple University Events: Club Fair
+     - Maple University Events: Pink Bean’s Maple Campus Tour
+     - Maple University Events: Monster Election
+     - Maple University Events: Rock Spirit Enrollment
+     - Maple University Events: Academic Capture?!
+     - Maple University Events: Yeti’s Day
+     - Maple University Events: Campus Maple Leaves Aloft
+     - Maple University Events: Campus Point Shop
+     - Maple University Events: Meso Shop
+     - Other Events: Challenger World Leap
+     - Other Events: Goddess’s Blessing Pass Season 2
+     - Other Events: Goddess’s Blessing Pass Season 3
+     - Other Events: Hasty Hunting MAX
+     - Other Events: Rock Star Rock Spirit
+     - Other Events: Punch King
+     - Other Events: Dimensional Tower
+     - Other Events: Summer Countdown
+     - Other Events: Cash Shop Transfer
+     - Other Events: Luxe Sauna
+     - Other Events: Sunny Sunday
+</details>
+
+<details>
+  <summary>
+            v267 (Mar 17, 2026) - MapleStory x One-Punch Man
+  </summary>
+
+  URL: https://www.nexon.com/maplestory/news/update/36809/v-267-maple-story-x-one-punch-man-patch-notes
+
+     - New Updates: Epic Dungeon: Nightmare Paradise
+     - New Updates: World Archive
+     - New Updates: Monster Collection Expansion
+     - New Updates: Fog Forest Training Grounds Changes
+     - New Updates: Potential Stamp Removal
+     - New Updates: Auction House Changes and Bug Fixes
+     - New Updates: Skill Changes and Bug Fixes: Job Skills
+     - New Updates: Skill Changes and Bug Fixes: General Skills
+     - New Updates: UI Changes and Bug Fixes: Enhance UI
+     - New Updates: UI Changes and Bug Fixes: Friend and Party UI
+     - New Updates: UI Changes and Bug Fixes: Event List UI
+     - New Updates: UI Changes and Bug Fixes: Event In-Game Guide
+     - New Updates: UI Changes and Bug Fixes: General UI
+     - New Updates: Quest/Story Changes and Bug Fixes: Resistance Quests
+     - New Updates: Quest/Story Changes and Bug Fixes: Sia Astelle Quests
+     - New Updates: Quest/Story Changes and Bug Fixes: General Quest/Story
+     - New Updates: Boss/Mob Changes and Bug Fixes
+     - New Updates: Map/NPC Changes and Bug Fixes
+     - New Updates: Item Changes and Bug Fixes
+     - Wild Hunter Revamp: Wild Hunter
+     - Wild Hunter Revamp: [Redux Event] Savage
+     - Wild Hunter Revamp: Wild Hunter Redux Celebratory Gift
+     - One-Punch Man Events: Limited-Time Job: Play as Saitama
+     - One-Punch Man Events: Hero's Adventure Journal
+     - One-Punch Man Events: Monster Park Mayhem!
+     - One-Punch Man Events: Virtual Combat System
+     - One-Punch Man Events: Centichoro Punch King
+     - One-Punch Man Events: Heroes Appear
+     - One-Punch Man Events: Hero Coin Shop
+     - One-Punch Man Events: Centichoro Punch King Coin Shop
+     - One-Punch Man Events: Meso Shop
+     - One-Punch Man Events: Slime Meso Shop
+     - Burning Events: Item Burning
+     - Burning Events: Tera Blink
+     - Challenger World Events: Challenger World
+     - Challenger World Events: Challenger World Leap
+     - Challenger World Events: Challenger World Shop
+     - Other Events: Goddess’s Blessing Pass
+     - Other Events: Genesis Pass
+     - Other Events: Frontier Pass
+     - Other Events: Luxe Sauna
+     - Other Events: Sunny Sunday
+</details>
+
+
+
+<details>
+  <summary>
             v266 (Feb 2, 2026) - The Sengoku Warrior Reawakening
   </summary>
 
