@@ -1,12 +1,15 @@
 #!/usr/bin/env python3
 """
-patch-scraper.py – scrape MapleStory patch-note pages (modern layout).
-
+patch-scraper.py – scrape MapleStory patch-note pages (current Nexon layout).
 • If no URL is given, reads URLs from patch-urls.txt.
 • Outputs JSON into patch-jsons/v###.json with __url__, __date__, __title__.
 """
 
-import argparse, json, re, time, pathlib
+import argparse
+import json
+import pathlib
+import re
+import time
 from typing import Dict, List
 from bs4 import BeautifulSoup
 from selenium import webdriver
@@ -14,6 +17,8 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from bs4.element import Tag
+from typing import Union
 
 # ───────────────────── HTML fetch ─────────────────────
 def fetch_rendered_html(url: str, timeout: int = 30) -> BeautifulSoup:
@@ -21,23 +26,28 @@ def fetch_rendered_html(url: str, timeout: int = 30) -> BeautifulSoup:
     opts.add_argument("--headless=new")
     opts.add_argument("--disable-gpu")
     opts.add_argument("--no-sandbox")
+    opts.add_experimental_option("excludeSwitches", ["enable-logging"])
+    opts.add_argument("--log-level=3")
+
     driver = webdriver.Chrome(options=opts)
-    driver.get(url)
 
     try:
+        driver.get(url)
+
         WebDriverWait(driver, timeout).until(
             EC.presence_of_element_located((By.TAG_NAME, "body"))
         )
-        time.sleep(5)
-    except Exception:
-        print("⚠ Timeout: <body> did not appear in time.")
-        html = driver.page_source
-        driver.quit()
-        return BeautifulSoup(html, "lxml")
 
-    html = driver.page_source
-    driver.quit()
-    return BeautifulSoup(html, "lxml")
+        time.sleep(5)
+
+        return BeautifulSoup(driver.page_source, "lxml")
+
+    except Exception:
+        print("⚠ Timeout/error loading page")
+        return BeautifulSoup(driver.page_source, "lxml")
+
+    finally:
+        driver.quit()
 
 
 # ───────────────────── navigation UL ───────────────────
@@ -76,7 +86,7 @@ def parse_modern_nav(soup: BeautifulSoup) -> dict:
     return sections
 
 
-def parse_nav_items(ul_tag):
+def parse_nav_items(ul_tag: Tag) -> List[Union[str, dict]]:
     """
     Recursively parse <ul> of TOC items into list.
     Each <li> can be:
@@ -120,7 +130,11 @@ def extract_date(soup: BeautifulSoup) -> str:
     div = soup.select_one(".news-detail__live-date")
     if div:
         return div.get_text(strip=True)
-    # fallback: nothing
+
+    meta = soup.find("meta", property="article:published_time")
+    if meta:
+        return meta.get("content", "")
+
     return ""
 
 def extract_title(soup: BeautifulSoup) -> str:
@@ -151,9 +165,22 @@ def parse_page(soup: BeautifulSoup) -> Dict[str, List[str]]:
 
 
 # ───────────────────── main scrape ─────────────────────
-def scrape(url: str, out_dir: pathlib.Path, overwrite: bool):
+def scrape(url: str, out_dir: pathlib.Path, overwrite: bool, debug: bool):
     try:
         soup = fetch_rendered_html(url)
+
+        if debug:
+            debug_dir = pathlib.Path("debug")
+            debug_dir.mkdir(exist_ok=True)
+
+            debug_file = debug_dir / f"{extract_version(soup, url)}.html"
+            debug_file.write_text(
+                str(soup),
+                encoding="utf-8"
+            )
+
+            print(f"✓ Saved {debug_file}")
+
         body = parse_page(soup)
         version = extract_version(soup, url)
         date = extract_date(soup)
@@ -168,9 +195,14 @@ def scrape(url: str, out_dir: pathlib.Path, overwrite: bool):
             print(f"⚠  {out_file.name} exists – skip (use --overwrite)")
             return
         out_file.write_text(json.dumps(data, indent=2, ensure_ascii=False), encoding="utf-8")
-        print(f"✓  {url}  →  {out_file}")
+        print(
+          f"✓ {version} | "
+          f"{title} | "
+          f"{len(body)} sections → {out_file}"
+        )
     except Exception as e:
-        print(f"✗  {url}  :: {e}")
+        print(f"✗ {url}")
+        print(f"  Error: {e}")
 
 # ───────────────────── CLI ────────────────────────
 def load_urls(path: pathlib.Path) -> List[str]:
@@ -183,6 +215,7 @@ def main():
     ap.add_argument("--url-file", default="patch-urls.txt")
     ap.add_argument("--out-dir", default="patch-jsons")
     ap.add_argument("--overwrite", action="store_true")
+    ap.add_argument("--debug", action="store_true")
     args = ap.parse_args()
 
     urls = [args.url] if args.url else load_urls(pathlib.Path(args.url_file))
@@ -192,7 +225,7 @@ def main():
 
     out_dir = pathlib.Path(args.out_dir)
     for u in urls:
-        scrape(u, out_dir, args.overwrite)
+        scrape(u, out_dir, args.overwrite, args.debug)
 
 if __name__ == "__main__":
     main()
