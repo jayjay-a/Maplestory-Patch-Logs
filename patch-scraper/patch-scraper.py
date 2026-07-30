@@ -42,27 +42,37 @@ def fetch_rendered_html(url: str, timeout: int = 30) -> BeautifulSoup:
 
 # ───────────────────── navigation UL ───────────────────
 def parse_modern_nav(soup: BeautifulSoup) -> dict:
-    # Find the top-level TOC <ul> (assuming you already have the right <ul>)
-    ul = soup.find("ul")
+    toc = soup.find(
+        lambda tag: tag.name in ["h1", "h2", "h3"]
+        and "TABLE OF CONTENTS" in tag.get_text(strip=True).upper()
+    )
+
+    if toc:
+        ul = toc.find_next("ul")
+    else:
+        ul = soup.find("ul")
+
     if not ul:
         return {}
 
     sections = {}
 
     for li in ul.find_all("li", recursive=False):
-        # Section title is inside span > strong
         span = li.find("span", recursive=False)
+
         if span:
             strong = span.find("strong", recursive=False)
-            if strong:
-                section_title = strong.get_text(strip=True)
-                sections[section_title] = []
+        else:
+            strong = li.find("strong", recursive=False)
 
-                # The nested <ul> with the actual links/items
-                nested_ul = li.find("ul", recursive=False)
-                if nested_ul:
-                    # Parse nested <li> items recursively
-                    sections[section_title] = parse_nav_items(nested_ul)
+        if strong:
+            section_title = strong.get_text(strip=True)
+            sections[section_title] = []
+
+            nested_ul = li.find("ul", recursive=False)
+            if nested_ul:
+                sections[section_title] = parse_nav_items(nested_ul)
+
     return sections
 
 
@@ -130,7 +140,13 @@ def extract_title(soup: BeautifulSoup) -> str:
 
 # ───────────────────── page parser ─────────────────────
 def parse_page(soup: BeautifulSoup) -> Dict[str, List[str]]:
-    content = soup.select_one(".fr-view") or soup.select_one(".news-detail__content") or soup
+    content = (
+        soup.select_one(".fr-view")
+        or soup.select_one(".news-detail__content")
+        or soup.select_one(".cms-html-wrapper")
+        or soup
+    )
+
     return parse_modern_nav(content) or {}
 
 
